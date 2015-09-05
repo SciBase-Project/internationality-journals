@@ -76,10 +76,10 @@ def fetch_all_jornals() :
         data.extend(journal_info(link))
 
     print ""
-    print "[INFO] Writing all data to CSV file "
+    print "[INFO] Writing all output to CSV file "
 
     import csv
-    with open('../data/elsevier.csv', 'w') as csvfile:
+    with open('../output/elsevier.csv', 'w') as csvfile:
         fields = ['title', 'link', 'snip', 'sjr', 'impact factor', '5 year impact factor']
         writer = csv.DictWriter(csvfile, fieldnames=fields)
         writer.writeheader()
@@ -88,7 +88,7 @@ def fetch_all_jornals() :
             # normalize title
             d[0] = unicode(d[0]).encode("utf-8")
 
-            # write data
+            # write output
             writer.writerow({fields[0] : d[0], fields[1] : d[1], fields[2] : d[2],
                              fields[3] : d[3], fields[4] : d[4], fields[5] : d[5]})
 
