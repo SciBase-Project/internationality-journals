@@ -145,7 +145,7 @@ def citation_network():
     print "[INFO]  Number of egdes " + str(len(all_edges))
     print "[INFO]  Writing edges file"
 
-    file = open("../output/ieee_citation_network.txt", "w")
+    file = open("../output/ieee_citation_network_edges.txt", "w")
     for edge in all_edges:
         file.write(" ".join(edge))
         file.write('\n')
