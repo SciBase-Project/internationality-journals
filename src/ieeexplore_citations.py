@@ -97,13 +97,13 @@ def citation_network():
 
 
     links = []
-    for row in ws.iter_rows('G39:G1038'):
+    for row in ws.iter_rows('G39:G250'):
         for cell in row:
             links.append(cell.value)
 
 
     import threading
-    num_per_thread = 80
+    num_per_thread = 40
     divide = lambda lst, sz: [lst[i : i + sz] for i in range(0, len(lst), sz)]
     divided_links = divide(links, num_per_thread)
 
