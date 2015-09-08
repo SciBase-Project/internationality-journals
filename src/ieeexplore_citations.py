@@ -1,6 +1,6 @@
 # append paper number to links below to get details
 # for eg : http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6196220
-details_link = 'http://ieeexplore.ieee.org/xpl/abstractSimilar.jsp?arnumber='
+details_link = 'http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber='
 authors_link = 'http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber='
 references_link = 'http://ieeexplore.ieee.org/xpl/abstractReferences.jsp?arnumber='
 citations_link = 'http://ieeexplore.ieee.org/xpl/abstractCitations.jsp?arnumber='
@@ -40,19 +40,20 @@ def get_authors(id):
     except:
         pass
 
-    authors = [normalise_name(x) for x in authors]
-
     # print "[DEBUG] ", authors
     return authors
 
 
 def get_references(id):
     link = references_link + str(id)
-    print "\n[INFO]  Fetching references from link " + str(link)
 
-    main_authors = set(get_authors(id))
+    paper = {}
+    paper['arnumber'] = id
+    paper['authors'] = get_authors(id)
+    paper['citations'] = []
 
-    edges = []
+    print "[DEBUG]  id : " + str(id) + ", authors : ", paper['authors']
+
     try:
         page = urllib2.urlopen(link).read()
         soup = BeautifulSoup(page, 'html.parser')
@@ -63,53 +64,29 @@ def get_references(id):
         for li in lis:
             citation = li.find('a')
             citation_id = get_id(str(citation))
-            cited_authors = set(get_authors(citation_id))
+            citation_authors = get_authors(citation_id)
 
-            common_authors = main_authors.intersection(cited_authors)
+            if citation_id is "" :
+                continue
 
-            if len(common_authors) > 0:
-                print "[CHECK]  Common authors ", common_authors
-                edges.append([id, citation_id, '1'])
-            else:
-                if citation_id is not "":
-                    edges.append([id, citation_id, '0'])
+            paper['citations'].append({'arnumber' : citation_id, 'authors' : citation_authors})
 
     except:
         pass
-
-    return edges
-
-
-def normalise_name(name):
-    # replace all '.' with space
-    name = name.replace(".", " ")
-
-    sub_names = name.split(',')
-
-    # start from second sub name
-    i = 1
-    while i < len(sub_names):
-        s = sub_names[i].strip()
-
-        # fetch all initials
-        res = " ".join(item[0].upper() for item in s.split())
-
-        sub_names[i] = res
-
-        i += 1
-
-    # reverse list
-    sub_names = list(reversed(sub_names))
-    return " ".join(x for x in sub_names)
+    
+    return paper
 
 
-all_edges = []
+all_papers = []
 
 
 def compute_in_parallel(args):
     for arg in args:
-        print "\n[INFO]  Processing " + str(arg)
-        all_edges.extend(get_references(get_id(arg)))
+        # print "\n[INFO]  Processing " + str(arg)
+
+        id = get_id(arg)
+        if id is not "" :
+            all_papers.append( get_references(id) )
 
 
 def citation_network():
@@ -120,13 +97,13 @@ def citation_network():
 
 
     links = []
-    for row in ws.iter_rows('G39:G1005'):
+    for row in ws.iter_rows('G39:G1038'):
         for cell in row:
             links.append(cell.value)
 
 
     import threading
-    num_per_thread = 100
+    num_per_thread = 80
     divide = lambda lst, sz: [lst[i : i + sz] for i in range(0, len(lst), sz)]
     divided_links = divide(links, num_per_thread)
 
@@ -142,16 +119,15 @@ def citation_network():
         t.join()
 
 
-    print "[INFO]  Number of egdes " + str(len(all_edges))
-    print "[INFO]  Writing edges file"
+    print "[INFO]  Number of papers " + str(len(all_papers))
+    print "[INFO]  Writing papers to file"
 
-    file = open("../output/ieee_citation_network_edges.txt", "w")
-    for edge in all_edges:
-        file.write(" ".join(edge))
-        file.write('\n')
+    import json
+    file = open("../output/ieee_citation_network.json", "w")
+    file.write(json.dumps(all_papers, indent=4))
     file.close()
 
-    print "[INFO]  Done Writing edges to file"
+    print "[INFO]  Done Writing papers to file"
 
 
 citation_network()
