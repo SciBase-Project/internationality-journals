@@ -1,8 +1,10 @@
-journals_to_consider = []
-
+'''
+Please put 'aminer_publications.txt' in 'data' folder
+'''
 
 print "[INFO] Processing journals to be considered"
 
+journals_to_consider = []
 file = open("../data/journal_snip.txt")
 for line in file.readlines() :
     line = line.strip()
