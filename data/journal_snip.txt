@@ -1,0 +1,42 @@
+Pattern Recognition : 6075
+Discrete Mathematics : 10978
+European Journal of Operational Research : 7964
+Inf. Sci. : 5065
+Expert Syst. Appl. : 7237
+Inf. Process. Lett. : 6527
+Automatica : 6136
+Applied Mathematics and Computation : 9394
+59,367
+Journal of Approximation Theory : 1167
+Sci. Comput. Program. : 1158
+Artificial Intelligence in Medicine : 1093
+Neural Networks : 2574
+Mathematics and Computers in Simulation : 1751
+Oper. Res. Lett. : 1384
+Computers & Graphics : 2559
+Computers & Chemical Engineering : 2012
+Computers in Human Behavior : 1672
+Computer Methods and Programs in Biomedicine : 1380
+Computers & Mathematics with Applications : 3796
+Procedia CS : 1331
+Computers & Education : 1761
+Neurocomputing : 4525
+Computer Vision and Image Understanding : 1494
+89,024
+Robotics and Autonomous Systems : 1841
+Signal Processing : 3816
+Computers & Geosciences : 1475
+Microelectronics Reliability : 3616
+Parallel Computing : 2283
+Perform. Eval. : 1500
+Artif. Intell. : 2416
+Computer Networks : 3642
+Information and Management : 1045
+Speech Communication : 1837
+Systems & Control Letters : 1058
+Future Generation Comp. Syst. : 1584
+Computers & Security : 1734
+Computer Communications : 4383
+Environmental Modelling and Software : 1463
+Games and Economic Behavior : 1324
+124,041
