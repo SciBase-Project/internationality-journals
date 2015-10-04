@@ -71,6 +71,7 @@ print "[INFO] Finding self citations"
 self_cites = {}
 for ind in papers :
     paper = papers[ind]
+    publication = paper['publication']
     authors = paper['authors']
     for ref in paper['references'] :
         if ref not in papers :
@@ -79,11 +80,13 @@ for ind in papers :
         # get cited paper and authors
         cited_paper = papers[ref]
         cited_authors = cited_paper['authors']
+        cited_publication = cited_paper['publication']
 
         # check if common author exists
         if set(authors) & set(cited_authors) :
-            if ind not in self_cites : self_cites[ind] = []
-            self_cites[ind].append(ref)
+            if publication not in self_cites : self_cites[publication] = {}
+            if ind not in self_cites[publication] : self_cites[publication][ind] = []
+            self_cites[publication][ind].append({"index" : ref, "publication" : cited_publication})
 
 print "[DEBUG] Number of self cited papers ", len(self_cites)
 print "[INFO] Done finding self citations"
