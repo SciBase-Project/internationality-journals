@@ -61,3 +61,6 @@ target/
 
 # Temporary files
 *~
+
+# add aminer_publications.txt because of its size
+data/aminer_publications.txt
