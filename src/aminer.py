@@ -68,6 +68,7 @@ print "[INFO] Done processing papers"
 
 
 print "[INFO] Finding self citations"
+edge_list = []
 self_cites = {}
 for ind in papers :
     paper = papers[ind]
@@ -88,6 +89,22 @@ for ind in papers :
             if ind not in self_cites[publication] : self_cites[publication][ind] = []
             self_cites[publication][ind].append({"index" : ref, "publication" : cited_publication})
 
+            # adding to edge list
+            # type 1 - common authors / 0 - no common authors
+            src = ind
+            dest = ref
+            type = 1
+            edge_list.append( [src, dest, type] )
+
+        else:
+            # adding to edge list
+            # type 1 - common authors / 0 - no common authors
+            src = ind
+            dest = ref
+            type = 0
+            edge_list.append( [src, dest, type] )
+
+
 print "[DEBUG] Number of self cited papers ", len(self_cites)
 print "[INFO] Done finding self citations"
 
@@ -102,3 +119,17 @@ file.close()
 
 print "[INFO] Done writing self cites to file"
 
+
+
+print "[INFO] Writing edge list to file"
+
+import csv
+with open('../output/aminer_edge_list.csv', 'w') as csvfile:
+    fields = ['src', 'dest', 'type']
+    writer = csv.DictWriter(csvfile, fieldnames=fields)
+    writer.writeheader()
+
+    for entry in edge_list :
+        writer.writerow(dict(zip(fields, entry)))
+
+print "[INFO] Done writing edge list to file"
