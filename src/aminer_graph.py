@@ -50,7 +50,7 @@ nx.draw_networkx_nodes(G, pos, node_size=15, node_color='b')
 nx.draw_networkx_edges(G,pos, edgelist=edge_list_1, width=1, edge_color='r')
 
 # draw set of edges from non self cited list
-# nx.draw_networkx_edges(G,pos, edgelist=edge_list_2, width=1, edge_color='g')
+nx.draw_networkx_edges(G,pos, edgelist=edge_list_2, width=1, edge_color='g')
 
 plt.show() # display
 
