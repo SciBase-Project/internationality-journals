@@ -20,8 +20,8 @@ for publication in data :
     from numpy import linalg as LA
     w, v = LA.eig(A)
 
-    print publication
+    print "publication : ", publication
     # eigen values
-    print w
+    print "eigen values : ", w
     # eigen vectors
-    print v
+    print "eigen vectors : ", v
