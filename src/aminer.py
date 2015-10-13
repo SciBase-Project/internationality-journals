@@ -69,7 +69,7 @@ print "[INFO] Done processing papers"
 
 print "[INFO] Finding self citations"
 edge_list = []
-self_cites = {}
+cites = {}
 for ind in papers :
     paper = papers[ind]
     publication = paper['publication']
@@ -85,9 +85,9 @@ for ind in papers :
 
         # check if common author exists
         if set(authors) & set(cited_authors) :
-            if publication not in self_cites : self_cites[publication] = {}
-            if ind not in self_cites[publication] : self_cites[publication][ind] = []
-            self_cites[publication][ind].append({"index" : ref, "publication" : cited_publication})
+            if publication not in cites : cites[publication] = {}
+            if ind not in cites[publication] : cites[publication][ind] = []
+            cites[publication][ind].append({"index" : ref, "publication" : cited_publication, "self" : True})
 
             # adding to edge list
             # type 1 - common authors / 0 - no common authors
@@ -97,6 +97,10 @@ for ind in papers :
             edge_list.append( [src, dest, type] )
 
         else:
+            if publication not in cites : cites[publication] = {}
+            if ind not in cites[publication] : cites[publication][ind] = []
+            cites[publication][ind].append({"index" : ref, "publication" : cited_publication, "self" : False})
+
             # adding to edge list
             # type 1 - common authors / 0 - no common authors
             src = ind
@@ -105,7 +109,7 @@ for ind in papers :
             edge_list.append( [src, dest, type] )
 
 
-print "[DEBUG] Number of self cited papers ", len(self_cites)
+print "[DEBUG] Number of self cited papers ", len(cites)
 print "[INFO] Done finding self citations"
 
 
@@ -113,8 +117,8 @@ print "[INFO] Done finding self citations"
 print "[INFO] Writing self cites to file"
 
 import json
-file = open("../output/aminer_self_cites.json", "w")
-file.write(json.dumps(self_cites, indent=4))
+file = open("../output/aminer_cites.json", "w")
+file.write(json.dumps(cites, indent=4))
 file.close()
 
 print "[INFO] Done writing self cites to file"
