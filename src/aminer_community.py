@@ -1,5 +1,8 @@
 print "[INFO] Reading aminer_cites.json"
 
+# nodes belonging to each publication
+nodes = {}
+
 # self cited edges
 edge_list_1 = []
 # non self cited edges
@@ -19,11 +22,24 @@ for publication in data :
         src = paper
         edge_list_3.append((publication, src))
 
+        # add node to respective publication
+        if publication not in nodes :
+            nodes[publication] = []
+        nodes[publication].append(paper)
+
         cites = data[publication][paper]
         for cite in cites :
             src = paper
             dest = cite['index']
 
+            # add node to respective publication
+            cite_pub = cite['publication']
+            if cite_pub not in nodes :
+                nodes[cite_pub] = []
+            nodes[cite_pub].append(dest)
+
+
+            # add edges
             edge  = (src, dest)
 
             # self cited edge
@@ -32,10 +48,14 @@ for publication in data :
             else                    : edge_list_2.append(edge)
 
             # add edge to publication
-            edge_list_3.append((cite['publication'], dest))
+            edge_list_3.append((cite_pub, dest))
 
 # remove all duplicates
 edge_list_3 = list(set(edge_list_3))
+
+# remove all duplicates
+for pub in nodes :
+    nodes[pub] = list(set(nodes[pub]))
 
 print "[INFO] Done reading"
 
