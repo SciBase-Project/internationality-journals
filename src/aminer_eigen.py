@@ -4,24 +4,40 @@ import networkx as nx
 with open('../output/aminer_cites.json') as data_file:
     data = json.load(data_file)
 
+G = nx.DiGraph()
 for publication in data :
-    G = nx.Graph()
 
     papers = data[publication]
     for paper in papers :
         cites = data[publication][paper]
         for cite in cites :
-            src = paper
-            dest = cite['index']
-            G.add_edge(src, dest)
 
-    A = nx.adjacency_matrix(G).todense()
+            # source - main publication
+            src = publication
+            # destination - cited publication
+            dest = cite['publication']
 
-    from numpy import linalg as LA
-    w, v = LA.eig(A)
+            if G.has_edge(src, dest) :
+                G[src][dest]['weight'] += 1
+            else :
+                G.add_edge(src, dest, weight=1.0)
 
-    print "publication : ", publication
-    # eigen values
-    print "eigen values : ", w
-    # eigen vectors
-    print "eigen vectors : ", v
+# for e in G.edges(data=True) :
+#    print e
+
+
+# adjacency matrix
+adj = nx.to_numpy_matrix(G)
+
+# import numpy
+# for (x,y), value in numpy.ndenumerate(adj):
+#     print x, y, value
+
+
+from numpy import linalg as LA
+w, v = LA.eig(adj)
+
+# eigen values
+print "eigen values : ", w
+# eigen vectors
+print "eigen vectors : ", v
