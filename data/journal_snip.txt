@@ -6,7 +6,6 @@ Expert Syst. Appl. : 7237
 Inf. Process. Lett. : 6527
 Automatica : 6136
 Applied Mathematics and Computation : 9394
-59,367
 Journal of Approximation Theory : 1167
 Sci. Comput. Program. : 1158
 Artificial Intelligence in Medicine : 1093
@@ -22,7 +21,6 @@ Procedia CS : 1331
 Computers & Education : 1761
 Neurocomputing : 4525
 Computer Vision and Image Understanding : 1494
-89,024
 Robotics and Autonomous Systems : 1841
 Signal Processing : 3816
 Computers & Geosciences : 1475
@@ -39,4 +37,3 @@ Computers & Security : 1734
 Computer Communications : 4383
 Environmental Modelling and Software : 1463
 Games and Economic Behavior : 1324
-124,041

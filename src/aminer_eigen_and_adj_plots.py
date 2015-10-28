@@ -45,6 +45,17 @@ def draw_graph(G) :
     import math
     import matplotlib.pyplot as plt
 
+    print "[INFO] Processing snip values of journals to be considered"
+    snip = {}
+    file = open("../data/journal_snip.txt")
+    for line in file.readlines() :
+        line = line.strip()
+        vals = line.split(" : ")
+        snip[vals[0]] = int(vals[1])
+    file.close()
+    print "[INFO] Done processing snip values"
+
+
     # make new graph
     G1 = nx.DiGraph()
 
@@ -60,7 +71,12 @@ def draw_graph(G) :
     edges,weights = zip(*nx.get_edge_attributes(G1,'weight').items())
 
     pos = nx.spring_layout(G1)
-    nx.draw(G1, pos, node_color='b', node_size=50, edgelist=edges, edge_color=weights, width=1, edge_cmap=plt.cm.Blues, arrows=False)
+
+    # node is journal
+    for node in G.nodes() :
+        nx.draw_networkx_nodes(G1, pos, nodelist=[node], node_size=(snip[node]/10), node_color='b')
+
+    nx.draw_networkx_edges(G1, pos, edgelist=edges, edge_color=weights, width=1, edge_cmap=plt.cm.Blues, arrows=False)
 
     plt.show()
 
