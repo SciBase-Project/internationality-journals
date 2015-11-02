@@ -76,7 +76,7 @@ def draw_graph(G) :
     for node in G.nodes() :
         nx.draw_networkx_nodes(G1, pos, nodelist=[node], node_size=(snip[node]/10), node_color='b')
 
-    nx.draw_networkx_edges(G1, pos, edgelist=edges, edge_color=weights, width=1, edge_cmap=plt.cm.Blues, arrows=False)
+    nx.draw_networkx_edges(G1, pos, edgelist=edges, edge_color=weights, width=1, edge_cmap=plt.cm.Blues, arrows=True)
 
     plt.show()
 
