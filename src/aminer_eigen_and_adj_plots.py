@@ -21,8 +21,14 @@ def draw_adjacency_matrix(G, node_order=None, partitions=[], colors=[]):
     fig = pyplot.figure(figsize=(5, 5)) # in inches
     pyplot.imshow(adjacency_matrix,
                   cmap="Greys",
-                  interpolation="none")
-    pyplot.savefig("../output/aminer_adj_matrix.png")
+                  interpolation="none"
+                  )
+    pyplot.savefig("../output/adj_low_to_high.png")
+
+    print "[DEBUG]  Number of adj edges : ", len(G.edges())
+
+    # pyplot.savefig("../output/aminer_adj_matrix.png")
+
     # The rest is just if you have sorted nodes by a partition and want to
     # highlight the module boundaries
     assert len(partitions) == len(colors)
@@ -75,8 +81,9 @@ def draw_graph(G) :
     # node is journal
     for node in G.nodes() :
         nx.draw_networkx_nodes(G1, pos, nodelist=[node], node_size=(snip[node]/10), node_color='b')
+    nx.draw_networkx_labels(G,pos, font_size=8)
 
-    nx.draw_networkx_edges(G1, pos, edgelist=edges, edge_color=weights, width=1, edge_cmap=plt.cm.Blues, arrows=True)
+    nx.draw_networkx_edges(G1, pos, edgelist=edges, edge_color=weights, width=1, edge_cmap=plt.cm.Blues, arrows=False)
 
     plt.show()
 
@@ -104,7 +111,19 @@ def calulate_eigen(G) :
 
 def read_graph() :
 
+    # median split statistics
+    # get median split journal lists
+    from aminer_median import get_median_split_journals
+    journals_low , journals_high = get_median_split_journals()
+    low_to_low_count = 0
+    low_to_high_count = 0
+    high_to_low_count = 0
+    high_to_high_count = 0
     count = 0
+
+    journal_self_edge_count = {}
+    self_edge_count = 0
+
 
     with open('../output/aminer_cites.json') as data_file:
         data = json.load(data_file)
@@ -122,16 +141,76 @@ def read_graph() :
                 # destination - cited publication
                 dest = cite['publication']
 
-                if G.has_edge(src, dest) :
-                    G[src][dest]['weight'] += 1
-                    count+=1
-                else :
-                    G.add_edge(src, dest, weight=1.0)
 
-    for e in G.edges(data=True) :
-        print e
+                if src == dest :
+                    self_edge_count += 1
 
-    # print count
+                    if src in journal_self_edge_count :
+                        journal_self_edge_count[src] += 1
+                    else :
+                        journal_self_edge_count[src] = 1
+
+                    # this should be commented while plotting adj plots
+                    # continue
+
+
+                # median split data
+                type = 0
+                if src in journals_low and dest in journals_low :
+                    low_to_low_count += 1
+                    type = 1
+                if src in journals_low and dest in journals_high :
+                    low_to_high_count += 1
+                    type = 2
+                if src in journals_high and dest in journals_low :
+                    high_to_low_count += 1
+                    type = 3
+                if src in journals_high and dest in journals_high :
+                    high_to_high_count += 1
+                    type = 4
+
+                # change types # type == 1
+                if type == 2 :
+                    if G.has_edge(src, dest) :
+                        G[src][dest]['weight'] += 1
+                    else :
+                        G.add_edge(src, dest, weight=1.0)
+
+                count+=1
+
+    #for e in G.edges(data=True) :
+    #    print e
+
+    print ""
+    print "[INFO] Printing self edges within each journal less than median"
+    total = 0
+    for j in journal_self_edge_count :
+        if j in journals_low :
+            print j, journal_self_edge_count[j]
+            total += journal_self_edge_count[j]
+    print "[DEBUG] Total self edges within journals less than median", total
+    print "[INFO] Done printing self edges within each journal"
+    print ""
+
+    print ""
+    print "[INFO] Printing self edges within each journal above than median"
+    total = 0
+    for j in journal_self_edge_count :
+        if j in journals_high :
+            print j, journal_self_edge_count[j]
+            total += journal_self_edge_count[j]
+    print "[DEBUG] Total self edges within journals above than median", total
+    print "[INFO] Done printing self edges within each journal"
+    print ""
+
+
+    print "[DEBUG] Total edges : ", count + self_edge_count
+    print "[DEBUG] Self edge count : ", self_edge_count
+    print "[DEBUG] Edges without self edges : ", count
+    print "[DEBUG] Low to low count : ", low_to_low_count
+    print "[DEBUG] Low to high count : ", low_to_high_count
+    print "[DEBUG] High to low count : ", high_to_low_count
+    print "[DEBUG] High to high count : ", high_to_high_count
 
     return G
 
@@ -145,11 +224,13 @@ print "[INFO]  Done calculating eigen values."
 
 
 print "[INFO]  Drawing adjacency matrix.."
-#draw_adjacency_matrix(G)
+# comment out continue in read_graph
+draw_adjacency_matrix(G)
 print "[INFO]  Done drawing adjacency matrix.."
 
 
 print "[INFO]  Drawing graph.."
-draw_graph(G)
+#draw_graph(G)
 print "[INFO]  Done drawing graph.."
+
 
