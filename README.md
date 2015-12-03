@@ -1,2 +1,2 @@
-# red-alert
-Inter-nationality of Journals
+# Inter-nationality of Journals
+
