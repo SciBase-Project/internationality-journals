@@ -9,8 +9,8 @@ db = client.aminer
 # collection
 db.publications
 
-print "DB name ", db.name
-print "DB collection", db.publications
+print "DB name: ", db.name
+print "DB collection: ", db.publications
 
 
 print "[INFO] Processing papers"
@@ -44,7 +44,7 @@ while i < len(lines) :
         if line.startswith('#c') :     paper['publication']  = line[len('#c'):]
         if line.startswith('#!') :     paper['abstract']     = line[len('#!'):]
         if line.startswith('#%') :     paper['references'].append( line[len('#%'):] )
-
+        print "journal",i+1,"done"
         i += 1
 
 

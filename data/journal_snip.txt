@@ -1,35 +1,35 @@
-Pattern Recognition : 6075
-Discrete Mathematics : 10978
-Inf. Sci. : 5065
-Expert Syst. Appl. : 7237
-Inf. Process. Lett. : 6527
-Automatica : 6136
-Applied Mathematics and Computation : 9394
-Journal of Approximation Theory : 1167
-Sci. Comput. Program. : 1158
-Artificial Intelligence in Medicine : 1093
-Neural Networks : 2574
-Mathematics and Computers in Simulation : 1751
-Oper. Res. Lett. : 1384
-Computers & Graphics : 2559
-Computers in Human Behavior : 1672
-Computer Methods and Programs in Biomedicine : 1380
-Computers & Mathematics with Applications : 3796
-Computers & Education : 1761
-Neurocomputing : 4525
-Computer Vision and Image Understanding : 1494
-Robotics and Autonomous Systems : 1841
-Signal Processing : 3816
-Computers & Geosciences : 1475
-Parallel Computing : 2283
-Perform. Eval. : 1500
-Artif. Intell. : 2416
-Computer Networks : 3642
-Information and Management : 1045
-Speech Communication : 1837
-Systems & Control Letters : 1058
-Future Generation Comp. Syst. : 1584
-Computers & Security : 1734
-Computer Communications : 4383
-Environmental Modelling and Software : 1463
-Games and Economic Behavior : 1324
+Pattern Recognition
+Discrete Mathematics
+Information Sciences
+Expert Systems with Applications
+Information Processing Letters
+Automatica
+Applied Mathematics and Computation
+Journal of Approximation Theory
+Science of Computer Programming
+Artificial Intelligence in Medicine
+Neural Networks
+Mathematics and Computers in Simulation
+Operation Research Letters
+Computers & Graphics
+Computers in Human Behavior
+Computer Methods and Programs in Biomedicine
+Computers & Mathematics with Applications
+Computers & Education
+Neurocomputing
+Computer Vision and Image Understanding
+Robotics and Autonomous Systems
+Signal Processing
+Computers & Geosciences
+Parallel Computing
+Performance Evaluation
+Artificial Intelligence
+Computer Networks
+Information and Management
+Speech Communication
+Systems & Control Letters
+Future Generation Computer Systems
+Computers & Security
+Computer Communications
+Environmental Modelling & Software
+Games and Economic Behavior
