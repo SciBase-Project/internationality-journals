@@ -79,6 +79,8 @@ for journal in journals_to_consider :
 
 
 import numpy
+
+SNIP_values = {'Jname':[],'RIP':[],'DCP':[],'SNIP':[]}
 median_dcp = numpy.median(numpy.array(lst_dcp))
 
 for i in range(0, len(journals_to_consider)) :
@@ -90,4 +92,17 @@ for i in range(0, len(journals_to_consider)) :
     else : snip = rip / rdcp
 
     print "[DEBUG] ", journals_to_consider[i], "RIP:", rip, "DCP:", dcp, "SNIP:", snip
+    SNIP_values['Jname'].append(journals_to_consider[i])
+    SNIP_values['RIP'].append(rip)
+    SNIP_values['DCP'].append(dcp)
+    SNIP_values['SNIP'].append(snip)
+
+import csv
+keys = sorted(SNIP_values.keys())
+with open("../output/SNIP_all_journals.csv", "wb") as outfile:
+    writer = csv.writer(outfile, delimiter = ",")
+    writer.writerow(keys)
+    writer.writerows(zip(*[SNIP_values[key] for key in keys]))
+
+
 
