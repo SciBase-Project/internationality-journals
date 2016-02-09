@@ -1,0 +1,35 @@
+Pattern Recognition : 3.524
+Discrete Mathematics : 1.148
+Inf. Sci. : 3.242
+Expert Syst. Appl. : 2.534
+Inf. Process. Lett. : 0.987
+Automatica : 2.566
+Applied Mathematics and Computation : 1.378
+Journal of Approximation Theory : 1.172
+Sci. Comput. Program. : 1.672
+Artificial Intelligence in Medicine : 1.869
+Neural Networks : 1.876
+Mathematics and Computers in Simulation : 1.072
+Oper. Res. Lett. : 0.937
+Computers & Graphics : 1.396
+Computers in Human Behavior : 2.296
+Computer Methods and Programs in Biomedicine : 1.47
+Computers & Mathematics with Applications : 1.799
+Computers & Education : 3.247
+Neurocomputing : 1.762
+Computer Vision and Image Understanding : 2.128
+Robotics and Autonomous Systems : 2.149
+Signal Processing : 2.307
+Computers & Geosciences : 1.717
+Parallel Computing : 2.141
+Perform. Eval. : 1.734
+Artif. Intell. : 5.192
+Computer Networks : 2.075
+Information and Management : 2.087
+Speech Communication : 1.777
+Systems & Control Letters : 1.614
+Future Generation Comp. Syst. : 3.278
+Computers & Security : 2.322
+Computer Communications : 2.409
+Environmental Modelling and Software : 2.374
+Games and Economic Behavior : 1.406
