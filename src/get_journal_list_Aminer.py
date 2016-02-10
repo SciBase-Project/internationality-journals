@@ -1,5 +1,5 @@
 __author__ = 'Sukrit'
-import csv
+import bson
 import pandas as pd
 import numpy as np
 #import matplotlib.pyplot as plt
@@ -25,12 +25,20 @@ db.publications
 
 jlist = []
 i = 0
+flag = False
 
 for jname in ELElist :
-    if db.publications.find(filter = {'publication' : jname},limit = 1) != None :
-        jlist.append(jname)
-        print jname
-        i += 1
+    flag = False
+    try :
+        if db.publications.find_one(filter = {'publication' : jname},limit = 1) != None :
+            flag = True
+    except bson.errors.InvalidStringData :
+        print "[ERROR] Could not insert value: " + jname
+    else :
+        if flag == True :
+            jlist.append(jname)
+            print "[INFO] Value found: " + jname
+            i += 1
 print i
 
 with open ("../output/both_journal_list.txt","w")as file:
