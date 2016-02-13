@@ -56,7 +56,7 @@ def calc_RIP_DCP(P, Y) :
 print "[INFO] Processing journals to be considered"
 
 journals_to_consider = []
-file = open("../data/journal_snip.txt")
+file = open("../output/both_journal_list.txt")
 for line in file.readlines() :
     line = line.strip()
     journal = line.split(" : ")[0]
