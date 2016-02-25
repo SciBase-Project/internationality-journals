@@ -1,28 +1,33 @@
-,ourSNIP,SNIP
-Artificial Intelligence,1.99047619,5.141
- Artificial Intelligence in Medicine,0.707346905,1.419
-Automatica,0.373679953,3.095
-Computer Communications,0.42907911,1.76
-Computer Methods and Programs in Biomedicine ,0.379046231,1.435
-Computer Networks,0.749387158,2.557
-Computer Vision and Image Understanding,1.672948579,4.126
-Computers and Education,0.704265888,2.49
-Computers and Geosciences,0.188574973,1.623
-Computers and Graphics,0.442495274,1.311
-Computers and Mathematics with Applications,0.329331758,1.186
-Computers in Human Behavior,0.650123719,1.754
-Environmental Modelling and Software,0.367386629,2.245
-Expert Systems with Applications,0.588827995,1.884
-Future Generation Computer Systems,1.070518166,3.017
- Information and Management,1.039492754,2.48
-Information Sciences,0.945410628,2.637
-Journal of Approximation Theory,0.162687561,1.232
-Mathematics and Computers in Simulation,0.173084886,0.795
-Neural Networks,0.67837426,1.509
-Neurocomputing,0.634644582,1.345
-Parallel Computing ,0.712270531,1.814
-Pattern Recognition,1.17715942,3.154
-Performance Evaluation,0.713109731,2.476
-Robotics and Autonomous Systems,0.739277819,2.946
-Signal Processing,0.554988312,1.776
-Speech Communication ,0.540711462,2.13
+,ourSNIP,SNIP,Self Edges,Non-Self Edges
+Artificial Intelligence,1.99047619,5.141,2060,126
+Artificial Intelligence in Medicine,0.707346905,1.419,440,427
+Automatica,0.373679953,3.095,4717,237
+Computer Communications,0.42907911,1.76,892,1128
+Computer Methods and Programs in BiomedicineÊ,0.379046231,1.435, 207,265
+Computer Networks,0.749387158,2.557,1010,454
+Computer Vision and Image Understanding,1.672948579,4.126,883,347
+Computers and Education,0.704265888,2.49,3415,874
+Computers and Geosciences,0.188574973,1.623,453,168
+Computers and Graphics,0.442495274,1.311,103,76
+Computers and Mathematics with Applications,0.329331758,1.186,1556,963
+Computers in Human Behavior,0.650123719,1.754,1545,1009
+Environmental Modelling and Software,0.367386629,2.245,927,116
+Expert Systems with Applications,0.588827995,1.884,7947,4289
+Future Generation Computer Systems,1.070518166,3.017,1585,322
+Information and Management,1.039492754,2.48,1557,32
+Information Sciences,0.945410628,2.637,7462,2073
+Journal of Approximation Theory,0.162687561,1.232,300,17
+Mathematics and Computers in Simulation,0.173084886,0.795,309,213
+Neural Networks,0.67837426,1.509,1354,326
+Neurocomputing,0.634644582,1.345,1351,2559
+Parallel Computing,0.712270531,1.814,290,125
+Pattern Recognition,1.17715942,3.154,2044,1454
+Performance Evaluation,0.713109731,2.476,500,157
+Robotics and Autonomous Systems,0.739277819,2.946,232,233
+Signal Processing,0.554988312,1.776,2114,641
+Speech Communication ,0.540711462,2.13,757,92
+Sci. Comput. Program,,,233,63
+Oper. Res. Lett.,,,168,148
+Discrete Mathematics,,,502,16
+Inf. Process. Lett.,,,954,401
+Applied Mathematics and Computation,,,2,
