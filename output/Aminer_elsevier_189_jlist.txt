@@ -1,0 +1,189 @@
+ACM Transactions on Algorithms
+Ad Hoc Networks
+Advanced Engineering Informatics
+Advanced Robotics
+Advances in Engineering Software
+Advances in Information Security
+Advances in Soft Computing
+Algorithmica
+Applied Artificial Intelligence
+Applied Mathematical Sciences
+Artificial Intelligence in Medicine
+Artificial Life
+Automatica
+Autonomous Agents and Multi-Agent Systems
+BMC Bioinformatics
+Bell Labs Technical Journal
+Bioinformatics
+Biological Cybernetics
+Cluster Computing
+Cognitive Systems Research
+Cognitive Technologies
+Combinatorica
+Complexity
+Computational Biology and Chemistry
+Computational Complexity
+Computational Linguistics
+Computer Aided Geometric Design
+Computer Communications
+Computer Methods and Programs in Biomedicine
+Computer Music Journal
+Computer Networks
+Computer Supported Cooperative Work
+Computer Vision and Image Understanding
+Computers in Entertainment
+Computers in Human Behavior
+Computers in Industry
+Computing in Science and Engineering
+Constraints
+Cybernetics and Systems
+Decision Support Systems
+Digital Investigation
+Discrete Applied Mathematics
+Discrete Optimization
+Distributed Computing
+Distributed and Parallel Databases
+Electronic Commerce Research
+Electronic Commerce Research and Applications
+Electronic Markets
+Electronic Notes in Discrete Mathematics
+Empirical Software Engineering
+Engineering Letters
+Environmental Modelling and Software
+Evolutionary Computation
+Formal Methods in System Design
+Foundations and Trends in Communications and Information Theory
+Foundations and Trends in Computer Graphics and Vision
+Foundations and Trends in Databases
+Foundations and Trends in Electronic Design Automation
+Foundations and Trends in Human-Computer Interaction
+Foundations and Trends in Information Retrieval
+Foundations and Trends in Machine Learning
+Foundations and Trends in Networking
+Foundations and Trends in Signal Processing
+Foundations and Trends in Theoretical Computer Science
+Foundations of Computational Mathematics
+Frontiers in Artificial Intelligence and Applications
+Fuzzy Sets and Systems
+Games and Economic Behavior
+Genetic Programming and Evolvable Machines
+GeoInformatica
+Graphical Models
+Graphs and Combinatorics
+Higher-Order and Symbolic Computation
+IBM Journal of Research and Development
+IBM Systems Journal
+ICGA Journal
+IEEE Annals of the History of Computing
+IEEE Communications Letters
+IEEE Communications Surveys and Tutorials
+IEEE Computer Graphics and Applications
+IEEE Distributed Systems Online
+IEEE Intelligent Systems
+IEEE Internet Computing
+IEEE Journal on Selected Areas in Communications
+IEEE Micro
+IEEE Network
+IEEE Pervasive Computing
+IEEE Software
+IEEE Transactions on Communications
+IEEE Transactions on Image Processing
+IEEE Transactions on Information Forensics and Security
+IEEE Transactions on Information Theory
+IEEE Transactions on Intelligent Transportation Systems
+IEEE Transactions on Multimedia
+IEEE Transactions on Robotics
+IEEE Transactions on Signal Processing
+IEEE Transactions on Wireless Communications
+INFORMS Journal on Computing
+IT Professional
+Information Fusion
+Information Systems Frontiers
+Information Systems Research
+Information Technology and Management
+Information Visualization
+Information and Management
+Information and Organization
+Interacting with Computers
+Interfaces
+International Journal of Computer Vision
+International Journal of Geographical Information Science
+International Journal of Parallel Programming
+International Journal of Shape Modeling
+International Journal on Artificial Intelligence Tools
+Journal in Computer Virology
+Journal of Approximation Theory
+Journal of Biomedical Informatics
+Journal of Computational Biology
+Journal of Computer Security
+Journal of Graph Theory
+Journal of Intelligent and Fuzzy Systems
+Journal of Interconnection Networks
+Journal of Machine Learning Research
+Journal of Management Information Systems
+Journal of Mathematical Imaging and Vision
+Journal of Object Technology
+Journal of Systems Architecture
+Journal of Systems and Software
+Lecture Notes in Business Information Processing
+Lecture Notes in Computer Science
+Logical Methods in Computer Science
+Machine Learning
+Machine Translation
+Management Science
+Marketing Science
+Mathematical Structures in Computer Science
+Mathematical and Computer Modelling
+Mathematics and Computers in Simulation
+Microelectronics Journal
+Microprocessors and Microsystems
+Minds and Machines
+Mobile Information Systems
+Natural Computing
+Natural Language Engineering
+Networks
+Neural Computation
+Neural Computing and Applications
+Neural Networks
+Neural Processing Letters
+Neurocomputing
+Operations Research
+Optical Switching and Networking
+Organization Science
+Parallel Computing
+Parallel Processing Letters
+Pattern Recognition
+Pattern Recognition Letters
+Personal and Ubiquitous Computing
+Pervasive and Mobile Computing
+Programming and Computer Software
+Real-Time Systems
+Robotica
+Robotics and Autonomous Systems
+SIAM Journal on Optimization
+SIAM Review
+SIGMOD Record
+Scientific Programming
+Signal Processing
+Simulation
+Software Quality Journal
+Speech Communication
+Springer Tracts in Advanced Robotics
+Statistical Analysis and Data Mining
+Statistics and Computing
+Studies in Computational Intelligence
+Studies in Fuzziness and Soft Computing
+Swarm Intelligence
+Synthese
+Synthesis Lectures on Computer Architecture
+Systems and Computers in Japan
+Telematics and Informatics
+Transactions on Data Privacy
+Transportation Science
+Universal Access in the Information Society
+VLSI Design
+Virtual Reality
+Web Intelligence and Agent Systems
+Wireless Communications and Mobile Computing
+Wireless Networks
+World Wide Web
