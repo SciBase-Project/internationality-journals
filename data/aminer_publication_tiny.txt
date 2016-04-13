@@ -1,0 +1,39 @@
+#*Basics of the Triune Continuum Paradigm.
+#@Andrey Naumenko
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1253
+#% 
+#!
+  
+#*A University/Community Partnership to Bridge the Digital Divide.
+#@David Ruppel,Cynthia P. Ruppel
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1254
+#% 
+#!
+  
+#*Data Mining and Mobile Business Data.
+#@Richi Nayak
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1255
+#% 
+#!
+
+#*Data Mining and Mobile Business Data.
+#@Richi Nayak
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1255
+#% 
+#!
+
+#*Data Mining and Mobile Business Data.
+#@Richi Nayak
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1255
+#% 
+#!

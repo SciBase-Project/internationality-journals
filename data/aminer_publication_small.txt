@@ -1,0 +1,9476 @@
+#*OQL[C++]: Extending C++ with an Object Query Capability.
+#@José A. Blakeley
+#t1995
+#cModern Database Systems
+#index2
+#% 
+#!
+  
+#*Transaction Management in Multidatabase Systems.
+#@Yuri Breitbart,Hector Garcia-Molina,Abraham Silberschatz
+#t1995
+#cModern Database Systems
+#index3
+#% 
+#!
+  
+#*Overview of the ADDS System.
+#@Yuri Breitbart,Tom C. Reyes
+#t1995
+#cModern Database Systems
+#index4
+#% 
+#!
+  
+#*Multimedia Information Systems: Issues and Approaches.
+#@Stavros Christodoulakis,Leonidas Koveos
+#t1995
+#cModern Database Systems
+#index5
+#% 
+#!
+  
+#*Active Database Systems.
+#@Umeshwar Dayal,Eric N. Hanson,Jennifer Widom
+#t1995
+#cModern Database Systems
+#index6
+#% 
+#!
+  
+#*Where Object-Oriented DBMSs Should Do Better: A Critique Based on Early Experiences.
+#@Angelika Kotz Dittrich,Klaus R. Dittrich
+#t1995
+#cModern Database Systems
+#index7
+#% 
+#!
+  
+#*Distributed Databases.
+#@Hector Garcia-Molina,Meichun Hsu
+#t1995
+#cModern Database Systems
+#index8
+#% 
+#!
+  
+#*An Object-Oriented DBMS War Story: Developing a Genome Mapping Database in C++.
+#@Nathan Goodman
+#t1995
+#cModern Database Systems
+#index9
+#% 
+#!
+  
+#*Cooperative Transactions for Multiuser Environments.
+#@Gail E. Kaiser
+#t1995
+#cModern Database Systems
+#index10
+#% 
+#!
+  
+#*Schema Architecture of the UniSQL/M Multidatabase System
+#@William Kelley,Sunit K. Gala,Won Kim,Tom C. Reyes,Bruce Graham
+#t1995
+#cModern Database Systems
+#index11
+#% 
+#!
+  
+#*Physical Object Management.
+#@Alfons Kemper,Guido Moerkotte
+#t1995
+#cModern Database Systems
+#index12
+#% 
+#!
+  
+#*Introduction to Part 1: Next-Generation Database Technology.
+#@Won Kim
+#t1995
+#cModern Database Systems
+#index13
+#% 
+#!
+  
+#*Object-Oriented Database Systems: Promises, Reality, and Future.
+#@Won Kim
+#t1995
+#cModern Database Systems
+#index14
+#% 
+#!
+  
+#*Introduction to Part 2: Technology for Interoperating Legacy Databases.
+#@Won Kim
+#t1995
+#cModern Database Systems
+#index15
+#% 
+#!
+  
+#*On Resolving Schematic Heterogeneity in Multidatabase Systems.
+#@Won Kim,Injun Choi,Sunit K. Gala,Mark Scheevel
+#t1995
+#cModern Database Systems
+#index16
+#% 
+#!
+  
+#*Requirements for a Performance Benchmark for Object-Oriented Database Systems.
+#@Won Kim,Jorge F. Garza
+#t1995
+#cModern Database Systems
+#index17
+#% 
+#!
+  
+#*On View Support in Object-Oriented Databases Systems.
+#@Won Kim,William Kelley
+#t1995
+#cModern Database Systems
+#index18
+#% 
+#!
+  
+#*The POSC Solution to Managing E&P Data.
+#@Vincent J. Kowalski
+#t1995
+#cModern Database Systems
+#index19
+#% 
+#!
+  
+#*C++ Bindings to an Object Database.
+#@David Krieger,Tim Andrews
+#t1995
+#cModern Database Systems
+#index20
+#% 
+#!
+  
+#*Authorization in Object-Oriented Databases.
+#@Teresa F. Lunt
+#t1995
+#cModern Database Systems
+#index21
+#% 
+#!
+  
+#*Query Processing in Multidatabase Systems.
+#@Weiyi Meng,Clement T. Yu
+#t1995
+#cModern Database Systems
+#index22
+#% 
+#!
+  
+#*Management of Uncerainty in database Systems.
+#@Amihai Motro
+#t1995
+#cModern Database Systems
+#index23
+#% 
+#!
+  
+#*Parallel Relational Database Systems.
+#@Edward Omiecinski
+#t1995
+#cModern Database Systems
+#index24
+#% 
+#!
+  
+#*Query Processing in Object-Oriented Database Systems.
+#@M. Tamer Özsu,José A. Blakeley
+#t1995
+#cModern Database Systems
+#index25
+#% 
+#!
+  
+#*Specification and Execution of Transactional Workflows.
+#@Marek Rusinkiewicz,Amit P. Sheth
+#t1995
+#cModern Database Systems
+#index26
+#% 
+#!
+  
+#*Spatial Data Structures.
+#@Hanan Samet
+#t1995
+#cModern Database Systems
+#index27
+#% 
+#!An overview is presented of the use of spatial data structures in spatial databases. The focus is on hierarchical data structures, including a number of variants of quadtrees, which sort the data with respect to the space occupied by it. Such techniques are known as spatial indexing methods. Hierarchical data structures are based on the principle of recursive decomposition. They are attractive because they are compact and depending on the nature of the data they save space as well as time and also facilitate operations such as search. Examples are given of the use of these data structures in the representation of different data types such as regions, points, rectangles, lines, and volumes.
+  
+#*Spatial Data Models and Query Processing.
+#@Hanan Samet,Walid G. Aref
+#t1995
+#cModern Database Systems
+#index28
+#% 
+#!
+  
+#*Pegasus: A Heterogeneous Information Management System.
+#@Ming-Chien Shan,Rafi Ahmed,Jim Davis,Weimin Du,William Kent
+#t1995
+#cModern Database Systems
+#index29
+#% 
+#!
+  
+#*Temporal Object-Oriented Databases: A Critical Comparison.
+#@Richard T. Snodgrass
+#t1995
+#cModern Database Systems
+#index30
+#% 
+#!
+  
+#*The OMG Object Model.
+#@Richard Mark Soley,William Kent
+#t1995
+#cModern Database Systems
+#index31
+#% 
+#!
+  
+#*EDA/SQL.
+#@Ralph L. Stout
+#t1995
+#cModern Database Systems
+#index32
+#% 
+#!
+  
+#*The Changing Database Standards Landscape.
+#@Craig W. Thompson
+#t1995
+#cModern Database Systems
+#index33
+#% 
+#!
+  
+#*Modern Database Systems: The Object Model, Interoperability, and Beyond.
+#@Won Kim
+#t1995
+#cModern Database Systems
+#index34
+#% 
+#!
+  
+#*Version Control in an Object-Oriented Architecture.
+#@Anders Björnerstedt,Christer Hulten
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index36
+#% 
+#!
+  
+#*The GemStone Data Management System.
+#@Robert Bretl,David Maier,Allen Otis,D. Jason Penney,Bruce Schuchardt,Jacob Stein,E. Harold Williams,Monty Williams
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index37
+#% 
+#!
+  
+#*Storage Management in EXODUS.
+#@Michael J. Carey,David J. DeWitt,Joel E. Richardson,Eugene J. Shekita
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index38
+#% 
+#!
+  
+#*A Distributed Object Manager for the Smalltalk-80 System.
+#@Dominique Decouchant
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index39
+#% 
+#!
+  
+#*Objects, Messages, and Rules in Database Design.
+#@Jim Diederich,Jack Milton
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index40
+#% 
+#!
+  
+#*Active Objects: Ealities and Possibilities.
+#@Clarence A. Ellis,Simon J. Gibbs
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index41
+#% 
+#!
+  
+#*Overview of the Iris DBMS.
+#@Daniel H. Fishman,Jurgen Annevelink,David Beech,E. C. Chow,Tim Connors,J. W. Davis,Waqar Hasan,C. G. Hoch,William Kent,S. Leichner,Peter Lyngbæk,Brom Mahbod,Marie-Anne Neimat,Tore Risch,Ming-Chien Shan,W. Kevin Wilkinson
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index42
+#% 
+#!
+  
+#*Features of the ORION Object-Oriented Database System.
+#@Won Kim,Nat Ballou,Hong-Tai Chou,Jorge F. Garza,Darrell Woelk
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index43
+#% 
+#!
+  
+#*Indexing Techniques for Object-Oriented Databases.
+#@Won Kim,Kyung-Chang Kim,Alfred G. Dale
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index44
+#% 
+#!
+  
+#*My Cat Is Object-Oriented.
+#@Roger King
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index45
+#% 
+#!
+  
+#*Making Database Systems Fast Enough for CAD Applications.
+#@David Maier
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index46
+#% 
+#!
+  
+#*Optimizing Smalltalk Message Performance.
+#@Fred Mellender,Steve Riegel,Andrew Straw
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index47
+#% 
+#!
+  
+#*The Common List Object-Oriented Programming Language Standard.
+#@David A. Moon
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index48
+#% 
+#!
+  
+#*Object Orientation as Catalyst for Language-Database Inegration.
+#@J. Eliot B. Moss
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index49
+#% 
+#!
+  
+#*A Survey of Object-Oriented Concepts.
+#@Oscar Nierstrasz
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index50
+#% 
+#!
+  
+#*Integrated Office Systems.
+#@Oscar Nierstrasz,Dennis Tsichritzis
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index51
+#% 
+#!
+  
+#*Proteus: A Frame-Based Nonmonotonic Inference System.
+#@David M. Russinoff
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index52
+#% 
+#!
+  
+#*Concurrency Control and Object-Oriented Databases.
+#@Andrea H. Skarra,Stanley B. Zdonik
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index53
+#% 
+#!
+  
+#*A Shared View of Sharing: The Treaty of Orlando.
+#@Lynn Andrea Stein,Henry Lieberman,David Ungar
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index54
+#% 
+#!
+  
+#*Pogo: A Declarative Representation System for Graphics.
+#@Mark A. Tarlton,P. Nong Tarlton
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index55
+#% 
+#!
+  
+#*Concurrent Object-Oriented Programming Languages.
+#@Chris Tomlinson,Mark Scheevel
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index56
+#% 
+#!
+  
+#*Directions in Object-Oriented Research.
+#@Dennis Tsichritzis,Oscar Nierstrasz
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index57
+#% 
+#!
+  
+#*A Proposal for a Formal Model of Objects.
+#@Yair Wand
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index58
+#% 
+#!
+  
+#*OZ+: An Object-Oriented Database System.
+#@Stephen P. Weiser,Frederick H. Lochovsky
+#t1989
+#cObject-Oriented Concepts, Databases, and Applications
+#index59
+#% 
+#!
+  
+#*The Commercial INGRES Epilogue.
+#@Lawrence A. Rowe,Michael Stonebraker
+#t1986
+#cThe INGRES Papers
+#index60
+#% 
+#!
+  
+#*Design of Relational Systems (Introduction to Section 1).
+#@Michael Stonebraker
+#t1986
+#cThe INGRES Papers
+#index61
+#% 
+#!
+  
+#*Supporting Studies on Relational Systems (Introduction to Section 2).
+#@Michael Stonebraker
+#t1986
+#cThe INGRES Papers
+#index62
+#% 
+#!
+  
+#*Distributed Database Systems (Introduction to Section 3).
+#@Michael Stonebraker
+#t1986
+#cThe INGRES Papers
+#index63
+#% 
+#!
+  
+#*The Design and Implementation of Distributed INGRES.
+#@Michael Stonebraker
+#t1986
+#cThe INGRES Papers
+#index64
+#% 
+#!
+  
+#*User Interfaces for Database Systems (Introduction to Section 4).
+#@Michael Stonebraker
+#t1986
+#cThe INGRES Papers
+#index65
+#% 
+#!
+  
+#*Extended Semantics for the Relational Model (Introduction to Section 5).
+#@Michael Stonebraker
+#t1986
+#cThe INGRES Papers
+#index66
+#% 
+#!
+  
+#*Database Design (Introduction to Section 6).
+#@Michael Stonebraker
+#t1986
+#cThe INGRES Papers
+#index67
+#% 
+#!
+  
+#*Title, Preface, Contents.
+#@
+#t1986
+#cThe INGRES Papers
+#index68
+#% 
+#!
+  
+#*References.
+#@
+#t1986
+#cThe INGRES Papers
+#index69
+#% 
+#!
+  
+#*Temporal Deductive Databases.
+#@Marianne Baudinet,Jan Chomicki,Pierre Wolper
+#t1993
+#cTemporal Databases
+#index168
+#% 
+#!
+  
+#*The Historical Relational Data Model (HRDM) Revisited.
+#@James Clifford,Albert Croker
+#t1993
+#cTemporal Databases
+#index169
+#% 
+#!
+  
+#*On the Completeness of Query Languages for Grouped and Ungrouped Historical Data Models.
+#@James Clifford,Albert Croker,Alexander Tuzhilin
+#t1993
+#cTemporal Databases
+#index170
+#% 
+#!
+  
+#*A Temporal Model and Query Language for EER Databases.
+#@Ramez Elmasri,Gene T. J. Wuu,Vram Kouramajian
+#t1993
+#cTemporal Databases
+#index171
+#% 
+#!
+  
+#*The Time Index and the Monotonic B+-tree.
+#@Ramez Elmasri,Gene T. J. Wuu,Vram Kouramajian
+#t1993
+#cTemporal Databases
+#index172
+#% 
+#!
+  
+#*Ben-Zvi's Pioneering Work in Relational Temporal Databases.
+#@Shashi K. Gadia
+#t1993
+#cTemporal Databases
+#index173
+#% 
+#!
+  
+#*Temporal Databases: A Prelude to Parametric Data.
+#@Shashi K. Gadia,Sunil S. Nair
+#t1993
+#cTemporal Databases
+#index174
+#% 
+#!
+  
+#*Object and Spreadsheet Histories.
+#@Seymour Ginsburg
+#t1993
+#cTemporal Databases
+#index175
+#% 
+#!
+  
+#*Differential Query Processing in Transaction-Time Databases.
+#@Christian S. Jensen,Leo Mark
+#t1993
+#cTemporal Databases
+#index176
+#% 
+#!
+  
+#*Indexing Techniques for Historical Databases.
+#@Curtis P. Kolovson
+#t1993
+#cTemporal Databases
+#index177
+#% 
+#!
+  
+#*Stream Processing: Temporal Query Processing and Optimization.
+#@T. Y. Cliff Leung,Richard R. Muntz
+#t1993
+#cTemporal Databases
+#index178
+#% 
+#!
+  
+#*Transaction-Time Databases.
+#@David B. Lomet,Betty Salzberg
+#t1993
+#cTemporal Databases
+#index179
+#% 
+#!
+  
+#*The Interval-extended Relational Model and Its Applications to Valid-time Databases.
+#@Nikos A. Lorentzos
+#t1993
+#cTemporal Databases
+#index180
+#% 
+#!
+  
+#*temporal Reasoning.
+#@Angelo Montanari,Barbara Pernici
+#t1993
+#cTemporal Databases
+#index181
+#% 
+#!
+  
+#*Temporal Extensions to the Relational Model and SQL.
+#@Shamkant B. Navathe,Rafi Ahmed
+#t1993
+#cTemporal Databases
+#index182
+#% 
+#!
+  
+#*HSQL: A Historical Query Language.
+#@Nandlal L. Sarda
+#t1993
+#cTemporal Databases
+#index183
+#% 
+#!
+  
+#*Join Processing and Optimization in Temporal Relational Databases.
+#@Arie Segev
+#t1993
+#cTemporal Databases
+#index184
+#% 
+#!
+  
+#*A Temporal Data Model Based on Time Sequences.
+#@Arie Segev,Arie Shoshani
+#t1993
+#cTemporal Databases
+#index185
+#% 
+#!
+  
+#*An Overview of TQuel.
+#@Richard T. Snodgrass
+#t1993
+#cTemporal Databases
+#index186
+#% 
+#!
+  
+#*A Generalized relational Framework for Modeling Temporal Data.
+#@Abdullah Uz Tansel
+#t1993
+#cTemporal Databases
+#index187
+#% 
+#!
+  
+#*Applications of temporal Databases to Knowledge-based Simulations.
+#@Alexander Tuzhilin
+#t1993
+#cTemporal Databases
+#index188
+#% 
+#!
+  
+#*Integrating Temporal Data in a Heterogeneous Environment.
+#@Gio Wiederhold,Sushil Jajodia,Witold Litwin
+#t1993
+#cTemporal Databases
+#index189
+#% 
+#!
+  
+#*A Uniform Model for Temporal and Versioned Object-oriented Databases.
+#@Gene T. J. Wuu,Umeshwar Dayal
+#t1993
+#cTemporal Databases
+#index190
+#% 
+#!
+  
+#*Automaten, Sprachen und Maschinen für Anwender
+#@Jürgen Albert,Thomas Ottmann
+#t1983
+#cReihe Informatik
+#index200
+#% 
+#!
+  
+#*Rechnerorganisation
+#@Wolfgang Everling
+#t1990
+#cReihe Informatik
+#index201
+#% 
+#!
+  
+#*Rechnerorganisation, 2. Auflage
+#@Wolfgang Everling
+#t1993
+#cReihe Informatik
+#index202
+#% 
+#!
+  
+#*Computer-Grafik
+#@Dieter W. Fellner
+#t1988
+#cReihe Informatik
+#index203
+#% 
+#!
+  
+#*Computer-Grafik, 2. Auflage
+#@Dieter W. Fellner
+#t1992
+#cReihe Informatik
+#index204
+#% 
+#!
+  
+#*Planen: Einführung in die Planerstellungsmethoden der künstlichen Intelligenz
+#@Joachim Hertzberg
+#t1989
+#cReihe Informatik
+#index205
+#% 
+#!
+  
+#*Kryptologie
+#@Patrick Horster
+#t1985
+#cReihe Informatik
+#index206
+#% 
+#!
+  
+#*Theoretische Grundlagen relationaler Datenbanksysteme
+#@Peter Kandzia,Hans-Joachim Klein
+#t1993
+#cReihe Informatik
+#index207
+#% 
+#!
+  
+#*Rechnernetzwerksystemarchitekturen und Datenkommunikation
+#@Franz-Joachim Kauffels
+#t1987
+#cReihe Informatik
+#index208
+#% 
+#!
+  
+#*Datenbankmaschinen: Performanz durch Parallelität
+#@Daniel A. Keim,Edy S. Prawirohardjo
+#t1992
+#cReihe Informatik
+#index209
+#% 
+#!
+  
+#*Parallele Transaktionen in Datenbanksystemen
+#@Udo Kelter
+#t1985
+#cReihe Informatik
+#index210
+#% 
+#!
+  
+#*Syntaxanalyse, 3. Auflage
+#@Otto Mayer
+#t1986
+#cReihe Informatik
+#index211
+#% 
+#!
+  
+#*C
+#@Michael Mock
+#t1990
+#cReihe Informatik
+#index212
+#% 
+#!
+  
+#*Algorithmen und Datenstrukturen
+#@Thomas Ottmann,Peter Widmayer
+#t1990
+#cReihe Informatik
+#index213
+#% 
+#!
+  
+#*Algorithmen und Datenstrukturen, 2. Auflage
+#@Thomas Ottmann,Peter Widmayer
+#t1993
+#cReihe Informatik
+#index214
+#% 
+#!
+  
+#*Künstliche Intelligenz: Überblick und Grundlagen; grundlegende Konzepte und Methoden zur Realisierung von Systemen der künstlichen Intelligenz
+#@Peter Schefe
+#t1986
+#cReihe Informatik
+#index215
+#% 
+#!
+  
+#*Geo-Datenbanksysteme: Eine Speicher- und Zugriffsarchitektur
+#@Ralf Schneider
+#t1993
+#cReihe Informatik
+#index216
+#% 
+#!
+  
+#*Logik für Informatiker
+#@Uwe Schöning
+#t1987
+#cReihe Informatik
+#index217
+#% 
+#!
+  
+#*Logik für Informatiker, 2. Auflage
+#@Uwe Schöning
+#t1989
+#cReihe Informatik
+#index218
+#% 
+#!
+  
+#*Logik für Informatiker, 3. Auflage
+#@Uwe Schöning
+#t1992
+#cReihe Informatik
+#index219
+#% 
+#!
+  
+#*Softwaretechnologie: Eine Einführung, 3. Auflage
+#@Franz Stetter
+#t1984
+#cReihe Informatik
+#index220
+#% 
+#!
+  
+#*Softwaretechnologie: Eine Einführung, 4. Auflage
+#@Franz Stetter
+#t1987
+#cReihe Informatik
+#index221
+#% 
+#!
+  
+#*Mikroprozessoren: vom Bauteil zur Anwendung, 2. Auflage
+#@Heinz Waller,Peter Hilgers
+#t1985
+#cReihe Informatik
+#index222
+#% 
+#!
+  
+#*Objektorientierte Schemaentwicklung: Ein kategorialer Ansatz für Datenbanken und Programmierung
+#@Hartmut Wedekind
+#t1992
+#cReihe Informatik
+#index223
+#% 
+#!
+  
+#*Datenbanksysteme I
+#@Hartmut Wedekind,Theo Härder
+#t1974
+#cReihe Informatik
+#index224
+#% 
+#!
+  
+#*Datenbanksysteme II
+#@Hartmut Wedekind,Theo Härder
+#t1976
+#cReihe Informatik
+#index225
+#% 
+#!
+  
+#*Datenbanksysteme I, 2. Auflage
+#@Hartmut Wedekind,Theo Härder
+#t1981
+#cReihe Informatik
+#index226
+#% 
+#!
+  
+#*Datenbanksysteme I, 3. Auflage
+#@Hartmut Wedekind,Theo Härder
+#t1991
+#cReihe Informatik
+#index227
+#% 
+#!
+  
+#*Compilerbau I: Analyse
+#@Hans P. Zima
+#t1982
+#cReihe Informatik
+#index228
+#% 
+#!
+  
+#*Compilerbau II: Synthese und Optimierung
+#@Hans P. Zima
+#t1983
+#cReihe Informatik
+#index229
+#% 
+#!
+  
+#*Betriebssysteme: Parallele Prozesse, 3. Auflage
+#@Hans P. Zima
+#t1986
+#cReihe Informatik
+#index230
+#% 
+#!
+  
+#*Compilerbau I: Analyse, 2. Auflage
+#@Hans P. Zima
+#t1988
+#cReihe Informatik
+#index231
+#% 
+#!
+  
+#*Debuggers for Programming Languages.
+#@Sanjeev Kumar Aggarwal,M. Sarath Kumar
+#t2002
+#cThe Compiler Design Handbook
+#index235
+#% 
+#!
+  
+#*Software Pipelining.
+#@Vicki H. Allan,Stephen J. Allan
+#t2002
+#cThe Compiler Design Handbook
+#index236
+#% 
+#!
+  
+#*Compilation for Distributed Memory Architectures.
+#@Alok N. Choudhary,Mahmut T. Kandemir
+#t2002
+#cThe Compiler Design Handbook
+#index237
+#% 
+#!
+  
+#*Dynamic Compilation.
+#@Evelyn Duesterwald
+#t2002
+#cThe Compiler Design Handbook
+#index238
+#% 
+#!
+  
+#*Register Allocation.
+#@K. Gopinath
+#t2002
+#cThe Compiler Design Handbook
+#index239
+#% 
+#!
+  
+#*Instruction Scheduling.
+#@Ramaswamy Govindarajan
+#t2002
+#cThe Compiler Design Handbook
+#index240
+#% 
+#!
+  
+#*Data Flow Testing.
+#@Rajiv Gupta,Neelam Gupta
+#t2002
+#cThe Compiler Design Handbook
+#index241
+#% 
+#!
+  
+#*Profile-Guided Compiler Optimizations.
+#@Rajiv Gupta,Eduard Mehofer,Youtao Zhang
+#t2002
+#cThe Compiler Design Handbook
+#index242
+#% 
+#!
+  
+#*Data Flow Analysis.
+#@Uday P. Khedker
+#t2002
+#cThe Compiler Design Handbook
+#index243
+#% 
+#!
+  
+#*Optimizations for Object-Oriented Languages.
+#@Andreas Krall,R. Nigel Horspool
+#t2002
+#cThe Compiler Design Handbook
+#index244
+#% 
+#!
+  
+#*Program Slicing.
+#@G. B. Mund,Diganta Goswami,Rajib Mall
+#t2002
+#cThe Compiler Design Handbook
+#index245
+#% 
+#!
+  
+#*Automatic Generation of Code Optimizers from Formal Specifications.
+#@Vineeth Kumar Paleri
+#t2002
+#cThe Compiler Design Handbook
+#index246
+#% 
+#!
+  
+#*Introduction to Operational Semantics.
+#@Sanjiva Prasad,S. Arun-Kumar
+#t2002
+#cThe Compiler Design Handbook
+#index247
+#% 
+#!
+  
+#*Architecture Description Languages for Retargetable Compilation.
+#@Wei Qin,Sharad Malik
+#t2002
+#cThe Compiler Design Handbook
+#index248
+#% 
+#!
+  
+#*Retargetable Very Long Instuction Word Compiler Framework for Digital Signal Processors.
+#@Subramanian Rajagopalan,Sharad Malik
+#t2002
+#cThe Compiler Design Handbook
+#index249
+#% 
+#!
+  
+#*Dependence Analysis and Parallelizing Transformations.
+#@Sanjay V. Rajopadhye
+#t2002
+#cThe Compiler Design Handbook
+#index250
+#% 
+#!
+  
+#*Automatic Data Distribution.
+#@J. Ramanujam
+#t2002
+#cThe Compiler Design Handbook
+#index251
+#% 
+#!
+  
+#*Instruction Selection Using Tree Parsing.
+#@Priti Shankar
+#t2002
+#cThe Compiler Design Handbook
+#index252
+#% 
+#!
+  
+#*Scalar Compiler Optimizations on the Static Single Assignment Form and the Flow Graph.
+#@Y. N. Srikant
+#t2002
+#cThe Compiler Design Handbook
+#index253
+#% 
+#!
+  
+#*Type Systems in Programming Languages.
+#@Ramesh Subrahmanyam
+#t2002
+#cThe Compiler Design Handbook
+#index254
+#% 
+#!
+  
+#*Compiling Safe Mobile Code.
+#@R. Venugopal,Ravindra B. Keskar
+#t2002
+#cThe Compiler Design Handbook
+#index255
+#% 
+#!
+  
+#*Shape Analysis and Applications.
+#@Reinhard Wilhelm,Thomas W. Reps,Shmuel Sagiv
+#t2002
+#cThe Compiler Design Handbook
+#index256
+#% 
+#!
+  
+#*A Comparative Case Study of Distributed Network Architectures for Different Automotive Applications.
+#@Jakob Axelsson,Joakim Fröberg,Hans Hansson,Christer Norström,Kristian Sandström,Björn Villing
+#t2005
+#cThe Industrial Information Technology Handbook
+#index257
+#% 
+#!
+  
+#*LonWorks/EIA-709 Networks EIA 709 Protocol (Lon Talk).
+#@Dietmar Loy
+#t2005
+#cThe Industrial Information Technology Handbook
+#index258
+#% 
+#!
+  
+#*Distributed Components in Microsoft Platforms - Technology Overview.
+#@Marcos Ribeiro Pereira Barretto,Paulo Marcelo Porto Alves Blanco,Marco Antonio Poli
+#t2005
+#cThe Industrial Information Technology Handbook
+#index259
+#% 
+#!
+  
+#*The Quest for Real-Time Behavior in Ethernet.
+#@Paulo Pedreiras,Luís Almeida,José Alberto Fonseca
+#t2005
+#cThe Industrial Information Technology Handbook
+#index260
+#% 
+#!
+  
+#*CORBA in Manufacturing - Technology Overview.
+#@Marcos Ribeiro Pereira Barretto,Paulo Marcelo Porto Alves Blanco,Marco Antonio Poli
+#t2005
+#cThe Industrial Information Technology Handbook
+#index261
+#% 
+#!
+  
+#*IPv6, IPSec, and VPNs.
+#@Walter T. Penzhorn,Johann Amsenga
+#t2005
+#cThe Industrial Information Technology Handbook
+#index262
+#% 
+#!
+  
+#*Overview and Classification of IP Routing Protocols - IP Routing: Interior and Exterior Routing Protocols.
+#@Lucia Lo Bello,Enzo Palumbo
+#t2005
+#cThe Industrial Information Technology Handbook
+#index263
+#% 
+#!
+  
+#*Java Technology and Industrial Applications.
+#@Jörn Peschke,Arndt Lüder
+#t2005
+#cThe Industrial Information Technology Handbook
+#index264
+#% 
+#!
+  
+#*Internal Architecture and Features of Real-Time Embedded Operation Systems.
+#@Ivan Cibrario Bertolotti
+#t2005
+#cThe Industrial Information Technology Handbook
+#index265
+#% 
+#!
+  
+#*Middleware.
+#@Andreas Polze
+#t2005
+#cThe Industrial Information Technology Handbook
+#index266
+#% 
+#!
+  
+#*Network On-Chip Design for Gigascale Systems-on-Chip.
+#@Davide Bertozzi,Luca Benini,Giovanni De Micheli
+#t2005
+#cThe Industrial Information Technology Handbook
+#index267
+#% 
+#!
+  
+#*Principles and Features of PROFINET.
+#@Manfred Popp,Joachim Feld,Ralph Büsgen
+#t2005
+#cThe Industrial Information Technology Handbook
+#index268
+#% 
+#!
+  
+#*Knowledge Connect - An Approach for an Industrial IT Service Tool.
+#@Carsten Beuthel,Paul George,Ulrich Topp
+#t2005
+#cThe Industrial Information Technology Handbook
+#index269
+#% 
+#!
+  
+#*Intelligent Space and Mobile Robots.
+#@Joo-Ho Lee,Kazuyuki Morioka,Hideki Hashimoto
+#t2005
+#cThe Industrial Information Technology Handbook
+#index270
+#% 
+#!
+  
+#*Software for Wireless Sensor Networks.
+#@Jan Blumenthal,Frank Golatowski,Marc Haase,Matthias Handy
+#t2005
+#cThe Industrial Information Technology Handbook
+#index271
+#% 
+#!
+  
+#*Web-based Enterprise Computing Development using J2EE.
+#@Jiang B. Liu
+#t2005
+#cThe Industrial Information Technology Handbook
+#index272
+#% 
+#!
+  
+#*Holonic Manufacturing Systems: A Technical Overview.
+#@Robert W. Brennan,James H. Christensen,William A. Gruver,Dilip B. Kotak,Douglas H. Norrie,Edwin H. van Leeuwen
+#t2005
+#cThe Industrial Information Technology Handbook
+#index273
+#% 
+#!
+  
+#*The GRAFCET Specification Language.
+#@Paulo Portugal,Adriano Carvalho
+#t2005
+#cThe Industrial Information Technology Handbook
+#index274
+#% 
+#!
+  
+#*The IDA Standard.
+#@Martin Buchwitz
+#t2005
+#cThe Industrial Information Technology Handbook
+#index275
+#% 
+#!
+  
+#*Embedded Software in the SoC World. The Concept of HdS in View of the HW and SW Design Challenge.
+#@Frank Pospiech
+#t2005
+#cThe Industrial Information Technology Handbook
+#index276
+#% 
+#!
+  
+#*Platform-Based and Derivative Design.
+#@Luca P. Carloni,Fernando De Bernardinis,Alberto L. Sangiovanni-Vincentelli,Marco Sgroi
+#t2005
+#cThe Industrial Information Technology Handbook
+#index277
+#% 
+#!
+  
+#*Internet Programming Languages.
+#@Wolfgang Radinger,Martin Jandl
+#t2005
+#cThe Industrial Information Technology Handbook
+#index278
+#% 
+#!
+  
+#*FOUNDATION Fieldbus: History and Features.
+#@Salvatore Cavalieri
+#t2005
+#cThe Industrial Information Technology Handbook
+#index279
+#% 
+#!
+  
+#*MPLS - Multiprotocol Label Switching.
+#@José Ruela,Manuel Ricardo
+#t2005
+#cThe Industrial Information Technology Handbook
+#index280
+#% 
+#!
+  
+#*Operating Principles and Features of CAN Networks.
+#@Gianluca Cena,Adriano Valenzano
+#t2005
+#cThe Industrial Information Technology Handbook
+#index281
+#% 
+#!
+  
+#*Robot Tactile Sensing.
+#@R. Andrew Russell
+#t2005
+#cThe Industrial Information Technology Handbook
+#index282
+#% 
+#!
+  
+#*Hardware/Software Interfaces Design for SoC.
+#@Wander O. Cesário,Flávio Rech Wagner,Ahmed Amine Jerraya
+#t2005
+#cThe Industrial Information Technology Handbook
+#index283
+#% 
+#!
+  
+#*Giving Robots a Sense of Smell.
+#@R. Andrew Russell
+#t2005
+#cThe Industrial Information Technology Handbook
+#index284
+#% 
+#!
+  
+#*Mail Transfer and File Transfer Protocol.
+#@Suvendi Chinnappen
+#t2005
+#cThe Industrial Information Technology Handbook
+#index285
+#% 
+#!
+  
+#*The Integrated Services Architecture and RSVP.
+#@Henning Sanneck
+#t2005
+#cThe Industrial Information Technology Handbook
+#index286
+#% 
+#!
+  
+#*Collaborative (Agent-Based) Factory Automation.
+#@Armando W. Colombo,Ronald Schoop,Ralf Neubert
+#t2005
+#cThe Industrial Information Technology Handbook
+#index287
+#% 
+#!
+  
+#*Linking Factory Floor and the Internet.
+#@Thilo Sauter
+#t2005
+#cThe Industrial Information Technology Handbook
+#index288
+#% 
+#!
+  
+#*Which Network for Which Application.
+#@Jean-Dominique Decotignie
+#t2005
+#cThe Industrial Information Technology Handbook
+#index289
+#% 
+#!
+  
+#*Internet Firewalls.
+#@Günter Schäfer
+#t2005
+#cThe Industrial Information Technology Handbook
+#index290
+#% 
+#!
+  
+#*Interconnection of Wireline and Wireless Fieldbusses.
+#@Jean-Dominique Decotignie
+#t2005
+#cThe Industrial Information Technology Handbook
+#index291
+#% 
+#!
+  
+#*IEEE 1394 for Factory Automation.
+#@Michael Scholles,Uwe Schelinski,Petra Nauber
+#t2005
+#cThe Industrial Information Technology Handbook
+#index292
+#% 
+#!
+  
+#*Intelligent Sensors: Analysis and Design.
+#@Eric Dekneuvel
+#t2005
+#cThe Industrial Information Technology Handbook
+#index293
+#% 
+#!
+  
+#*Securtity in Automation Networks.
+#@Christian Schwaiger
+#t2005
+#cThe Industrial Information Technology Handbook
+#index294
+#% 
+#!
+  
+#*Integration Technologies of Field Devices in Distributed Control and Engineering Systems.
+#@Christian Diedrich
+#t2005
+#cThe Industrial Information Technology Handbook
+#index295
+#% 
+#!
+  
+#*The Standard Message Specification for Industrial Automation Systems -ISO 9506 (MMS).
+#@Karlheinz Schwarz
+#t2005
+#cThe Industrial Information Technology Handbook
+#index296
+#% 
+#!
+  
+#*RTP, RTCP, and RTSP - Internet Protocols for Real-Time Multimedia Communication.
+#@Arjan Durresi,Raj Jain
+#t2005
+#cThe Industrial Information Technology Handbook
+#index297
+#% 
+#!
+  
+#*Smart Power Systems Rely on Standards for Information Models and Messaging - IEC 61850.
+#@Karlheinz Schwarz
+#t2005
+#cThe Industrial Information Technology Handbook
+#index298
+#% 
+#!
+  
+#*The Fundamentals of Web Services.
+#@Klaus-Peter Eckert
+#t2005
+#cThe Industrial Information Technology Handbook
+#index299
+#% 
+#!
+  
+#*Open System Architecture for Controls within Automation Systems (OSACA).
+#@Michael Seyfarth,Andreas Kahmen
+#t2005
+#cThe Industrial Information Technology Handbook
+#index300
+#% 
+#!
+  
+#*Programming Web Services with .net and java.
+#@Klaus-Peter Eckert
+#t2005
+#cThe Industrial Information Technology Handbook
+#index301
+#% 
+#!
+  
+#*A Survey of Congestion and QoS Control Mechanisms for the Internet.
+#@Dorgham Sisalem,Adam Wolisz
+#t2005
+#cThe Industrial Information Technology Handbook
+#index302
+#% 
+#!
+  
+#*Languages for Embedded Systems.
+#@Stephen Edwards
+#t2005
+#cThe Industrial Information Technology Handbook
+#index303
+#% 
+#!
+  
+#*Switched Ethernet in Automation Networking.
+#@Tor Skeie,Svein Johannessen,Øyvind Holmeide
+#t2005
+#cThe Industrial Information Technology Handbook
+#index304
+#% 
+#!
+  
+#*Enterprise-Manufacturing Data Exchange Using XML.
+#@David Emerson
+#t2005
+#cThe Industrial Information Technology Handbook
+#index305
+#% 
+#!
+  
+#*Programming with the IEC 61131-3 Languages and the MatPLC.
+#@Mário de Sousa,Adriano Carvalho
+#t2005
+#cThe Industrial Information Technology Handbook
+#index306
+#% 
+#!
+  
+#*The Dynamic Host Configuration Protocol.
+#@Michael Eyrich
+#t2005
+#cThe Industrial Information Technology Handbook
+#index307
+#% 
+#!
+  
+#*Security in Embedded Systems.
+#@Andreas Steffen
+#t2005
+#cThe Industrial Information Technology Handbook
+#index308
+#% 
+#!
+  
+#*The Internet Protocol.
+#@Jürgen Falb
+#t2005
+#cThe Industrial Information Technology Handbook
+#index309
+#% 
+#!
+  
+#*PROFIsafe - Safety Technology with PROFIBUS.
+#@Wolfgang Stripf,Herbert Barthel
+#t2005
+#cThe Industrial Information Technology Handbook
+#index310
+#% 
+#!
+  
+#*ARP - Address Resolution Protocol.
+#@Jürgen Falb
+#t2005
+#cThe Industrial Information Technology Handbook
+#index311
+#% 
+#!
+  
+#*XML for the Exchange of Automation Project Information.
+#@Alexander Fay
+#t2005
+#cThe Industrial Information Technology Handbook
+#index312
+#% 
+#!
+  
+#*The WORLDFIP Fieldbus.
+#@Jean-Pierre Thomesse
+#t2005
+#cThe Industrial Information Technology Handbook
+#index313
+#% 
+#!
+  
+#*IP-Mobility for Cellular and Wireless Networks.
+#@Andreas Festag,Adam Wolisz
+#t2005
+#cThe Industrial Information Technology Handbook
+#index314
+#% 
+#!
+  
+#*Unified Modeling Language: The Industry Standard for Software Development.
+#@Kleanthis Thramboulidis
+#t2005
+#cThe Industrial Information Technology Handbook
+#index315
+#% 
+#!
+  
+#*A Survey on Self-Organizing Wireless Sensor Networks.
+#@Shashidhar Gandham,Ravi Musunuri,Praveen Rentala,Udit Saxena
+#t2005
+#cThe Industrial Information Technology Handbook
+#index316
+#% 
+#!
+  
+#*Web Servers, Clients, and Browsers.
+#@Robert Tolksdorf
+#t2005
+#cThe Industrial Information Technology Handbook
+#index317
+#% 
+#!
+  
+#*The Hypertext Transfer Protocol and Uniform Resource Identifier.
+#@Karl M. Göschka
+#t2005
+#cThe Industrial Information Technology Handbook
+#index318
+#% 
+#!
+  
+#*Introduction to Multisensor Data Fusion.
+#@Pascal Vasseur,El Mustapha Mouaddib,Claude Pégard
+#t2005
+#cThe Industrial Information Technology Handbook
+#index319
+#% 
+#!
+  
+#*Models of Computation for Embedded Systems.
+#@Luís Gomes,João Paulo Barros
+#t2005
+#cThe Industrial Information Technology Handbook
+#index320
+#% 
+#!
+  
+#*Industrial IT-Based Network Management.
+#@Yauheni Veryha,Peter Bort
+#t2005
+#cThe Industrial Information Technology Handbook
+#index321
+#% 
+#!
+  
+#*Hardware-level Design Languages.
+#@Luís Gomes,Anikó Costa
+#t2005
+#cThe Industrial Information Technology Handbook
+#index322
+#% 
+#!
+  
+#*Integration Between Production and Business Systems.
+#@Claus Vetter,Thomas Werner
+#t2005
+#cThe Industrial Information Technology Handbook
+#index323
+#% 
+#!
+  
+#*From Holonic Control to Virtual Enterprises: The Multi-Agent Approach.
+#@Pavel Vrba,Vladimír Marík
+#t2005
+#cThe Industrial Information Technology Handbook
+#index324
+#% 
+#!
+  
+#*Acheiving Reconfigurability of Automation Systems by Using the New International Standard IEC 61499: A Developer's View.
+#@Hans-Michael Hanisch,Valeriy Vyatkin
+#t2005
+#cThe Industrial Information Technology Handbook
+#index325
+#% 
+#!
+  
+#*IP-QoS: Scalable and Flexible Quality-of-Service with Differentiated Services.
+#@Klaus Wehrle
+#t2005
+#cThe Industrial Information Technology Handbook
+#index326
+#% 
+#!
+  
+#*Real-Time Systems.
+#@Hans Hansson,Mikael Nolin,Thomas Nolte
+#t2005
+#cThe Industrial Information Technology Handbook
+#index327
+#% 
+#!
+  
+#*Wireless LAN Technology for the Factory Floor.
+#@Andreas Willig
+#t2005
+#cThe Industrial Information Technology Handbook
+#index328
+#% 
+#!
+  
+#*Internet Still Image and Video Formats.
+#@Guido Heising,Kai Uwe Barthel
+#t2005
+#cThe Industrial Information Technology Handbook
+#index329
+#% 
+#!
+  
+#*Principles of Lower-Layer Protocols for Data Communications.
+#@Andreas Willing,Hagen Woesner
+#t2005
+#cThe Industrial Information Technology Handbook
+#index330
+#% 
+#!
+  
+#*Network Management: Basic Notions and Frameworks.
+#@T. T. Mai Hoang
+#t2005
+#cThe Industrial Information Technology Handbook
+#index331
+#% 
+#!
+  
+#*Multicast.
+#@Tanja Zseby
+#t2005
+#cThe Industrial Information Technology Handbook
+#index332
+#% 
+#!
+  
+#*HTTP Digest Authentication - Theory and Practice.
+#@Thomas P. von Hoff,Mario Crevatin
+#t2005
+#cThe Industrial Information Technology Handbook
+#index333
+#% 
+#!
+  
+#*Web Services for Integrated Automation Systems - Challenges, Solutions and Future.
+#@Zaijun Hu,Eckhard Kruse
+#t2005
+#cThe Industrial Information Technology Handbook
+#index334
+#% 
+#!
+  
+#*Verification Languages.
+#@Aarti Gupta,Ali Alphan Bayazit,Yogesh S. Mahajan
+#t2005
+#cThe Industrial Information Technology Handbook
+#index335
+#% 
+#!
+  
+#*Mobile IP Routing.
+#@Karin Anna Hummel,Helmut Hlavacs
+#t2005
+#cThe Industrial Information Technology Handbook
+#index336
+#% 
+#!
+  
+#*Remote Monitoring and Control over the Internet.
+#@Hans-Arno Jacobsen
+#t2005
+#cThe Industrial Information Technology Handbook
+#index337
+#% 
+#!
+  
+#*Power Aware Embedded Computing.
+#@Margarida F. Jacome,Anand Ramachandran
+#t2005
+#cThe Industrial Information Technology Handbook
+#index338
+#% 
+#!
+  
+#*Robot Vision.
+#@Ray Jarvis
+#t2005
+#cThe Industrial Information Technology Handbook
+#index339
+#% 
+#!
+  
+#*Bluetooth.
+#@Thomas Jatschka,Robert Tschofen
+#t2005
+#cThe Industrial Information Technology Handbook
+#index340
+#% 
+#!
+  
+#*PROFIBUS - Open Solutions for the World of Automation.
+#@Ulrich Jecht,Wolfgang Stripf,Peter Wenzel
+#t2005
+#cThe Industrial Information Technology Handbook
+#index341
+#% 
+#!
+  
+#*The Fundamentals of the Quality of Service.
+#@Wolfgang Kampichler
+#t2005
+#cThe Industrial Information Technology Handbook
+#index342
+#% 
+#!
+  
+#*Ad Hoc Networks.
+#@Holger Karl
+#t2005
+#cThe Industrial Information Technology Handbook
+#index343
+#% 
+#!
+  
+#*Applications of Haptics in Design and Manufacturing.
+#@Thenkurussi Kesavadas,Arvind Balijepalli,Cartik Sharma
+#t2005
+#cThe Industrial Information Technology Handbook
+#index344
+#% 
+#!
+  
+#*Implementation af a Virtual Factory Communication System using the Manufacturing Message Specification Standard.
+#@Dongsung Kim,Zygmunt J. Haas,Wook Hyun Kwon
+#t2005
+#cThe Industrial Information Technology Handbook
+#index345
+#% 
+#!
+  
+#*Ultrasonic Sensors in Robotics.
+#@Lindsay Kleeman
+#t2005
+#cThe Industrial Information Technology Handbook
+#index346
+#% 
+#!
+  
+#*Microsoft's .NET.
+#@Martin von Löwis,Peter Tröger
+#t2005
+#cThe Industrial Information Technology Handbook
+#index347
+#% 
+#!
+  
+#*Multiagent-based Architecture for Plant Automation.
+#@Axel Klostermeyer,Eckehardt Klemm
+#t2005
+#cThe Industrial Information Technology Handbook
+#index348
+#% 
+#!
+  
+#*Introduction to e-Manufacturing.
+#@Muammer Koc,Jun Ni,Jay Lee,Pulak Bandyopadhyay
+#t2005
+#cThe Industrial Information Technology Handbook
+#index349
+#% 
+#!
+  
+#*Time-Triggered Communication Networks.
+#@Hermann Kopetz,Günther Bauer
+#t2005
+#cThe Industrial Information Technology Handbook
+#index350
+#% 
+#!
+  
+#*Internet-Based Telemanipulation.
+#@Peter Korondi,Peter Tamas Szemes,P. Hashimoto
+#t2005
+#cThe Industrial Information Technology Handbook
+#index351
+#% 
+#!
+  
+#*Network Security and Secure Applications.
+#@Christopher Krügel
+#t2005
+#cThe Industrial Information Technology Handbook
+#index352
+#% 
+#!
+  
+#*Simple Network Management Protocol SNMP.
+#@Michael Kunes
+#t2005
+#cThe Industrial Information Technology Handbook
+#index353
+#% 
+#!
+  
+#*TCP/IP Architecture, Protocols, and Services.
+#@Christian Kurz,Helmut Hlavacs
+#t2005
+#cThe Industrial Information Technology Handbook
+#index354
+#% 
+#!
+  
+#*OPC - Openness, Productivity, and Connectivity.
+#@Jürgen Lange,Frank Iwanitz
+#t2005
+#cThe Industrial Information Technology Handbook
+#index355
+#% 
+#!
+  
+#*Design of Embedded Systems.
+#@Luciano Lavagno,Claudio Passerone
+#t2005
+#cThe Industrial Information Technology Handbook
+#index356
+#% 
+#!
+  
+#*A Smart Transducer Interface Standard for Sensors and Actuators.
+#@Kang Lee
+#t2005
+#cThe Industrial Information Technology Handbook
+#index357
+#% 
+#!
+  
+#*LonWorksTM over IP.
+#@Dietmar Loy,Stefan Soucek
+#t2005
+#cThe Industrial Information Technology Handbook
+#index358
+#% 
+#!
+  
+#*The Transmission Control Protocol.
+#@Aleksander Malinowski,Bogdan M. Wilamowski
+#t2005
+#cThe Industrial Information Technology Handbook
+#index359
+#% 
+#!
+  
+#*Multidimensional Databases.
+#@Torben Bach Pedersen,Christian S. Jensen
+#t2005
+#cThe Industrial Information Technology Handbook
+#index360
+#% 
+#!
+  
+#*The User Datagram protocol.
+#@Aleksander Malinowski,Bogdan M. Wilamowski
+#t2005
+#cThe Industrial Information Technology Handbook
+#index361
+#% 
+#!
+  
+#*Networked Control Systems Overview.
+#@Pau Martí,Ricard Villá,Josep M. Fuertes,Gerhard Fohler
+#t2005
+#cThe Industrial Information Technology Handbook
+#index362
+#% 
+#!
+  
+#*System-on-Chip and Network-on-Chip Design.
+#@Grant Martin
+#t2005
+#cThe Industrial Information Technology Handbook
+#index363
+#% 
+#!
+  
+#*Wireless Local Area Networks and Wireless Personal Area Networks (WLANs and WPANs).
+#@Kirsten Matheus
+#t2005
+#cThe Industrial Information Technology Handbook
+#index364
+#% 
+#!
+  
+#*Open Controller Enabled by an Advanced Real-Time Network (OCEAN).
+#@Fabrizio Meo
+#t2005
+#cThe Industrial Information Technology Handbook
+#index365
+#% 
+#!
+  
+#*IT Security for Automation Systems.
+#@Martin Naedele
+#t2005
+#cThe Industrial Information Technology Handbook
+#index366
+#% 
+#!
+  
+#*The JEVIS Service Platform - Distributed Energy Data Acquisition and Management.
+#@Peter Palensky
+#t2005
+#cThe Industrial Information Technology Handbook
+#index367
+#% 
+#!
+  
+#*An Introductory Survey of Networked Embedded Systems.
+#@Hiren D. Patel,Sumit Gupta,Sandeep K. Shukla,Rajesh Gupta
+#t2005
+#cThe Industrial Information Technology Handbook
+#index368
+#% 
+#!
+  
+#*Thread Management for Shared-Memory Multiprocessors.
+#@Thomas E. Anderson,Brian N. Bershad,Edward D. Lazowska,Henry M. Levy
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index369
+#% 
+#!
+  
+#*Parallelizing Compilers.
+#@Michael Wolfe
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index370
+#%770472
+#%832291
+#%3006707
+#%3006149
+#%3006258
+#!
+  
+#*Renderman®: An Interface for Image Synthesis.
+#@Anthony A. Apodaca
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index371
+#% 
+#!
+  
+#*Object-Oriented Databases.
+#@François Bancilhon
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index372
+#% 
+#!
+  
+#*Network and Internet Security.
+#@Steven M. Bellovin
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index373
+#% 
+#!
+  
+#*Concurrent/Distributed Programming Paradigm.
+#@Andrew P. Bernat
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index374
+#% 
+#!
+  
+#*Parallel Algorithms.
+#@Guy E. Blelloch,Bruce M. Maggs
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index375
+#% 
+#!
+  
+#*Formal Models and the Specification Process.
+#@Jonathan P. Bowen,Michael G. Hinchey
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index376
+#% 
+#!
+  
+#*User Interface Design Activities.
+#@Ruven E. Brooks
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index377
+#% 
+#!
+  
+#*Virtual Reality.
+#@Steve Bryson
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index378
+#% 
+#!
+  
+#*Memory Systems.
+#@Doug Burger,James R. Goodman,Gurindar S. Sohi
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index379
+#% 
+#!
+  
+#*Type Systems.
+#@Luca Cardelli
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index380
+#% 
+#!
+  
+#*Computational Fluid Dynamics.
+#@David A. Caughey
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index381
+#% 
+#!
+  
+#*Rules in Data-Based Systems.
+#@Stefano Ceri,Raghu Ramakrishnan
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index382
+#% 
+#!
+  
+#*Combinatorial Optimization.
+#@Vijay Chandru,M. R. Rao
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index383
+#% 
+#!
+  
+#*Distributed and Multiprocessor Scheduling.
+#@Steve J. Chapin
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index384
+#%248799
+#%1073239
+#%1075533
+#%1127700
+#!
+  
+#*Computational Reacting Flow.
+#@Paquale Cinnella,Carey F. Cox
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index385
+#% 
+#!
+  
+#*Logic Programming and Constraint Logic Programming.
+#@Jacques Cohen
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index386
+#%770739
+#%773466
+#%832742
+#%833078
+#%951454
+#!
+  
+#*Pattern Matching and Text Compression Algorithms.
+#@Maxime Crochemore,Thierry Lecroq
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index387
+#%690
+#%2022
+#%2375
+#%2487
+#%3774
+#%3006547
+#!
+  
+#*Process and Device Scheduling.
+#@Robert D. Cupper
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index388
+#% 
+#!
+  
+#*Explanation-Based Learning.
+#@Gerald DeJong
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index389
+#% 
+#!
+  
+#*Planning and Scheduling.
+#@Thomas Dean,Subbarao Kambhampati
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index390
+#% 
+#!
+  
+#*Traditional Software Design.
+#@Steven A. Demurjian
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index391
+#% 
+#!
+  
+#*Virtual Memory.
+#@Peter J. Denning
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index392
+#%2355
+#%832426
+#%1117337
+#%3003317
+#!
+  
+#*Algebraic Algorithms.
+#@Angel Díaz,Erich Kaltofen,Victor Y. Pan
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index393
+#% 
+#!
+  
+#*Distributed File Systems and Distributed Memory.
+#@Thomas W. Doeppner Jr.
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index394
+#%613063
+#%613056
+#%1081825
+#%1117472
+#!
+  
+#*Real-Time and Embedded Systems.
+#@John A. Stankovic
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index395
+#%808022
+#%1071742
+#%3003326
+#!
+  
+#*Output Devices and Techniques.
+#@Colin Ware
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index396
+#% 
+#!
+  
+#*Interactive Techniques.
+#@Jürgen Ziegler
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index397
+#%774724
+#%912347
+#%3169635
+#!
+  
+#*Advanced Geometric Modeling.
+#@David S. Ebert
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index398
+#% 
+#!
+  
+#*Digital Logic.
+#@James Feldman
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index399
+#% 
+#!
+  
+#*Malicious Software and Hacking.
+#@David Ferbrache,Stuart Mort
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index400
+#% 
+#!
+  
+#*What Is an Operating System?
+#@Raphael A. Finkel
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index401
+#% 
+#!
+  
+#*Data Structures.
+#@Roberto Tamassia,Bryan Cantrill
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index402
+#% 
+#!
+  
+#*Mainstream Rendering Techniques.
+#@Alan Watt
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index403
+#% 
+#!
+  
+#*Qualitative Reasoning.
+#@Kenneth D. Forbus
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index404
+#% 
+#!
+  
+#*Genetic Algorithms.
+#@Stephanie Forrest
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index405
+#%140
+#%1009378
+#!
+  
+#*Concurrency Control and Recovery.
+#@Michael J. Franklin
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index406
+#% 
+#!
+  
+#*Verification and Validation.
+#@John D. Gannon
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index407
+#% 
+#!
+  
+#*Software Qualities and Principles.
+#@Carlo Ghezzi,Mehdi Jazayeri,Dino Mandrioli
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index408
+#% 
+#!
+  
+#*Functional Programming Languages.
+#@Benjamin Goldberg
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index409
+#%832662
+#%1067535
+#%3004666
+#%3004629
+#!
+  
+#*The Organizational Context of Development and Use.
+#@Jonathan Grudin
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index410
+#% 
+#!
+  
+#*The Object-Oriented Language Paradigm.
+#@Stuart Hirshfield,Raimund K. Ege
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index411
+#% 
+#!
+  
+#*Overview of Three-Dimensional Graphics.
+#@Donald H. House
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index412
+#% 
+#!
+  
+#*International User-Interface Standardization.
+#@Wolfgang Dzida
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index413
+#% 
+#!
+  
+#*Busses.
+#@Windsor W. Hsu,Jih-Kwon Peir
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index414
+#% 
+#!
+  
+#*Parallel Architectures.
+#@Michael J. Flynn,Kevin W. Rudd
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index415
+#% 
+#!
+  
+#*Interactive Software Technology.
+#@Peter Wegner
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index416
+#% 
+#!
+  
+#*Computer Vision.
+#@Daniel P. Huttenlocher
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index417
+#% 
+#!
+  
+#*Query Optimization.
+#@Yannis E. Ioannidis
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index418
+#% 
+#!
+  
+#*Input Devices and Techniques.
+#@Robert J. K. Jacob
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index419
+#% 
+#!
+  
+#*Database Security and Privacy.
+#@Sushil Jajodia
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index420
+#%97
+#%135
+#%832205
+#%938291
+#%3003318
+#!
+  
+#*Formal Models and Computability.
+#@Tao Jiang,Ming Li,Bala Ravikumar
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index421
+#% 
+#!
+  
+#*The Imperative Language Paradigm.
+#@Michael J. Jipping,Kim B. Bruce
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index422
+#% 
+#!
+  
+#*Ethical Issues for Computer Scientists and Engineers.
+#@Deborah G. Johnson,Keith W. Miller
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index423
+#% 
+#!
+  
+#*Neural Networks.
+#@Michael I. Jordan,Christopher M. Bishop
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index424
+#% 
+#!
+  
+#*Digital Computer Architecture.
+#@David R. Kaeli
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index425
+#% 
+#!
+  
+#*Computational Ocean Modeling.
+#@Lakshmi Kantha,Steve Piacsek
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index426
+#% 
+#!
+  
+#*Volume Visualization.
+#@Arie E. Kaufman
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index427
+#%806941
+#%1119344
+#%1133867
+#!
+  
+#*Graph and Network Algorithms.
+#@Samir Khuller,Balaji Raghavachari
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index428
+#%2022
+#%2616
+#!
+  
+#*Task Analysis and the Design of Functionality.
+#@David E. Kieras
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index429
+#% 
+#!
+  
+#*Computational Biology.
+#@David T. Kingsbury
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index430
+#% 
+#!
+  
+#*Search.
+#@Danny Kopec,T. Anthony Marsland
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index431
+#% 
+#!
+  
+#*Case Study in Algorithms: VLSI Layout.
+#@Andrea S. LaPaugh
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index432
+#% 
+#!
+  
+#*Protection (Security) Models and Policy.
+#@Carl E. Landwehr
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index433
+#% 
+#!
+  
+#*Computational Geometry.
+#@D. T. Lee
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index434
+#%726
+#%3482
+#!
+  
+#*Robotics.
+#@Frank L. Lewis,M. Fitzgerald,Kai Liu
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index435
+#% 
+#!
+  
+#*Compilers and Interpreters.
+#@Kenneth C. Louden
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index436
+#% 
+#!
+  
+#*Complexity Theory.
+#@Michael C. Loui
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index437
+#% 
+#!
+  
+#*Logic-Based Deductive Reasoning.
+#@James J. Lu,Erik Rosenthal
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index438
+#% 
+#!
+  
+#*Computer Animation.
+#@Nadia Magnenat-Thalmann,Daniel Thalmann
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index439
+#% 
+#!
+  
+#*Secondary Storage and File Systems.
+#@Marshall K. McKusick
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index440
+#% 
+#!
+  
+#*The SQL Language: A Case Study.
+#@Jim Melton
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index441
+#% 
+#!
+  
+#*Randomized Algorithms.
+#@Rajeev Motwani,Prabhakar Raghavan
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index442
+#%543644
+#%771717
+#%839198
+#%890620
+#%951752
+#%953243
+#%953241
+#%1059658
+#%3006162
+#!
+  
+#*Overview of Distributed Operating Systems.
+#@Sape J. Mullender
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index443
+#% 
+#!
+  
+#*Interface Software Technology.
+#@Brad A. Myers
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index444
+#% 
+#!
+  
+#*Security and Privacy Issues in Computer and Communication Systems.
+#@Peter G. Neumann
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index445
+#% 
+#!
+  
+#*Computational Structural Mechanics.
+#@Ahmed K. Noor
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index446
+#% 
+#!
+  
+#*Distributed and Parallel Database Systems.
+#@M. Tamer Özsu,Patrick Valduriez
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index447
+#%2321
+#%2614
+#%17461
+#%833082
+#%856220
+#!
+  
+#*Routing Protocols.
+#@Radia J. Perlman
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index448
+#% 
+#!
+  
+#*Development Strategies and Project Management.
+#@Roger S. Pressman
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index449
+#% 
+#!
+  
+#*Internetworking.
+#@Brian K. Reid,Stephen Stuart
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index450
+#% 
+#!
+  
+#*Software Tools and Environments.
+#@Steven P. Reiss
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index451
+#%2619
+#%578687
+#!
+  
+#*Geometric Primitives.
+#@Alyn P. Rockwood
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index452
+#%3169635
+#!
+  
+#*Access Methods.
+#@Betty Salzberg
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index453
+#%2620
+#%598798
+#%599193
+#%642517
+#!
+  
+#*Testing: Principles and Practice.
+#@Stephen R. Schach
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index454
+#%101061
+#%771308
+#%996552
+#%1071169
+#!
+  
+#*Online Support Systems: Tutorials, Documentation, and Help.
+#@Stuart A. Selber,Johndan Johnson-Eilola,Brad Mehlenbacher
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index455
+#% 
+#!
+  
+#*Computational Electromagnetics.
+#@Joseph S. Shang
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index456
+#% 
+#!
+  
+#*Scientific Visualization.
+#@William R. Sherman,Alan B. Craig,M. Pauline Baker,Colleen Bushell
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index457
+#% 
+#!
+  
+#*Data Models.
+#@Abraham Silberschatz,Henry F. Korth,S. Sudarshan
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index458
+#% 
+#!
+  
+#*Network Organization and Topologies.
+#@William Stallings
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index459
+#% 
+#!
+  
+#*Computer Science and Engineering: The Discipline and Its Impact.
+#@Allen B. Tucker,Peter Wegner
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index460
+#% 
+#!
+  
+#*Process Synchronization and Interprocess Communications.
+#@Craig E. Wills
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index461
+#% 
+#!
+  
+#*Usability Engineering.
+#@Jakob Nielsen
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index462
+#% 
+#!
+  
+#*Knowledge-Based Systems for Natural Language Processing.
+#@Sergei Nirenburg,Kavi Mahesh
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index463
+#% 
+#!
+  
+#*Run Time Environments and Memory Management.
+#@Robert E. Noonan,William L. Bynum
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index464
+#% 
+#!
+  
+#*Database Performance Measurement.
+#@Patrick E. O'Neil
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index465
+#% 
+#!
+  
+#*Graphical Models for Probabilistic and Causal Reasoning.
+#@Judea Pearl
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index466
+#% 
+#!
+  
+#*Foundational Calculi for Programming Languages.
+#@Benjamin C. Pierce
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index467
+#% 
+#!
+  
+#*Decision Trees and Instance-Based Classifiers.
+#@J. Ross Quinlan
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index468
+#% 
+#!
+  
+#*Basic Techniques for Design and Analysis of Algorithms.
+#@Edward M. Reingold
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index469
+#%2022
+#%832807
+#!
+  
+#*Text Databases and Information Retrieval.
+#@Ellen Riloff,Lee A. Hollaar
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index470
+#%166
+#%769905
+#!
+  
+#*The Human Factor in Programming and Software Development.
+#@Mary Beth Rossen
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index471
+#% 
+#!
+  
+#*Authentication, Access Controls, and Intrusion Detection.
+#@Ravi S. Sandhu,Pierangela Samarati
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index472
+#% 
+#!
+  
+#*Programming Language Semantics.
+#@David A. Schmidt
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index473
+#%3003026
+#%3003854
+#%3005874
+#%3005873
+#%3006691
+#!
+  
+#*Understanding Spoken Language.
+#@Stephanie Seneff,Victor Zue
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index474
+#% 
+#!
+  
+#*Tuning Database Design for High Performance.
+#@Dennis Shasha
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index475
+#% 
+#!
+  
+#*Software Support Challenges for Heterogeneous Computing.
+#@Howard Jay Siegel,Henry G. Dietz,John K. Antonio
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index476
+#% 
+#!
+  
+#*Software Process Models.
+#@Ian Sommerville
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index477
+#%805809
+#%1071169
+#%1129460
+#!
+  
+#*Geometry-Grid Generation.
+#@Bharat K. Soni,Nigel P. Weatherill
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index478
+#% 
+#!
+  
+#*High-Speed Computer Arithmetic.
+#@Earl E. Swartzlander Jr.
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index479
+#% 
+#!
+  
+#*Sampling, Reconstruction, and Antialiasing.
+#@George Wolberg
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index480
+#% 
+#!
+  
+#*Multimedia.
+#@James L. Alty
+#t1997
+#cThe Computer Science and Engineering Handbook
+#index481
+#% 
+#!
+  
+#*The Industrial Information Technology Handbook
+#@Richard Zurawski
+#t2005
+#cThe Industrial Information Technology Handbook
+#index482
+#% 
+#!
+  
+#*The Compiler Design Handbook: Optimizations and Machine Code Generation
+#@Y. N. Srikant,Priti Shankar
+#t2002
+#cThe Compiler Design Handbook
+#index486
+#% 
+#!
+  
+#*An Introduction to Unification-Based Approaches to Grammar
+#@Stuart M. Shieber
+#t1986
+#cCSLI Lecture Notes
+#index498
+#% 
+#!
+  
+#*Word Order and Constituent Structure in German
+#@Hans Uszkoreit
+#t1987
+#cCSLI Lecture Notes
+#index499
+#% 
+#!
+  
+#*Nonmonotonic Reasoning: An Overview
+#@Gerhard Brewka,Jürgen Dix,Kurt Konolige
+#t1997
+#cCSLI Lecture Notes
+#index500
+#% 
+#!
+  
+#*Specification Language.
+#@Jean-Raymond Abrial,Stephen A. Schuman,Bertrand Meyer
+#t1980
+#cOn the Construction of Programs
+#index501
+#% 
+#!
+  
+#*An Introduction to Pascal-Plus.
+#@David W. Bustard
+#t1980
+#cOn the Construction of Programs
+#index502
+#% 
+#!
+  
+#*Algorithms for Parallel Computers.
+#@Maurice Clint,Ronald H. Perrott
+#t1980
+#cOn the Construction of Programs
+#index503
+#% 
+#!
+  
+#*Concurrent Pascal - An Appraisal.
+#@Derek Coleman
+#t1980
+#cOn the Construction of Programs
+#index504
+#% 
+#!
+  
+#*A Model for Communicating Sequential Processes.
+#@C. A. R. Hoare
+#t1980
+#cOn the Construction of Programs
+#index505
+#% 
+#!
+  
+#*Modules and Visibility in the Ada Programming Language.
+#@Jean Ichbiah,John G. P. Barnes,J. C. Heliard,Bernd Krieg-Brückner,Olivier Roubine,Brian A. Wichmann
+#t1980
+#cOn the Construction of Programs
+#index506
+#% 
+#!
+  
+#*Information Systems: Modelling, Sequencing and Transformations.
+#@M. A. Jackson
+#t1980
+#cOn the Construction of Programs
+#index507
+#% 
+#!
+  
+#*A Structured Operating System.
+#@R. M. McKeag
+#t1980
+#cOn the Construction of Programs
+#index508
+#% 
+#!
+  
+#*Languages for Parallel Computers.
+#@Ronald H. Perrott
+#t1980
+#cOn the Construction of Programs
+#index509
+#% 
+#!
+  
+#*Parallel Processing in Ada.
+#@Olivier Roubine,J. C. Heliard
+#t1980
+#cOn the Construction of Programs
+#index510
+#% 
+#!
+  
+#*A Structured Compiler.
+#@Jim Welsh
+#t1980
+#cOn the Construction of Programs
+#index511
+#% 
+#!
+  
+#*Data Refinement: Model-oriented Proof Theories and their Comparison
+#@Willem P. de Roever,Kai Engelhardt
+#t1998
+#cCambridge Tracts in Theoretical Computer Science
+#index528
+#% 
+#!
+  
+#*Concurrency Verification: Introduction to Compositional and Noncompositional Methods
+#@Willem P. de Roever,Frank S. de Boer,Ulrich Hannemann,Jozef Hooman,Yassine Lakhnech,Mannes Poel,Job Zwiers
+#t2001
+#cCambridge Tracts in Theoretical Computer Science
+#index529
+#% 
+#!
+  
+#*Technologiebewusstes Design von Web-Anwendungen.
+#@Gerhard Austaller,Markus Lauff,Fernando Lyardet,Max Mühlhäuser
+#t2003
+#cWeb Engineering: Systematische Entwicklung von Web-Anwendungen
+#index531
+#% 
+#!
+  
+#*Semantisches Web - Das Netz der Bedeutungen im Netz der Dokumente.
+#@Wernher Behrendt
+#t2003
+#cWeb Engineering: Systematische Entwicklung von Web-Anwendungen
+#index532
+#% 
+#!
+  
+#*Sicherheit von Web-Anwendungen.
+#@Cristina Buchholz
+#t2003
+#cWeb Engineering: Systematische Entwicklung von Web-Anwendungen
+#index533
+#% 
+#!
+  
+#*Betrieb und Wartung von Web-Anwendungen.
+#@Arno Ebner,Hannes Werthner
+#t2003
+#cWeb Engineering: Systematische Entwicklung von Web-Anwendungen
+#index534
+#% 
+#!
+  
+#*Architektur von Web-Anwendungen.
+#@Christian Eichinger
+#t2003
+#cWeb Engineering: Systematische Entwicklung von Web-Anwendungen
+#index535
+#% 
+#!
+  
+#*Entwicklungsprozess von Web-Anwendungen.
+#@Gregor Engels,Marc Lohmann,Annika Wagner
+#t2003
+#cWeb Engineering: Systematische Entwicklung von Web-Anwendungen
+#index536
+#% 
+#!
+  
+#*Implementierungstechnologien für Web-Anwendungen.
+#@Martin Gaedke,Martin Nussbaumer,Oliver Jung,Markus Dieckmann
+#t2003
+#cWeb Engineering: Systematische Entwicklung von Web-Anwendungen
+#index537
+#% 
+#!
+  
+#*Requirements Engineering für Web-Anwendungen.
+#@Paul Grünbacher
+#t2003
+#cWeb Engineering: Systematische Entwicklung von Web-Anwendungen
+#index538
+#% 
+#!
+  
+#*Usability von Web-Anwendungen.
+#@Martin Hitz,Gerhard Leitner
+#t2003
+#cWeb Engineering: Systematische Entwicklung von Web-Anwendungen
+#index539
+#% 
+#!
+  
+#*Web Engineering - Die Disziplin zur systematischen Entwicklung von Web-Anwendungen.
+#@Gerti Kappel,Birgit Pröll,Siegfried Reich,Werner Retschitzegger
+#t2003
+#cWeb Engineering: Systematische Entwicklung von Web-Anwendungen
+#index540
+#% 
+#!
+  
+#*Performanz von Web-Anwendungen.
+#@Gabriele Kotsis
+#t2003
+#cWeb Engineering: Systematische Entwicklung von Web-Anwendungen
+#index541
+#% 
+#!
+  
+#*Web-Projektmanagement.
+#@Herwig Mayr
+#t2003
+#cWeb Engineering: Systematische Entwicklung von Web-Anwendungen
+#index542
+#% 
+#!
+  
+#*Modellierung von Web-Anwendungen.
+#@Wieland Schwinger,Nora Koch
+#t2003
+#cWeb Engineering: Systematische Entwicklung von Web-Anwendungen
+#index543
+#% 
+#!
+  
+#*Testen von Web-Anwendungen.
+#@Christoph Steindl,Rudolf Ramler,Josef Altmann
+#t2003
+#cWeb Engineering: Systematische Entwicklung von Web-Anwendungen
+#index544
+#% 
+#!
+  
+#*Semistrukturierte Datenmodelle und XML.
+#@Wolfgang Benn,Oliver Langer
+#t2003
+#cWeb & Datenbanken
+#index545
+#% 
+#!
+  
+#*Benchmarking von XML-Datenbanksystemen.
+#@Timo Böhme,Erhard Rahm
+#t2003
+#cWeb & Datenbanken
+#index546
+#% 
+#!
+  
+#*Indexstrukturen für XML.
+#@Sven Helmer,Guido Moerkotte
+#t2003
+#cWeb & Datenbanken
+#index547
+#% 
+#!
+  
+#*Web-basiertes Lernen: Eine Übersicht über Stand und Entwicklungen.
+#@Peter Jaeschke,Andreas Oberweis,Gottfried Vossen
+#t2003
+#cWeb & Datenbanken
+#index548
+#% 
+#!
+  
+#*Architektur von Web-Informationssystemen.
+#@Gerti Kappel,Werner Retschitzegger,Birgit Pröll,Rainer Unland,Bahram Vojdani
+#t2003
+#cWeb & Datenbanken
+#index549
+#% 
+#!
+  
+#*Web Services.
+#@Markus Keidl,Alfons Kemper,Stefan Seltzsam,Konrad Stocker
+#t2003
+#cWeb & Datenbanken
+#index550
+#% 
+#!
+  
+#*Speicherung von XML-Dokumenten.
+#@Meike Klettke,Holger Meyer,Werner Retschitzegger,Rainer Unland
+#t2003
+#cWeb & Datenbanken
+#index551
+#% 
+#!
+  
+#*Anfragen, Ändern und Transformieren von XML.
+#@Georg Lausen,Wolfgang May
+#t2003
+#cWeb & Datenbanken
+#index552
+#% 
+#!
+  
+#*Kommerzielle Systeme zur Speicherung, Verwaltung und Anfrage von XML-Dokumenten.
+#@Holger Meyer,Meike Klettke
+#t2003
+#cWeb & Datenbanken
+#index553
+#% 
+#!
+  
+#*Data-Warehouse-Einsatz zur Web-Zugriffsanalyse.
+#@Erhard Rahm,Thomas Stöhr
+#t2003
+#cWeb & Datenbanken
+#index554
+#% 
+#!
+  
+#*Datenintegration und Mediatoren.
+#@Kai-Uwe Sattler,Stefan Conrad,Gunter Saake
+#t2003
+#cWeb & Datenbanken
+#index555
+#% 
+#!
+  
+#*XML Schema.
+#@Harald Schöning,Walter Waterfeld
+#t2003
+#cWeb & Datenbanken
+#index556
+#% 
+#!
+  
+#*Suchmaschinen.
+#@Gunnar Weber,Ilvio Bruder,Andreas Heuer
+#t2003
+#cWeb & Datenbanken
+#index557
+#% 
+#!
+  
+#*Web Caching.
+#@Gerhard Weikum
+#t2003
+#cWeb & Datenbanken
+#index558
+#% 
+#!
+  
+#*Web Engineering: Systematische Entwicklung von Web-Anwendungen
+#@Gerti Kappel,Birgit Proll,Siegfried Reich,Werner Retschitzegger
+#t2003
+#cWeb Engineering: Systematische Entwicklung von Web-Anwendungen
+#index564
+#% 
+#!
+  
+#*A Formal Model for Lazy Implementations of a Prolog-Compatible Functional Language.
+#@Marco Bellia,Enrico Dameri,Pierpaolo Degano,Giorgio Levi,Maurizio Martelli
+#t1984
+#cImplementations of Prolog
+#index574
+#% 
+#!
+  
+#*Garbage Collection in Prolog Interpreters.
+#@Maurice Bruynooghe
+#t1984
+#cImplementations of Prolog
+#index575
+#% 
+#!
+  
+#*Deduction Revision by Intelligent Backtracking.
+#@Maurice Bruynooghe,Luís Moniz Pereira
+#t1984
+#cImplementations of Prolog
+#index576
+#% 
+#!
+  
+#*Should Prolog be List or Record Oriented.
+#@John A. Campbell,Steve Hardy
+#t1984
+#cImplementations of Prolog
+#index577
+#% 
+#!
+  
+#*Finding Backtrack Points for Intelligent Backtracking.
+#@Philip T. Cox
+#t1984
+#cImplementations of Prolog
+#index578
+#% 
+#!
+  
+#*POLER - Implementation of a POP-2-based PLANNER.
+#@Julian Davies
+#t1984
+#cImplementations of Prolog
+#index579
+#% 
+#!
+  
+#*A Note on Micro-Planer.
+#@Mark Dowson
+#t1984
+#cImplementations of Prolog
+#index580
+#% 
+#!
+  
+#*An Interpreting Algorithm for Prolog Programs.
+#@Maarten H. van Emden
+#t1984
+#cImplementations of Prolog
+#index581
+#% 
+#!
+  
+#*What the naive user wants from Prolog.
+#@Richard Ennals,Jonathan Briggs,Derek R. Brough
+#t1984
+#cImplementations of Prolog
+#index582
+#% 
+#!
+  
+#*A Prolog Interpreter Working with Infinite Terms.
+#@Miguel Filgueiras
+#t1984
+#cImplementations of Prolog
+#index583
+#% 
+#!
+  
+#*Exeter Prolog - some thoughts on Prolog design by a LISP user.
+#@Rabbe Fogelholm
+#t1984
+#cImplementations of Prolog
+#index584
+#% 
+#!
+  
+#*The Control of Searching and Backtracking in String Pattern Matching.
+#@Ralph E. Griswold
+#t1984
+#cImplementations of Prolog
+#index585
+#% 
+#!
+  
+#*Efficient Implementation of Unification of Cyclic Structures.
+#@Seif Haridi,Dan Sahlin
+#t1984
+#cImplementations of Prolog
+#index586
+#% 
+#!
+  
+#*How to Implement Prolog on a LISP Machine.
+#@Kenneth M. Kahn,Mats Carlsson
+#t1984
+#cImplementations of Prolog
+#index587
+#% 
+#!
+  
+#*The 'Marseille Interpreter' - a Personal Perspective.
+#@Feliks Kluzniak
+#t1984
+#cImplementations of Prolog
+#index588
+#% 
+#!
+  
+#*Prolog - a Panacea?
+#@Feliks Kluzniak,Stan Szpakowicz
+#t1984
+#cImplementations of Prolog
+#index589
+#% 
+#!
+  
+#*Integrating Prolog in the POPLOG Environment.
+#@Chris Mellish,Steve Hardy
+#t1984
+#cImplementations of Prolog
+#index590
+#% 
+#!
+  
+#*A Proposal for Distributed Programming in Logic.
+#@Luís Monteiro
+#t1984
+#cImplementations of Prolog
+#index591
+#% 
+#!
+  
+#*Associative Evaluation of Prolog Programs.
+#@Katsuhiko Nakamura
+#t1984
+#cImplementations of Prolog
+#index592
+#% 
+#!
+  
+#*The World's Shortest Prolog Interpreter?
+#@Martin Nilsson
+#t1984
+#cImplementations of Prolog
+#index593
+#% 
+#!
+  
+#*Formal Vienna-Definition-Method Models of Prolog.
+#@Jørgen Fischer Nilsson
+#t1984
+#cImplementations of Prolog
+#index594
+#% 
+#!
+  
+#*Logic Control with Logic.
+#@Luís Moniz Pereira
+#t1984
+#cImplementations of Prolog
+#index595
+#% 
+#!
+  
+#*Epilog: A Language for Extended Programming in Logic.
+#@António Porto
+#t1984
+#cImplementations of Prolog
+#index596
+#% 
+#!
+  
+#*W-Grammars for Logic Programming.
+#@Stephen John Turner
+#t1984
+#cImplementations of Prolog
+#index597
+#% 
+#!
+  
+#*The Taming of the Sleuth.
+#@Mark Warner
+#t1984
+#cImplementations of Prolog
+#index598
+#% 
+#!
+  
+#*EPILOG: Re-interpreting and Extending Prolog for a Multiprocessor Environment.
+#@Michael J. Wise
+#t1984
+#cImplementations of Prolog
+#index599
+#% 
+#!
+  
+#*System Simulation and Cooperative Problem-solving on a Prolog Basis.
+#@Ivan Futó,János Szeredi
+#t1984
+#cImplementations of Prolog
+#index600
+#% 
+#!
+  
+#*On Prolog DBMS Connections: A Step Forward from Educe.
+#@Jorge B. Bocca,Philip J. Pearson
+#t1988
+#cProlog and Databases
+#index601
+#% 
+#!
+  
+#*Grid Files for Efficient Prolog Clause Access.
+#@Michael Freeston
+#t1988
+#cProlog and Databases
+#index602
+#% 
+#!
+  
+#*A Source-to-Source Meta-Translation System for Database Query Languages - Implementation in Prolog.
+#@D. I. Howells,N. J. Fiddian,W. A. Gray
+#t1988
+#cProlog and Databases
+#index603
+#% 
+#!
+  
+#*A Flexible Prolog-Based Lexical Database System.
+#@William G. Imlah,Bart Demoen
+#t1988
+#cProlog and Databases
+#index604
+#% 
+#!
+  
+#*A Generalized Interface Between Prolog and Relational Databases.
+#@T. Irving
+#t1988
+#cProlog and Databases
+#index605
+#% 
+#!
+  
+#*A Prolog-Relational Database Interface.
+#@Robert J. Lucas,G. A. Le Vine
+#t1988
+#cProlog and Databases
+#index606
+#% 
+#!
+  
+#*TREQL (Thornton Research Easy Query Language): An Intelligent Front-End to a Relational Database.
+#@K. Lunn,I. G. Archibald
+#t1988
+#cProlog and Databases
+#index607
+#% 
+#!
+  
+#*Modular Commitment in Persistent Prolog.
+#@David S. Moffat
+#t1988
+#cProlog and Databases
+#index608
+#% 
+#!
+  
+#*Implementing Query Languages in Prolog.
+#@F. Mouta,M. Howard Williams,J. C. Neves
+#t1988
+#cProlog and Databases
+#index609
+#% 
+#!
+  
+#*On Transaction Processing, Knowledge-Based Systems and Databases.
+#@T. Nomura,S. Lunn
+#t1988
+#cProlog and Databases
+#index610
+#% 
+#!
+  
+#*An Object-Oriented Database for Storage and Analysis of Protein Structure Data.
+#@Norman W. Paton,Peter M. D. Gray
+#t1988
+#cProlog and Databases
+#index611
+#% 
+#!
+  
+#*The NU-Prolog Deductive Database System.
+#@Kotagiri Ramamohanarao,John Shepherd,Isaac Balbin,Graeme S. Port,Lee Naish,James A. Thom,Justin Zobel,Philip W. Dart
+#t1988
+#cProlog and Databases
+#index612
+#% 
+#!
+  
+#*Software Configuration Management Using Prolog.
+#@Paul Singleton,C. D. Farris
+#t1988
+#cProlog and Databases
+#index613
+#% 
+#!
+  
+#*Guarded Default Databases: A Prototype Implementation.
+#@Carol Small
+#t1988
+#cProlog and Databases
+#index614
+#% 
+#!
+  
+#*An Interface from Prolog to a Binary Relational Database.
+#@S. Todd
+#t1988
+#cProlog and Databases
+#index615
+#% 
+#!
+  
+#*A Data-Driven Execution Mechanism for Transaction-Oriented Information Systems.
+#@Raf Venken,D. Donner
+#t1988
+#cProlog and Databases
+#index616
+#% 
+#!
+  
+#*The Interaction Between BIM-Prolog and Relational Databases.
+#@Raf Venken,Anne Mulkers
+#t1988
+#cProlog and Databases
+#index617
+#% 
+#!
+  
+#*Recursive Query Processing: Fundamental Algorithms and the DedGin System.
+#@Laurent Vieille
+#t1988
+#cProlog and Databases
+#index618
+#% 
+#!
+  
+#*The TRACE Club Expert System and Databases.
+#@G. Williams
+#t1988
+#cProlog and Databases
+#index619
+#% 
+#!
+  
+#*Benchmarking Prolog for Database Applications.
+#@M. Howard Williams,P. A. Massey,Jim A. Crammond
+#t1988
+#cProlog and Databases
+#index620
+#% 
+#!
+  
+#*Classical Type Theory.
+#@Peter B. Andrews
+#t2001
+#cHandbook of Automated Reasoning
+#index625
+#%630
+#%642
+#%649
+#%794
+#%2472
+#%71100
+#%71146
+#%71233
+#%71213
+#%71211
+#%71553
+#%71571
+#%71707
+#%71838
+#%624650
+#%624782
+#%629375
+#%629420
+#%951335
+#%954590
+#%954584
+#%954803
+#%3004240
+#!
+  
+#*Unification Theory.
+#@Franz Baader,Wayne Snyder
+#t2001
+#cHandbook of Automated Reasoning
+#index626
+#% 
+#!
+  
+#*Normal Form Transformations.
+#@Matthias Baaz,Uwe Egly,Alexander Leitsch
+#t2001
+#cHandbook of Automated Reasoning
+#index627
+#% 
+#!
+  
+#*Automated Deduction for Many-Valued Logics.
+#@Matthias Baaz,Christian G. Fermüller,Gernot Salzer
+#t2001
+#cHandbook of Automated Reasoning
+#index628
+#%71399
+#%71859
+#%71848
+#%79288
+#%124532
+#%124709
+#%126923
+#%440232
+#%440672
+#%441362
+#%487020
+#%487173
+#%624680
+#%744257
+#%889330
+#%949808
+#%951454
+#%984574
+#%994623
+#%994665
+#%994371
+#%1079602
+#%1094458
+#%1113301
+#%1196507
+#%3005147
+#!
+  
+#*Resolution Theorem Proving.
+#@Leo Bachmair,Harald Ganzinger
+#t2001
+#cHandbook of Automated Reasoning
+#index629
+#% 
+#!
+  
+#*Proof-Assistants Using Dependent Type Systems.
+#@Henk Barendregt,Herman Geuvers
+#t2001
+#cHandbook of Automated Reasoning
+#index630
+#%649
+#%79760
+#%483982
+#%483929
+#%507704
+#%628861
+#%628883
+#%628796
+#%628864
+#%631843
+#%631824
+#%631822
+#%631910
+#%887517
+#%888411
+#%889405
+#%950598
+#%993597
+#%994438
+#%1093849
+#%1129396
+#%3169345
+#!
+  
+#*Solving Numerical Constraints.
+#@Alexander Bockmayr,Volker Weispfenning
+#t2001
+#cHandbook of Automated Reasoning
+#index631
+#% 
+#!
+  
+#*The Automation of Proof by Mathematical Induction.
+#@Alan Bundy
+#t2001
+#cHandbook of Automated Reasoning
+#index632
+#% 
+#!
+  
+#*Reasoning in Expressive Description Logics.
+#@Diego Calvanese,Giuseppe De Giacomo,Maurizio Lenzerini,Daniele Nardi
+#t2001
+#cHandbook of Automated Reasoning
+#index633
+#%648
+#%705
+#%12174
+#%12173
+#%12126
+#%12915
+#%160077
+#%269126
+#%299602
+#%304150
+#%361775
+#%387862
+#%469104
+#%480072
+#%479984
+#%484745
+#%486479
+#%544895
+#%544901
+#%623217
+#%624670
+#%744794
+#%745583
+#%745631
+#%745837
+#%771273
+#%846123
+#%887716
+#%887960
+#%889539
+#%938701
+#%950023
+#%950596
+#%951383
+#%973067
+#%1091602
+#%1112473
+#%1118181
+#!
+  
+#*Automated Reasoning in Geometry.
+#@Shang-Ching Chou,Xiao-Shan Gao
+#t2001
+#cHandbook of Automated Reasoning
+#index634
+#% 
+#!
+  
+#*Model Checking.
+#@Edmund M. Clarke,Bernd-Holger Schlingloff
+#t2001
+#cHandbook of Automated Reasoning
+#index635
+#% 
+#!
+  
+#*Inductionless Induction.
+#@Hubert Comon
+#t2001
+#cHandbook of Automated Reasoning
+#index636
+#% 
+#!
+  
+#*The Early History of Automated Deduction.
+#@Martin Davis
+#t2001
+#cHandbook of Automated Reasoning
+#index637
+#% 
+#!
+  
+#*The Inverse Method.
+#@Anatoli Degtyarev,Andrei Voronkov
+#t2001
+#cHandbook of Automated Reasoning
+#index638
+#% 
+#!
+  
+#*Equality Reasoning in Sequent-Based Calculi.
+#@Anatoli Degtyarev,Andrei Voronkov
+#t2001
+#cHandbook of Automated Reasoning
+#index639
+#% 
+#!
+  
+#*Rewriting.
+#@Nachum Dershowitz,David A. Plaisted
+#t2001
+#cHandbook of Automated Reasoning
+#index640
+#% 
+#!
+  
+#*Nonmonotonic Reasoning: Towards Efficient Calculi and Implementations.
+#@Jürgen Dix,Ulrich Furbach,Ilkka Niemelä
+#t2001
+#cHandbook of Automated Reasoning
+#index641
+#%702
+#%2248
+#%2252
+#%3148
+#%71147
+#%71149
+#%71555
+#%71670
+#%174364
+#%327605
+#%328076
+#%328708
+#%439868
+#%469000
+#%469027
+#%477362
+#%477532
+#%477830
+#%486759
+#%487621
+#%487670
+#%487749
+#%487637
+#%487642
+#%487686
+#%487829
+#%487756
+#%519125
+#%519124
+#%544746
+#%544889
+#%545051
+#%545047
+#%599712
+#%605303
+#%624730
+#%624759
+#%624697
+#%624732
+#%624834
+#%624696
+#%744262
+#%744339
+#%744459
+#%744540
+#%744769
+#%744626
+#%744771
+#%745293
+#%745189
+#%745215
+#%745354
+#%745478
+#%745543
+#%745727
+#%745733
+#%816298
+#%818419
+#%882164
+#%887268
+#%888046
+#%888697
+#%888993
+#%938702
+#%950001
+#%949808
+#%950177
+#%950401
+#%951013
+#%951015
+#%951136
+#%951104
+#%951103
+#%954568
+#%954864
+#%955025
+#%954997
+#%1089390
+#%1089662
+#%1089835
+#%1090784
+#%1112576
+#%1113573
+#%1117202
+#%1118326
+#%1126517
+#%3006523
+#!
+  
+#*Higher-Order Unification and Matching.
+#@Gilles Dowek
+#t2001
+#cHandbook of Automated Reasoning
+#index642
+#%630
+#%649
+#%625
+#%39026
+#%71337
+#%71571
+#%71719
+#%71731
+#%71816
+#%71921
+#%83704
+#%83680
+#%124403
+#%252267
+#%484192
+#%484280
+#%484539
+#%487159
+#%546738
+#%546659
+#%563388
+#%563482
+#%563477
+#%611923
+#%626693
+#%628863
+#%628861
+#%628903
+#%628864
+#%628876
+#%631783
+#%887517
+#%933121
+#%950090
+#%950598
+#%955169
+#%993670
+#%994342
+#%994634
+#%1014676
+#%1090632
+#%1090642
+#%1091042
+#%1093390
+#%3004240
+#%3006100
+#%3275986
+#!
+  
+#*Resolution Decision Procedures.
+#@Christian G. Fermüller,Alexander Leitsch,Ullrich Hustadt,Tanel Tammet
+#t2001
+#cHandbook of Automated Reasoning
+#index643
+#%648
+#%633
+#%3148
+#%3232
+#%62013
+#%71749
+#%71670
+#%71745
+#%95941
+#%124463
+#%388978
+#%469027
+#%477309
+#%484711
+#%487121
+#%624847
+#%745837
+#%950808
+#%951454
+#%951620
+#%955053
+#%994450
+#%994623
+#%994488
+#!
+  
+#*Tableaux and Related Methods.
+#@Reiner Hähnle
+#t2001
+#cHandbook of Automated Reasoning
+#index644
+#% 
+#!
+  
+#*Model Elimination and Connection Tableau Procedures.
+#@Reinhold Letz,Gernot Stenz
+#t2001
+#cHandbook of Automated Reasoning
+#index645
+#%653
+#%65529
+#%71096
+#%71178
+#%71149
+#%71171
+#%71220
+#%71601
+#%71506
+#%71630
+#%71963
+#%72003
+#%418475
+#%487257
+#%624722
+#%624829
+#%624696
+#%951013
+#%951015
+#%951019
+#%954660
+#%954856
+#%954906
+#%955014
+#%994488
+#%1094760
+#!
+  
+#*Paramodulation-Based Theorem Proving.
+#@Robert Nieuwenhuis,Albert Rubio
+#t2001
+#cHandbook of Automated Reasoning
+#index646
+#% 
+#!
+  
+#*Computing Small Clause Normal Forms.
+#@Andreas Nonnengart,Christoph Weidenbach
+#t2001
+#cHandbook of Automated Reasoning
+#index647
+#% 
+#!
+  
+#*Encoding Two-Valued Nonclassical Logics in Classical Logic.
+#@Hans Jürgen Ohlbach,Andreas Nonnengart,Maarten de Rijke,Dov M. Gabbay
+#t2001
+#cHandbook of Automated Reasoning
+#index648
+#%630
+#%645
+#%643
+#%642
+#%653
+#%650
+#%648
+#%633
+#%628
+#%641
+#%649
+#%625
+#%652
+#%2370
+#%3301
+#%3232
+#%71344
+#%71758
+#%71756
+#%71750
+#%71746
+#%71760
+#%71688
+#%114331
+#%484711
+#%484747
+#%484745
+#%484710
+#%485079
+#%563616
+#%620317
+#%625165
+#%745025
+#%745306
+#%950808
+#%954937
+#%971863
+#%987000
+#%987003
+#%994343
+#%3001522
+#!
+  
+#*Logical Frameworks.
+#@Frank Pfenning
+#t2001
+#cHandbook of Automated Reasoning
+#index649
+#%630
+#%642
+#%648
+#%625
+#%2471
+#%70812
+#%71132
+#%71379
+#%71396
+#%71742
+#%71794
+#%71823
+#%71791
+#%71845
+#%71877
+#%83693
+#%126858
+#%180575
+#%189010
+#%484539
+#%484538
+#%484777
+#%485014
+#%485086
+#%485118
+#%487089
+#%523736
+#%542761
+#%546564
+#%563388
+#%563673
+#%626669
+#%628855
+#%628861
+#%628853
+#%628842
+#%628864
+#%628750
+#%628892
+#%631878
+#%887392
+#%950598
+#%950459
+#%951576
+#%954971
+#%984704
+#%984611
+#%1057060
+#%1091506
+#%1091752
+#%3169345
+#!
+  
+#*Term Indexing.
+#@I. V. Ramakrishnan,R. C. Sekar,Andrei Voronkov
+#t2001
+#cHandbook of Automated Reasoning
+#index650
+#%653
+#%2135
+#%3301
+#%71442
+#%71967
+#%71927
+#%188886
+#%188866
+#%219764
+#%219934
+#%269025
+#%327615
+#%328631
+#%484283
+#%484249
+#%487241
+#%543137
+#%543381
+#%546067
+#%546668
+#%563325
+#%620635
+#%626581
+#%626432
+#%889658
+#%950001
+#%950506
+#%950684
+#%951408
+#%951282
+#%954890
+#%954856
+#%954884
+#%954782
+#%955053
+#%954906
+#%955025
+#%954921
+#%955115
+#%954927
+#%984291
+#%984740
+#%993442
+#%1060417
+#%1123456
+#!
+  
+#*Preface.
+#@John Alan Robinson,Andrei Voronkov
+#t2001
+#cHandbook of Automated Reasoning
+#index651
+#% 
+#!
+  
+#*Connections in Nonclassical Logics.
+#@Arild Waaler
+#t2001
+#cHandbook of Automated Reasoning
+#index652
+#%645
+#%648
+#%38354
+#%71171
+#%71615
+#%71677
+#%71608
+#%71756
+#%71823
+#%71884
+#%477312
+#%624710
+#%624842
+#%624735
+#%624840
+#%624678
+#%624787
+#%624841
+#%624673
+#%624896
+#%624809
+#%881704
+#%888592
+#%949749
+#%951454
+#%954879
+#%3001522
+#!
+  
+#*Combining Superposition, Sorts and Splitting.
+#@Christoph Weidenbach
+#t2001
+#cHandbook of Automated Reasoning
+#index653
+#%642
+#%650
+#%71440
+#%71751
+#%71927
+#%71978
+#%71688
+#%477309
+#%484541
+#%563399
+#%744979
+#%933934
+#%950198
+#%950506
+#%950808
+#%951454
+#%951668
+#%951857
+#%954890
+#%955047
+#%993729
+#%1094458
+#%3004973
+#!
+  
+#*Computer-Aided Database Design: the DATAID approach.
+#@Antonio Albano,Valeria De Antonellis,Antonio Di Leva
+#t1985
+#cComputer-Aided Database Design: the DATAID approach
+#index654
+#% 
+#!
+  
+#*A Software Engineering Approach to Database Design: The Galileo Project.
+#@Antonio Albano,Renzo Orsini
+#t1985
+#cComputer-Aided Database Design: the DATAID approach
+#index655
+#% 
+#!
+  
+#*A Tool for Modeling Dynamics in Conceptual Design.
+#@Valeria De Antonellis,Bruna Zonta
+#t1985
+#cComputer-Aided Database Design: the DATAID approach
+#index656
+#% 
+#!
+  
+#*GINCOD: A Graphical Tool for Conceptual Design of Data Base Applications.
+#@Carlo Batini,Enrico Nardelli,Maurizio Talamo,Roberto Tamassia
+#t1985
+#cComputer-Aided Database Design: the DATAID approach
+#index657
+#% 
+#!
+  
+#*The Logical Design in the DATAID Project: The EASYMAP System.
+#@M. N. Bert,Gianfranco Ciardo,G. Barbara Demo,Antonio Di Leva,Piercarlo Giolito,C. Iacobelli,V. Marrone
+#t1985
+#cComputer-Aided Database Design: the DATAID approach
+#index658
+#% 
+#!
+  
+#*A Workbench for Conceptual Design in Galileo.
+#@Maurizio Capaccioli,M. Eugenia Occhiuto
+#t1985
+#cComputer-Aided Database Design: the DATAID approach
+#index659
+#% 
+#!
+  
+#*DATAID-D: Methodology for Distributed Database Design.
+#@Stefano Ceri,Barbara Pernici
+#t1985
+#cComputer-Aided Database Design: the DATAID approach
+#index660
+#% 
+#!
+  
+#*Dynamics in Logical Database Design.
+#@G. Barbara Demo,Antonio Di Leva,Piercarlo Giolito
+#t1985
+#cComputer-Aided Database Design: the DATAID approach
+#index661
+#% 
+#!
+  
+#*Architecture of a Physical Design Tool for Relational DBMSs.
+#@Dario Maio,Claudio Sartori,Maria Rita Scalas
+#t1985
+#cComputer-Aided Database Design: the DATAID approach
+#index662
+#% 
+#!
+  
+#*Important Issues in Database Design Methodologies and Tools.
+#@Shamkant B. Navathe
+#t1985
+#cComputer-Aided Database Design: the DATAID approach
+#index663
+#% 
+#!
+  
+#*Integrated Tools for Physical Database Design in CODASYL Environment.
+#@Salvatore Orlando,Pasquale Rullo,Domenico Saccà,Witold Staniszkis
+#t1985
+#cComputer-Aided Database Design: the DATAID approach
+#index664
+#% 
+#!
+  
+#*Concepts, Implementation, and Applications of a Typed Logic Programming Language.
+#@Christoph Beierle
+#t1995
+#cLogic Programming: Formal Methods and Practical Applications
+#index665
+#% 
+#!
+  
+#*Combinatorial Problem Solving in Constraint Logic Programming with Cooperating Solvers.
+#@Henri Beringer,Bruno De Backer
+#t1995
+#cLogic Programming: Formal Methods and Practical Applications
+#index666
+#% 
+#!
+  
+#*The WAM - Definition and Compiler Correctness.
+#@Egon Börger,Dean Rosenzweig
+#t1995
+#cLogic Programming: Formal Methods and Practical Applications
+#index667
+#% 
+#!
+  
+#*Using Constraint Logic Programming for Industrial Scheduling Problems.
+#@Silvia Breitinger,Hendrik C. R. Lock
+#t1995
+#cLogic Programming: Formal Methods and Practical Applications
+#index668
+#% 
+#!
+  
+#*Temporal Logic Programming Applied to Image Sequence Evaluation.
+#@Christoph Brzoska,Karl Schäfer
+#t1995
+#cLogic Programming: Formal Methods and Practical Applications
+#index669
+#% 
+#!
+  
+#*Goal-Directed Forward Chaining: Tuple-oriented Bottom-up Approach.
+#@Wolfram Burgard
+#t1995
+#cLogic Programming: Formal Methods and Practical Applications
+#index670
+#% 
+#!
+  
+#*Logic Program Modules for Interoperable Information Systems.
+#@Armin B. Cremers,Thomas Lemke,Mechthild Rohen
+#t1995
+#cLogic Programming: Formal Methods and Practical Applications
+#index671
+#% 
+#!
+  
+#*Robot Control Systems as Contextual Logic Programs.
+#@Enrico Denti,Antonio Natali,Andrea Omicini,Francesco Zanichelli
+#t1995
+#cLogic Programming: Formal Methods and Practical Applications
+#index672
+#% 
+#!
+  
+#*Logic Programming - Past or Future?
+#@Hervé Gallaire
+#t1995
+#cLogic Programming: Formal Methods and Practical Applications
+#index673
+#% 
+#!
+  
+#*Polymorphic Feature Types.
+#@Gregor Meyer
+#t1995
+#cLogic Programming: Formal Methods and Practical Applications
+#index674
+#% 
+#!
+  
+#*Automatic Verification of Parallel Logic Programs: Termination.
+#@Lutz Plümer
+#t1995
+#cLogic Programming: Formal Methods and Practical Applications
+#index675
+#% 
+#!
+  
+#*Scheduling and Meta-Scheduling.
+#@Jürgen Sauer
+#t1995
+#cLogic Programming: Formal Methods and Practical Applications
+#index676
+#% 
+#!
+  
+#*Efficient Object-Oriented Programming in Prolog.
+#@Peter Schachte,Georges Saab
+#t1995
+#cLogic Programming: Formal Methods and Practical Applications
+#index677
+#% 
+#!
+  
+#*A Generic Scheduling Framework developed in Prolog.
+#@Leon Sterling,Venkatesh Srinivasan
+#t1995
+#cLogic Programming: Formal Methods and Practical Applications
+#index678
+#% 
+#!
+  
+#*Dialogo: An Interactive Environment for Conceptual Design in Galileo.
+#@Antonio Albano,Renzo Orsini
+#t1983
+#cMethodology and Tools for Data Base Design
+#index679
+#% 
+#!
+  
+#*Requirements Collection and Analysis.
+#@Valeria De Antonellis,G. Barbara Demo
+#t1983
+#cMethodology and Tools for Data Base Design
+#index680
+#% 
+#!
+  
+#*INCOD-DTE: A System for Interative Conceptual Design of Data, Transactions and Events.
+#@Paolo Atzeni,Carlo Batini,Enzo Carboni,Valeria De Antonellis,Maurizio Lenzerini,Fulvio Villanelli,Bruna Zonta
+#t1983
+#cMethodology and Tools for Data Base Design
+#index681
+#% 
+#!
+  
+#*Views Integration.
+#@Carlo Batini,Maurizio Lenzerini,Marina Moscarini
+#t1983
+#cMethodology and Tools for Data Base Design
+#index682
+#% 
+#!
+  
+#*Logical Design in Codasyl and Relational Environment.
+#@P. Bertaina,Antonio Di Leva,Piercarlo Giolito
+#t1983
+#cMethodology and Tools for Data Base Design
+#index683
+#% 
+#!
+  
+#*A Separability-Based Method for Secondary Index Selection in Physical Database Design.
+#@Flavio Bonfatti,Dario Maio,Paolo Tiberio
+#t1983
+#cMethodology and Tools for Data Base Design
+#index684
+#% 
+#!
+  
+#*A Set of Integrated Tools for the Conceptual Design of Database Schemas and Transactions.
+#@Giampio Bracchi,Stefano Ceri,Giuseppe Pelagatti
+#t1983
+#cMethodology and Tools for Data Base Design
+#index685
+#% 
+#!
+  
+#*Views Conceptual Design.
+#@U. Bussolati,Stefano Ceri,Valeria De Antonellis,Bruna Zonta
+#t1983
+#cMethodology and Tools for Data Base Design
+#index686
+#% 
+#!
+  
+#*Methodology and Tools for Data Base Design in the DATAID Project.
+#@Stefano Ceri
+#t1983
+#cMethodology and Tools for Data Base Design
+#index687
+#% 
+#!
+  
+#*NLDA: A Natural Language Reasoning System for the Analysis of Data Base Requirements.
+#@Marco Colombetti,Giovanni Guida,Marco Somalvico
+#t1983
+#cMethodology and Tools for Data Base Design
+#index688
+#% 
+#!
+  
+#*Physical Data Base Design for Codasyl DBMS.
+#@Witold Staniszkis,Domenico Saccà,F. Manfredi,A. Mecchia
+#t1983
+#cMethodology and Tools for Data Base Design
+#index689
+#% 
+#!
+  
+#*Algorithms for Finding Patterns in Strings.
+#@Alfred V. Aho
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index690
+#% 
+#!
+  
+#*Logic Programming.
+#@Krzysztof R. Apt
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index691
+#% 
+#!
+  
+#*Functional Programming and Lambda Calculus.
+#@Hendrik Pieter Barendregt
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index692
+#% 
+#!
+  
+#*Context-Free Languages.
+#@Jean Berstel,Luc Boasson
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index693
+#% 
+#!
+  
+#*Machine Models and Simulation.
+#@Peter van Emde Boas
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index694
+#% 
+#!
+  
+#*The Complexity of Finite Functions.
+#@Ravi B. Boppana,Michael Sipser
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index695
+#% 
+#!
+  
+#*Graph Rewriting: An Algebraic and Logic Approach.
+#@Bruno Courcelle
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index696
+#% 
+#!
+  
+#*Recursive Applicative Program Schemes.
+#@Bruno Courcelle
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index697
+#% 
+#!
+  
+#*Methods and Logics for Proving Programs.
+#@Patrick Cousot
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index698
+#% 
+#!
+  
+#*Rewrite Systems.
+#@Nachum Dershowitz,Jean-Pierre Jouannaud
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index699
+#% 
+#!
+  
+#*Temporal and Modal Logic.
+#@E. Allen Emerson
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index700
+#% 
+#!
+  
+#*Semantic Domains.
+#@Carl A. Gunter,Dana S. Scott
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index701
+#% 
+#!
+  
+#*A Catalog of Complexity Classes.
+#@David S. Johnson
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index702
+#% 
+#!
+  
+#*Elements of Relational Database Theory.
+#@Paris C. Kanellakis
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index703
+#% 
+#!
+  
+#*Parallel Algorithms for Shared-Memory Machines.
+#@Richard M. Karp,Vijaya Ramachandran
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index704
+#% 
+#!
+  
+#*Logics of Programs.
+#@Dexter Kozen,Jerzy Tiuryn
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index705
+#% 
+#!
+  
+#*Distributed Computing: Models and Methods.
+#@Leslie Lamport,Nancy A. Lynch
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index706
+#% 
+#!
+  
+#*Graph Algorithms.
+#@Jan van Leeuwen
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index707
+#% 
+#!
+  
+#*VLSI Theory.
+#@Thomas Lengauer
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index708
+#% 
+#!
+  
+#*Algorithms in Number Theory.
+#@Arjen K. Lenstra,Hendrik W. Lenstra Jr.
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index709
+#% 
+#!
+  
+#*Kolmogorov Complexity and its Applications.
+#@Ming Li,Paul M. B. Vitányi
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index710
+#% 
+#!
+  
+#*Data Structures.
+#@Kurt Mehlhorn,Athanasios K. Tsakalidis
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index711
+#% 
+#!
+  
+#*Operational and Algebraic Semantics of Concurrent Processes.
+#@Robin Milner
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index712
+#% 
+#!
+  
+#*Type Systems for Programming Languages.
+#@John C. Mitchell
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index713
+#% 
+#!
+  
+#*Denotational Semantics.
+#@Peter D. Mosses
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index714
+#% 
+#!
+  
+#*Finite Automata.
+#@Dominique Perrin
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index715
+#% 
+#!
+  
+#*Communication Networks.
+#@Nicholas Pippenger
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index716
+#% 
+#!
+  
+#*Cryptography.
+#@Ronald L. Rivest
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index717
+#% 
+#!
+  
+#*Formal Language and Power Series.
+#@Arto Salomaa
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index718
+#% 
+#!
+  
+#*Algorithmic Motion Planning in Robotics.
+#@Jacob T. Schwartz,Micha Sharir
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index719
+#% 
+#!
+  
+#*Machine-Independent Complexity Theory.
+#@Joel I. Seiferas
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index720
+#% 
+#!
+  
+#*Algebraic Complexity Theory.
+#@Volker Strassen
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index721
+#% 
+#!
+  
+#*Automata on Infinite Objects.
+#@Wolfgang Thomas
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index722
+#% 
+#!
+  
+#*General Purpose Parallel Architectures.
+#@Leslie G. Valiant
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index723
+#% 
+#!
+  
+#*Average-Case Analysis of Algorithms and Data Structures.
+#@Jeffrey Scott Vitter,Philippe Flajolet
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index724
+#% 
+#!
+  
+#*Algebraic Specification.
+#@Martin Wirsing
+#t1990
+#cHandbook of Theoretical Computer Science, Volume B: Formal Models and Sematics (B)
+#index725
+#% 
+#!
+  
+#*Computational Geometry.
+#@F. Frances Yao
+#t1990
+#cHandbook of Theoretical Computer Science, Volume A: Algorithms and Complexity (A)
+#index726
+#% 
+#!
+  
+#*Suffix, prefix and maximal tree codes.
+#@Philippe Aigrain,Maurice Nivat
+#t1992
+#cTree Automata and Languages
+#index727
+#% 
+#!
+  
+#*Fixed point characterization of weak monadic logic definable sets of trees.
+#@André Arnold,Damian Niwinski
+#t1992
+#cTree Automata and Languages
+#index728
+#% 
+#!
+  
+#*Recognizing sets of labelled acyclic graphs.
+#@Paola Bonizzoni,Giancarlo Mauri,Giovanni Pighizzini,Nicoletta Sabadini
+#t1992
+#cTree Automata and Languages
+#index729
+#% 
+#!
+  
+#*Recognizable sets of unrooted trees.
+#@Bruno Courcelle
+#t1992
+#cTree Automata and Languages
+#index730
+#% 
+#!
+  
+#*Structural complexity of classes of tree languages.
+#@Max Dauchet,Sophie Tison
+#t1992
+#cTree Automata and Languages
+#index731
+#% 
+#!
+  
+#*Decidability of the inclusion in monoids generated by tree transformation classes.
+#@Zoltán Fülöp,Sándor Vágvölgyi
+#t1992
+#cTree Automata and Languages
+#index732
+#% 
+#!
+  
+#*Unification procedures in automated deduction methods based on matings: A survey.
+#@Jean H. Gallier
+#t1992
+#cTree Automata and Languages
+#index733
+#% 
+#!
+  
+#*Algebraic specification of action trees and recursive processes.
+#@Martin Große-Rhode,Christian Dimitrovici
+#t1992
+#cTree Automata and Languages
+#index734
+#% 
+#!
+  
+#*Trees and algebraic semantics.
+#@Irène Guessarian
+#t1992
+#cTree Automata and Languages
+#index735
+#% 
+#!
+  
+#*Tree-adjoining grammars and lexicalized grammars.
+#@Aravind K. Joshi,Yves Schabes
+#t1992
+#cTree Automata and Languages
+#index736
+#% 
+#!
+  
+#*Computing trees with graph rewriting systems with priorities.
+#@Igor Litovsky,Yves Métivier
+#t1992
+#cTree Automata and Languages
+#index737
+#% 
+#!
+  
+#*Binary tree codes.
+#@Maurice Nivat
+#t1992
+#cTree Automata and Languages
+#index738
+#% 
+#!
+  
+#*A monoid approach to tree automata.
+#@Andreas Podelski
+#t1992
+#cTree Automata and Languages
+#index739
+#% 
+#!
+  
+#*A survey of tree transductions.
+#@Jean-Claude Raoult
+#t1992
+#cTree Automata and Languages
+#index740
+#% 
+#!
+  
+#*Rational and recognizable infinite tree sets.
+#@Ahmed Saoudi
+#t1992
+#cTree Automata and Languages
+#index741
+#% 
+#!
+  
+#*Automata on infinite trees and rational control.
+#@Ahmed Saoudi,Paola Bonizzoni
+#t1992
+#cTree Automata and Languages
+#index742
+#% 
+#!
+  
+#*Interpretability and tree automata: A simple way to solve algorithmic problems on graphs closely related to trees.
+#@Detlef Seese
+#t1992
+#cTree Automata and Languages
+#index743
+#% 
+#!
+  
+#*Ambiguity and valuedness.
+#@Helmut Seidl
+#t1992
+#cTree Automata and Languages
+#index744
+#% 
+#!
+  
+#*A short proof of the factorization forest theorem.
+#@I. Simon
+#t1992
+#cTree Automata and Languages
+#index745
+#% 
+#!
+  
+#*A theory of tree language varieties.
+#@Magnus Steinby
+#t1992
+#cTree Automata and Languages
+#index746
+#% 
+#!
+  
+#*Computability, Complexity, Logic (English translation of "Berechenbarkeit, Komplexität, Logik" from 1985)
+#@Egon Börger
+#t1989
+#cStudies in Logic and the Foundations of Mathematics
+#index748
+#% 
+#!
+  
+#*Deterministic Translation Grammars
+#@Benjamin M. Brosgol
+#t1973
+#cOutstanding Dissertations in the Computer Sciences
+#index763
+#% 
+#!
+  
+#*The Analysis of a Practical and Nearly Optimal Priorty Queue
+#@Mark R. Brown
+#t1977
+#cOutstanding Dissertations in the Computer Sciences
+#index764
+#% 
+#!
+  
+#*Queueing Network Models of Multiprogramming
+#@Jeffrey P. Buzen
+#t1971
+#cOutstanding Dissertations in the Computer Sciences
+#index765
+#% 
+#!
+  
+#*A Practical Formal Semantic Definition and Verification System for TYPED LISP
+#@Robert Cartwright
+#t1976
+#cOutstanding Dissertations in the Computer Sciences
+#index766
+#% 
+#!
+  
+#*Linear Lists and Prorty Queues as Balanced Binary Trees
+#@Clark A. Crane
+#t1972
+#cOutstanding Dissertations in the Computer Sciences
+#index767
+#% 
+#!
+  
+#*Computer Display of Curved Surfaces
+#@Henry Gouraud
+#t1971
+#cOutstanding Dissertations in the Computer Sciences
+#index768
+#% 
+#!
+  
+#*The Application of Theorem Proving to Question-Answering Systems
+#@C. Cordell Green
+#t1969
+#cOutstanding Dissertations in the Computer Sciences
+#index769
+#% 
+#!
+  
+#*Decidability Questions for Petri Nets
+#@Michel Hack
+#t1975
+#cOutstanding Dissertations in the Computer Sciences
+#index770
+#% 
+#!
+  
+#*Control-Theoretic Formulation of Operating Systems Resource Management Policies
+#@Rajendra K. Jain
+#t1978
+#cOutstanding Dissertations in the Computer Sciences
+#index771
+#% 
+#!
+  
+#*The Metanovel: Writing Stories by Computer
+#@James R. Meehan
+#t1976
+#cOutstanding Dissertations in the Computer Sciences
+#index772
+#% 
+#!
+  
+#*A Processor Design for the Efficient Implementation of APL
+#@Charles Russell Minter
+#t1976
+#cOutstanding Dissertations in the Computer Sciences
+#index773
+#% 
+#!
+  
+#*The Design and Construction of Flexible and Efficient Interactive Programming Systems
+#@James G. Mitchell
+#t1970
+#cOutstanding Dissertations in the Computer Sciences
+#index774
+#% 
+#!
+  
+#*Reasoning from Incomplete Knowledge in a Procedural Deduction System
+#@Robert C. Moore
+#t1975
+#cOutstanding Dissertations in the Computer Sciences
+#index775
+#% 
+#!
+  
+#*Axiomatic Proof Techniques for Parallel Programs
+#@Susan S. Owicki
+#t1975
+#cOutstanding Dissertations in the Computer Sciences
+#index776
+#% 
+#!
+  
+#*Shellsort and Sorting Networks
+#@Vaughan R. Pratt
+#t1972
+#cOutstanding Dissertations in the Computer Sciences
+#index777
+#% 
+#!
+  
+#*Machine Perception of Three-Dimensional Solids
+#@Lawrence G. Roberts
+#t1963
+#cOutstanding Dissertations in the Computer Sciences
+#index778
+#% 
+#!
+  
+#*Source Language Debugging Tools
+#@Edwin H. Satterthwaite
+#t1975
+#cOutstanding Dissertations in the Computer Sciences
+#index779
+#% 
+#!
+  
+#*Quicksort
+#@Robert Sedgewick
+#t1975
+#cOutstanding Dissertations in the Computer Sciences
+#index780
+#% 
+#!
+  
+#*Queueing Models for Computer Systems with General Service Time Distributions
+#@Annie W. Shum
+#t1976
+#cOutstanding Dissertations in the Computer Sciences
+#index781
+#% 
+#!
+  
+#*A Data Definition Facility for Programming Languages
+#@Thomas A. Standish
+#t1967
+#cOutstanding Dissertations in the Computer Sciences
+#index782
+#% 
+#!
+  
+#*Sketchpad, A Man-Machine Graphical Communication System
+#@Ivan E. Sutherland
+#t1963
+#cOutstanding Dissertations in the Computer Sciences
+#index783
+#% 
+#!
+  
+#*Automatic Verification of Programs with Complex Data Structures
+#@Norihisa Suzuki
+#t1976
+#cOutstanding Dissertations in the Computer Sciences
+#index784
+#% 
+#!
+  
+#*Studies in Extensible Programming Languages
+#@Ben Wegbreit
+#t1970
+#cOutstanding Dissertations in the Computer Sciences
+#index785
+#% 
+#!
+  
+#*Automatic Generation of Assemblers
+#@John D. Wick
+#t1975
+#cOutstanding Dissertations in the Computer Sciences
+#index786
+#% 
+#!
+  
+#*Understanding Goal-Based Stories
+#@Robert Wilensky
+#t1978
+#cOutstanding Dissertations in the Computer Sciences
+#index787
+#% 
+#!
+  
+#*Predicate-Oriented Database Search Algorithms
+#@Dan E. Willard
+#t1978
+#cOutstanding Dissertations in the Computer Sciences
+#index788
+#% 
+#!
+  
+#*Semantics For a Question-Answering System
+#@William A. Woods
+#t1967
+#cOutstanding Dissertations in the Computer Sciences
+#index789
+#% 
+#!
+  
+#*The Hensel Lemma in Algebraic Manipulation
+#@David Y. Y. Yun
+#t1973
+#cOutstanding Dissertations in the Computer Sciences
+#index790
+#% 
+#!
+  
+#*Artificial Intelligence Architectures for Composition and Performance Environment.
+#@Antonio Camurri
+#t2000
+#cReadings in Music and Artificial Intelligence
+#index796
+#% 
+#!
+  
+#*Dynamic Programming for Interactive Music Systems.
+#@Roger B. Dannenberg
+#t2000
+#cReadings in Music and Artificial Intelligence
+#index797
+#% 
+#!
+  
+#*The Mechanization of Intelligence and the Human Aspects of Music.
+#@Carlos Gustavo Guerra
+#t2000
+#cReadings in Music and Artificial Intelligence
+#index798
+#% 
+#!
+  
+#*Artificial Intelligence in Music Education: A Critical Review.
+#@Simon Holland
+#t2000
+#cReadings in Music and Artificial Intelligence
+#index799
+#% 
+#!
+  
+#*Music, Intelligence and Artificiality.
+#@Alan Marsden
+#t2000
+#cReadings in Music and Artificial Intelligence
+#index800
+#% 
+#!
+  
+#*Regarding Music, Machines, Intelligence and the Brain: An Introduction to Music and AI.
+#@Eduardo Reck Miranda
+#t2000
+#cReadings in Music and Artificial Intelligence
+#index801
+#% 
+#!
+  
+#*Computer Analysis of Jazz Chord Sequence: Is Solar a Blues?
+#@François Pachet
+#t2000
+#cReadings in Music and Artificial Intelligence
+#index802
+#% 
+#!
+  
+#*Musical Pattern Extraction and Similarity Assessment.
+#@Pierre-Yves Rolland,Jean-Gabriel Ganascia
+#t2000
+#cReadings in Music and Artificial Intelligence
+#index803
+#% 
+#!
+  
+#*Interactive Music Systems in Ensemble Performance.
+#@Robert Rowe
+#t2000
+#cReadings in Music and Artificial Intelligence
+#index804
+#% 
+#!
+  
+#*Symbolic AI versus Connectionism in Music Research.
+#@Petri Toiviainen
+#t2000
+#cReadings in Music and Artificial Intelligence
+#index805
+#% 
+#!
+  
+#*On the Potential of Machine Learning for Music Research.
+#@Gerhard Widmer
+#t2000
+#cReadings in Music and Artificial Intelligence
+#index806
+#% 
+#!
+  
+#*Musical Knowledge: What can Artificial Intelligence Bring to the Musician?
+#@Geraint A. Wiggins,Alan Smaill
+#t2000
+#cReadings in Music and Artificial Intelligence
+#index807
+#% 
+#!
+  
+#*Artificial Intelligence and Music Education.
+#@Matt Smith
+#t2000
+#cReadings in Music and Artificial Intelligence
+#index808
+#% 
+#!
+  
+#*Readings in Music and Artificial Intelligence
+#@Eduardo Reck Miranda
+#t2000
+#cReadings in Music and Artificial Intelligence
+#index809
+#% 
+#!
+  
+#*Information Extraction from Free-Text Business Documents.
+#@Witold Abramowicz,Jakub Piskorski
+#t2003
+#cEffective databases for text & document management
+#index810
+#%41447
+#%41441
+#%41746
+#%107225
+#%107174
+#%773075
+#%3004367
+#!
+  
+#*Active Rules and Active Databases: Concepts and Application.
+#@Juan M. Ale,Mauricio Minuto Espil
+#t2003
+#cEffective databases for text & document management
+#index811
+#% 
+#!
+  
+#*Applying JAVA-Triggers for X-Link Management in the Industrial Framework.
+#@Abraham Alvarez,Youssef Amghar
+#t2003
+#cEffective databases for text & document management
+#index812
+#%77078
+#%87358
+#%95557
+#%169988
+#%176435
+#%248838
+#%256155
+#%256122
+#%256286
+#%256220
+#%256245
+#%383552
+#%591900
+#%592092
+#%627792
+#%769755
+#%772530
+#%772541
+#%773840
+#%774814
+#%776555
+#%793819
+#%832275
+#%832395
+#%832773
+#%832874
+#%833182
+#%1064867
+#%1138118
+#%1138052
+#!
+  
+#*Novel Indexing Method of Relations Between Salient Objects.
+#@Richard Chbeir,Youssef Amghar,André Flory
+#t2003
+#cEffective databases for text & document management
+#index813
+#%63245
+#%150069
+#%598023
+#%637905
+#%772452
+#%1011407
+#%1031506
+#%1112638
+#%1113875
+#%1120070
+#%3077356
+#!
+  
+#*On the Computation of Recursion in Relational Databases.
+#@Yangjun Chen
+#t2003
+#cEffective databases for text & document management
+#index814
+#%95200
+#%299369
+#%598080
+#%598486
+#%598848
+#%641829
+#%642126
+#%1113609
+#%1118170
+#%1118434
+#%1118216
+#%1118422
+#%1127417
+#!
+  
+#*Building Signature-Trees on Path Signatures in Document Databases.
+#@Yangjun Chen,Gerald Huck
+#t2003
+#cEffective databases for text & document management
+#index815
+#%2520
+#%598398
+#%643730
+#%643732
+#%654516
+#%654514
+#%832526
+#!
+  
+#*Dealing with Relationship Cardinality Constraints in Relational Database Design.
+#@Dolores Cuadra Fernández,Paloma Martínez Fernández,Elena Castro Galán
+#t2003
+#cEffective databases for text & document management
+#index816
+#%192
+#%830
+#%2026
+#%2330
+#%2619
+#%2627
+#%74530
+#%183657
+#%598533
+#%635159
+#%770718
+#%832665
+#%832941
+#%832935
+#%833151
+#%845654
+#%845897
+#%846210
+#%1064774
+#%1089795
+#%1118314
+#%1118288
+#%3003406
+#%3006965
+#!
+  
+#*Repairing and Querying Inconsistent Databases.
+#@Gianluigi Greco,Sergio Greco,Ester Zumpano
+#t2003
+#cEffective databases for text & document management
+#index817
+#%71
+#%71709
+#%74051
+#%105869
+#%115851
+#%299325
+#%304218
+#%328124
+#%439779
+#%544772
+#%545307
+#%605446
+#%627172
+#%643130
+#%643133
+#%745419
+#%745421
+#%808487
+#%984681
+#%1064690
+#%1095011
+#%1112336
+#%1112835
+#%1118326
+#%1118572
+#%1118702
+#!
+  
+#*Unifying Access to Heterogeneous Document Databases Through Contextual Metadata.
+#@Virpi Lyytikäinen,Pasi Tiitinen,Airi Salminen
+#t2003
+#cEffective databases for text & document management
+#index818
+#%47884
+#%237098
+#%237291
+#%245740
+#%247742
+#%247743
+#%414742
+#%927686
+#%956965
+#%979746
+#%1333821
+#!
+  
+#*Managing Document Taxonomies in Relational Databases.
+#@Ido Millet
+#t2003
+#cEffective databases for text & document management
+#index819
+#%2312
+#%145188
+#!
+  
+#*Database Management Issues in the Web Environment.
+#@José Francisco Aldana Montes,Antonio C. Gomez Lora,Nathalie Moreno Vergara,María del Mar Roldán García
+#t2003
+#cEffective databases for text & document management
+#index820
+#%71
+#%2296
+#%2615
+#%11924
+#%299568
+#%299899
+#%472247
+#%544876
+#%559873
+#%598110
+#%599617
+#%599647
+#%599422
+#%642713
+#%643274
+#%643131
+#%643616
+#%643642
+#%654577
+#%654579
+#%674027
+#%793979
+#%817572
+#%817565
+#%856120
+#%982091
+#%1064679
+#%1064660
+#%1064656
+#%1065283
+#%1118228
+#!
+  
+#*Interactive Indexing of Documents with a Multilingual Thesaurus.
+#@Ulrich Schiel,Ianna M. S. F. de Sousa
+#t2003
+#cEffective databases for text & document management
+#index821
+#%95565
+#%247099
+#%746180
+#!
+  
+#*Understanding Functional Dependency.
+#@Robert A. Schultz
+#t2003
+#cEffective databases for text & document management
+#index822
+#%1118333
+#!
+  
+#*Keyword-Based Queries Over Web Databases.
+#@Altigran Soares da Silva,Pável Calado,Rodrigo C. Vieira,Alberto H. F. Laender,Berthier A. Ribeiro-Neto
+#t2003
+#cEffective databases for text & document management
+#index823
+#%87
+#%95190
+#%149575
+#%299552
+#%595615
+#%595729
+#%642416
+#%642625
+#%738620
+#%794017
+#%956552
+#%1065264
+#%1120367
+#%3003851
+#%62605
+#!
+  
+#*System of Information Retrieval in XML Documents.
+#@Saliha Smadhi
+#t2003
+#cEffective databases for text & document management
+#index824
+#%95382
+#%157518
+#%595546
+#%595917
+#%793870
+#%794017
+#%936644
+#%1113798
+#%62605
+#!
+  
+#*A Taxonomy for Object-Relational Queries.
+#@David Taniar,J. Wenny Rahayu,Prakash Gaurav Srivastava
+#t2003
+#cEffective databases for text & document management
+#index825
+#%2366
+#%642106
+#%642605
+#!
+  
+#*Re-Engineering and Automation of Business Processes: Criteria for Selecting Supporting Tools.
+#@Aphrodite Tsalgatidou,Mara Nikolaidou
+#t2003
+#cEffective databases for text & document management
+#index826
+#%121856
+#%855979
+#%929064
+#%1103325
+#%3005528
+#%3005927
+#!
+  
+#*Metrics for Data Warehouse Quality.
+#@Manuel A. Serrano,Coral Calero,Mario Piattini
+#t2003
+#cEffective databases for text & document management
+#index827
+#%492909
+#%772027
+#%807759
+#%979777
+#%1127442
+#%1127620
+#%1129816
+#%3322887
+#%3553551
+#!
+  
+#*Integrity Constraints in an Active Database Environment.
+#@Juan M. Ale,Mauricio Minuto Espil
+#t2002
+#cDatabase Integrity
+#index828
+#%144766
+#%299731
+#%598306
+#%598836
+#%599780
+#%599946
+#%642188
+#%642244
+#%642553
+#%832935
+#%845609
+#%938717
+#%1064704
+#%1064867
+#%1113497
+#%1118180
+#%1118218
+#%1118235
+#%1118233
+#%3005676
+#!
+  
+#*Integrity Constraints in Spatial Databases.
+#@Karla A. V. Borges,Clodoveu A. Davis,Alberto H. F. Laender
+#t2002
+#cDatabase Integrity
+#index829
+#%2022
+#%2619
+#%3482
+#%183519
+#%232823
+#%232872
+#%617616
+#%883615
+#%883581
+#%883592
+#!
+  
+#*Preserving Relationship Cardinality Constraints in Relational Schemata.
+#@Dolores Cuadra,Carlos Nieto,Paloma Martínez,Elena Castro,Manuel Velasco
+#t2002
+#cDatabase Integrity
+#index830
+#%195
+#%2026
+#%2330
+#%2346
+#%2619
+#%2627
+#%74530
+#%137918
+#%770718
+#%832665
+#%832941
+#%832935
+#%833151
+#%845654
+#%846210
+#%863894
+#%1089795
+#%1093004
+#%1118314
+#%1118288
+#%1118731
+#%3003406
+#%3006965
+#!
+  
+#*Translating Advanced Integrity Checking Technology to SQL.
+#@Hendrik Decker
+#t2002
+#cDatabase Integrity
+#index831
+#%71
+#%2262
+#%2346
+#%3148
+#%176342
+#%176261
+#%216786
+#%299650
+#%300040
+#%303911
+#%327898
+#%440005
+#%486981
+#%520832
+#%545118
+#%597968
+#%598053
+#%599352
+#%599645
+#%599434
+#%599836
+#%642188
+#%642341
+#%643133
+#%832492
+#%930835
+#%938632
+#%950142
+#%951376
+#%984604
+#%1118228
+#%1118288
+#%598779
+#!
+  
+#*Introduction.
+#@Jorge Horacio Doorn,Laura C. Rivero,Viviana E. Ferraggine
+#t2002
+#cDatabase Integrity
+#index832
+#% 
+#!
+  
+#*Consistent Queries Over Databases with Integrity Constraints.
+#@Sergio Greco,Ester Zumpano
+#t2002
+#cDatabase Integrity
+#index833
+#%71
+#%71709
+#%105869
+#%115851
+#%299325
+#%328124
+#%439779
+#%544772
+#%605446
+#%627172
+#%745419
+#%745421
+#%1112336
+#%1112835
+#%1118326
+#%1118702
+#!
+  
+#*Integrity Issues in the Web: Beyond Distributed Databases.
+#@José Francisco Aldana Montes,Mariemma Inmaculada Yagüe del Valle,Antonio C. Gomez Lora
+#t2002
+#cDatabase Integrity
+#index834
+#%71
+#%2296
+#%2615
+#%299568
+#%299899
+#%544876
+#%545019
+#%559873
+#%599422
+#%643274
+#%643131
+#%654577
+#%654579
+#%673856
+#%674027
+#%793590
+#%793979
+#%817572
+#%817565
+#%1064679
+#%1064660
+#%1064656
+#%1065283
+#%1118228
+#!
+  
+#*Functional Dependencies for Value Based Identification in Object-Oriented Databases.
+#@Jochen Rasch,Hans-Joachim Klein
+#t2002
+#cDatabase Integrity
+#index835
+#%192
+#%2619
+#%145105
+#%160031
+#%183054
+#%183303
+#%183565
+#%183571
+#%183674
+#%184146
+#%521247
+#%522379
+#%544984
+#%545168
+#%597944
+#%600009
+#%642031
+#%770718
+#%791866
+#%845581
+#%845806
+#%938823
+#%938620
+#%938914
+#%951083
+#%979746
+#%1065268
+#%1065281
+#%1118288
+#%1118539
+#%1118709
+#%1118734
+#%3003406
+#%3004480
+#%3006550
+#!
+  
+#*Database Integrity: Fundamental and Current Implementations.
+#@Laura C. Rivero,Jorge Horacio Doorn,Viviana E. Ferraggine
+#t2002
+#cDatabase Integrity
+#index836
+#% 
+#!
+  
+#*Integrity Maintenance in Extensible Databases.
+#@Ulrich Schiel
+#t2002
+#cDatabase Integrity
+#index837
+#%2298
+#%2627
+#%521252
+#%643674
+#%776177
+#%979746
+#%1118367
+#%1118685
+#!
+  
+#*Project Management in Graduate Education.
+#@Daniel Brandon
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index838
+#% 
+#!
+  
+#*Alignment of Business and Knowledge Management Strategy.
+#@El-Sayed Abou-Zeid
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index839
+#% 
+#!
+  
+#*Project Management Best Practices to Increase Success.
+#@Jeffrey L. Brewer
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index840
+#% 
+#!
+  
+#*Autopoietic Approach for Information System Development.
+#@El-Sayed Abou-Zeid
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index841
+#% 
+#!
+  
+#*Sponsorship in IT Project Management.
+#@David Bryde,David Petie
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index842
+#% 
+#!
+  
+#*A Systematic Approach for Information Systems Evaluation.
+#@Ala Abu-Samaha
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index843
+#% 
+#!
+  
+#*Organizing Multimedia Objects by Using Class Algebra.
+#@Daniel J. Buehrer
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index844
+#% 
+#!
+  
+#*ICT-Supported Gaming for Competitive Intelligence.
+#@Jan Achterbergh
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index845
+#% 
+#!
+  
+#*Virtual Communities in Practice.
+#@Chris Kimble,Paul Hildreth
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index846
+#% 
+#!
+  
+#*Concepts and Dynamics of the Application Service Provider Industry.
+#@Dohoon Kim
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index847
+#% 
+#!
+  
+#*IT Supporting Strategy Formulation.
+#@Jan Achterbergh
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index848
+#% 
+#!
+  
+#*Credit Card Users' Data Mining.
+#@André Carlos Ponce Leon Ferreira de Carvalho,Antônio de Pádua Braga,Teresa Bernarda Ludermir
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index849
+#% 
+#!
+  
+#*Better Executive Information with the Dashboard Approach.
+#@Frédéric Adam,Jean-Charles Pomerol
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index850
+#% 
+#!
+  
+#*Project Management Models in IT.
+#@Marly Monteiro de Carvalho,Fernando José Barbin Laurindo,Marcelo Schneck de Paula Pessôa
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index851
+#% 
+#!
+  
+#*Human Motion Tracking and Recognition.
+#@Niki Aifanti,Angel Domingo Sappa,Nikos Grammalidis,Sotiris Malassiotis
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index852
+#% 
+#!
+  
+#*Expanding Data Mining Power with System Dynamics.
+#@Edilberto Casado
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index853
+#% 
+#!
+  
+#*Enhancing Competitiveness of B2B and B2C E-Commerce.
+#@Henry Aigbedo
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index854
+#% 
+#!
+  
+#*Natural Computing.
+#@Leandro Nunes de Castro
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index855
+#% 
+#!
+  
+#*Information Technology Usage in Nigeria.
+#@Isola Ajiferuke,Wole Olatokun
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index856
+#% 
+#!
+  
+#*Distance Education Success Factors.
+#@Cathy Cavanaugh
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index857
+#% 
+#!
+  
+#*Impacts of the Intranet on PDO.
+#@Khamis Al-Gharbi,Abdulwahed Mohammed Khalfan
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index858
+#% 
+#!
+  
+#*Online Learning as a Form of Accomodation.
+#@Terence Cavanaugh
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index859
+#% 
+#!
+  
+#*SMEs Amidst Global Technological Changes.
+#@Nabeel A. Y. Al-Qirim
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index860
+#% 
+#!
+  
+#*Legal Issues of Virtual Organizations.
+#@Claudia Cevenini
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index861
+#% 
+#!
+  
+#*Telemedicine in Healthcare Organisations.
+#@Nabeel A. Y. Al-Qirim
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index862
+#% 
+#!
+  
+#*Multicast Routing Protocols, Algorithms and its QoS Extensions.
+#@Debasish Chakraborty,Goutam Chakraborty,Norio Shiratori
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index863
+#% 
+#!
+  
+#*Triggers, Rules and Constraints in Databases.
+#@Juan M. Ale,Mauricio Minuto Espil
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index864
+#% 
+#!
+  
+#*Data Mining for Combining Forecasts in Inventory Management.
+#@Chi Kin Chan
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index865
+#% 
+#!
+  
+#*Spatial Modeling of Risk Factors for Gender-Specific Child Mortality.
+#@Mohammad Ali,Christine Ashley,M. Zahirul Huq,Peter Kim Streatfield
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index866
+#% 
+#!
+  
+#*Content-Based Retrieval Concept.
+#@Yung-Kuan Chan,Chin-Chen Chang
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index867
+#% 
+#!
+  
+#*Knowledge Management and Social Learning.
+#@Irena M. Ali,Leoni Warne
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index868
+#% 
+#!
+  
+#*Interface Design Issues for Mobile Commerce.
+#@Susy S. Chan,Xiaowen Fang
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index869
+#% 
+#!
+  
+#*Perturbations, Accuracy and Robustness in Neural Networks.
+#@Cesare Alippi,Giovanni Vanini
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index870
+#% 
+#!
+  
+#*A Duplicate Chinese Document Image Retrieval System.
+#@Yung-Kuan Chan,Yu-An Ho,Hsien-Chu Wu,Yen-Ping Chu
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index871
+#% 
+#!
+  
+#*Multimedia Evaluations Based on Cognitive Science Findings.
+#@Eshaa M. Alkhalifa
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index872
+#% 
+#!
+  
+#*One-to-One Video-Conferencing Education.
+#@Hock Chuan Chan,Bernard C. Y. Tan,Wei-Ping Tan
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index873
+#% 
+#!
+  
+#*International Digital Studies Approach for Examining International Online Interactions.
+#@Kirk St. Amant
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index874
+#% 
+#!
+  
+#*Structure- and Content-Based Retrieval for XML Documents.
+#@Jae-Woo Chang
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index875
+#% 
+#!
+  
+#*Strategic Utilization of Data Mining.
+#@Chandra S. Amaravadi
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index876
+#% 
+#!
+  
+#*Incorporating Data Stream Analysis into Decision Support Systems.
+#@Damianos Chatziantoniou,George Doukidis
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index877
+#% 
+#!
+  
+#*Semantic Web Fundamentals.
+#@Grigoris Antoniou,Vassilis Christophides,Dimitris Plexousakis
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index878
+#% 
+#!
+  
+#*Novel Indexing Method of Relations Between Salient Objects.
+#@Richard Chbeir,Kokou Yétongnon
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index879
+#% 
+#!
+  
+#*Democratic E-Governance.
+#@Ari-Veikko Anttiroiko
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index880
+#% 
+#!
+  
+#*Graph Encoding and Recursion Computation.
+#@Yangjun Chen
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index881
+#% 
+#!
+  
+#*Strategic Knowledge Management in Public Organizations.
+#@Ari-Veikko Anttiroiko
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index882
+#% 
+#!
+  
+#*Organization and Management Issues of End User Computing.
+#@Jason C. H. Chen,Robert W. Holt,D. Bruce Sun
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index883
+#% 
+#!
+  
+#*Management Considerations for B2B Online Exchanges.
+#@Norman P. Archer
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index884
+#% 
+#!
+  
+#*Behavioral Perspective of Groupware Adoption.
+#@Yining Chen,Hao Lou
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index885
+#% 
+#!
+  
+#*Addressing the Central Problem in Cyber Ethics through Stories.
+#@John M. Artz
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index886
+#% 
+#!
+  
+#*Data Mining in Practice.
+#@Sherry Y. Chen,Xiaohui Liu
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index887
+#% 
+#!
+  
+#*Web Technologies And Data Warehousing Strategies.
+#@John M. Artz
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index888
+#% 
+#!
+  
+#*Similarity Web Pages Retrieval Technologies on the Internet.
+#@Rung Ching Chen,Ming Yung Tsai,Chung Hsun Hsieh
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index889
+#% 
+#!
+  
+#*Content Description for Face Animation.
+#@Ali Arya
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index890
+#% 
+#!
+  
+#*Data Mining in Franchise Organizations.
+#@Ye-Sho Chen,Bin Zhang,Bob Justis
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index891
+#% 
+#!
+  
+#*Diffusion of E-Learning as an Educational Innovation.
+#@Petek Askar,Ugur Halici
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index892
+#% 
+#!
+  
+#*Franchising and Information Technology.
+#@Ye-Sho Chen,Bin Zhang,Bob Justis
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index893
+#% 
+#!
+  
+#*Diffusion of Innovations in Organisations.
+#@Davood Askarany
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index894
+#% 
+#!
+  
+#*Neural Networks for Automobile Insurance Customers.
+#@Ai Cheo
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index895
+#% 
+#!
+  
+#*Project Management for IT Projects.
+#@Len Asprey
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index896
+#% 
+#!
+  
+#*Incremental Expansion of a Distributed Database Systems.
+#@Amita Goyal Chin
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index897
+#% 
+#!
+  
+#*Integrative Document and Content Management Solutions.
+#@Len Asprey,Michael Middleton
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index898
+#% 
+#!
+  
+#*Managing Strategic IT Investment Decisions.
+#@Tzu-Chuan Chou,Robert G. Dyson,Philip L. Powell
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index899
+#% 
+#!
+  
+#*Innovative Thinking in Software Development.
+#@Aybüke Aurum
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index900
+#% 
+#!
+  
+#*Effective Learning Through Optimum Distance Among Team Members.
+#@Bishwajit Choudhary
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index901
+#% 
+#!
+  
+#*User Spreadsheet Systems Development.
+#@Anders Avdic
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index902
+#% 
+#!
+  
+#*History and Future Development of Group Support Systems.
+#@Ta-Tao Chuang,Wayne W. Huang,Yue (Jeff) Zhang
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index903
+#% 
+#!
+  
+#*Migrating Legacy Systems to the Web.
+#@Lerina Aversano,Gerardo Canfora,Andrea De Lucia
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index904
+#% 
+#!
+  
+#*Evaluation of an Open Learning Environment.
+#@Geraldine Clarebout,Jan Elen,Joost Lowyck,Jef Van den Enden,Erwin Van den Ende
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index905
+#% 
+#!
+  
+#*Reasoning About User Preferences.
+#@Tamara Babaian
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index906
+#% 
+#!
+  
+#*Portable Portals for M-Commerce.
+#@Irvine Clarke III,Theresa Flaherty
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index907
+#% 
+#!
+  
+#*Collective Intentional Action in Virtual Communities.
+#@Richard P. Bagozzi,Utpal M. Dholakia
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index908
+#% 
+#!
+  
+#*Communication Management for Large Modules.
+#@Elayne W. Coakes,Dianne Willis
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index909
+#% 
+#!
+  
+#*Building Police/Community Relations Through Virtual Communities.
+#@Susan A. Baim
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index910
+#% 
+#!
+  
+#*Critical Success Factors of ERP Implementation.
+#@Leopoldo E. Colmenares,Jim O. Otieno
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index911
+#% 
+#!
+  
+#*Executive Judgement in E-Business Strategy.
+#@Valerie Baker,Tim Coltman
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index912
+#% 
+#!
+  
+#*Mobile Transaction Models Framework.
+#@Andrés Coratella,Miguel Felder,Roberto Hirsch,Eduardo Rodríguez
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index913
+#% 
+#!
+  
+#*Audience Response Systems and Face-to-Face Learning.
+#@David A. Banks
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index914
+#% 
+#!
+  
+#*Isoluminance Contours for Animated Visualization.
+#@Marion Cottingham
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index915
+#% 
+#!
+  
+#*Data Warehouse Development.
+#@José María Cavero Barca,Esperanza Marcos Martínez,Mario Piattini,Adolfo Sanchez de Miguel
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index916
+#% 
+#!
+  
+#*Web Initiatives and E-Commerce Strategy.
+#@Ron Craig
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index917
+#% 
+#!
+  
+#*IS Implementation in the UK Health Sector.
+#@Stuart J. Barnes
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index918
+#% 
+#!
+  
+#*Geographic Information Systems as Decision Tools.
+#@Martin D. Crossland
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index919
+#% 
+#!
+  
+#*Macromedia Flash on the Client and the Server.
+#@Robert Barone
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index920
+#% 
+#!
+  
+#*Relationship Cardinality Constraints in Relational Database Design.
+#@Dolores Cuadra,Paloma Martínez,Elena Castro
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index921
+#% 
+#!
+  
+#*Outsourcing Information Technology in Australia.
+#@Nicholas Beaumont
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index922
+#% 
+#!
+  
+#*Virtual Teams as Sociotechnical Systems.
+#@Haydee M. Cuevas,Stephen M. Fiore,Eduardo Salas,Clint A. Bowers
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index923
+#% 
+#!
+  
+#*Web Access by Older Adult Users.
+#@Shirley Ann Becker
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index924
+#% 
+#!
+  
+#*Market of Resources for Agile/Virtual Enterprise Integration.
+#@Maria Manuela Cunha,Goran D. Putnik
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index925
+#% 
+#!
+  
+#*Web Usability.
+#@Shirley Ann Becker
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index926
+#% 
+#!
+  
+#*Challenges in Quality of Service for Tomorrow's Networks.
+#@Luiz A. DaSilva
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index927
+#% 
+#!
+  
+#*Artificial Intelligence Techniques in Medicine and Healthcare.
+#@Rezaul K. Begg
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index928
+#% 
+#!
+  
+#*Methods for Understanding IS Failures.
+#@Darren Dalcher
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index929
+#% 
+#!
+  
+#*Women in the IT Profession.
+#@Catherine M. Beise,Janette Moody,Martha E. Myers,Amy B. Woszczynski
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index930
+#% 
+#!
+  
+#*Exception Rules in Data Mining.
+#@Olena Daly,David Taniar
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index931
+#% 
+#!
+  
+#*Virtual Work Research Agenda.
+#@France Belanger
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index932
+#% 
+#!
+  
+#*Web Caching.
+#@Antonios Danalis
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index933
+#% 
+#!
+  
+#*Governance in IT Outsourcing Partnerships.
+#@Erik Beulen
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index934
+#% 
+#!
+  
+#*Context-Aware Framework for ERP.
+#@Farhad Daneshgar
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index935
+#% 
+#!
+  
+#*Usability Evaluation of Online Learning Programs.
+#@Bernard Blandin
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index936
+#% 
+#!
+  
+#*Hypothetical Reasoning Over Databases.
+#@Lei Dang,Suzanne M. Embury
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index937
+#% 
+#!
+  
+#*Computer Attitude and Anxiety.
+#@Pieter J. Blignaut,Andries J. Burger,Theo McDonald,Janse Tolmie
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index938
+#% 
+#!
+  
+#*Tertiary Education and the Internet.
+#@Paul Darbyshire,Stephen Burgess
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index939
+#% 
+#!
+  
+#*Trust in Technology Partnerships.
+#@Kirsimarja Blomqvist
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index940
+#% 
+#!
+  
+#*Object Database Benchmarks.
+#@Jérôme Darmont
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index941
+#% 
+#!
+  
+#*Hyper Video for Distance Learning.
+#@Mario A. Bochicchio,Nicola Fiore
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index942
+#% 
+#!
+  
+#*Rotating Banner Advertisements on the World Wide Web.
+#@Subhasish Dasgupta,Rajesh Chandrashekaran
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index943
+#% 
+#!
+  
+#*New Perspectives on Rewards and Knowledge Sharing.
+#@Gee-Woo Bock,Chen Way Siew,Young-Gul Kim
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index944
+#% 
+#!
+  
+#*Formal Methods in Software Engineering.
+#@Aristides Dasso,Ana Funes
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index945
+#% 
+#!
+  
+#*Design Levels for Distance and Online Learning.
+#@Judith V. Boettcher
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index946
+#% 
+#!
+  
+#*Concepts of Emergence Index in Image Databases.
+#@Sagarmay Deb
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index947
+#% 
+#!
+  
+#*Interactivity and Amusement in Electronic Commerce.
+#@Yuan Gao
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index948
+#% 
+#!
+  
+#*Media and Personal Involvement in the Perceptions of Data Quality.
+#@Andrew Borchers
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index949
+#% 
+#!
+  
+#*Principles of Advanced Database Integrity Checking.
+#@Hendrik Decker
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index950
+#% 
+#!
+  
+#*eCRM in a Manufacturing Environment.
+#@Aberdeen Leila Borders,Wesley J. Johnston
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index951
+#% 
+#!
+  
+#*Alignment of Information Technology and Human Resources Strategies.
+#@Kristine F. Dery,Danny A. Samson
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index952
+#% 
+#!
+  
+#*Integrating Security in the Development Process with UML.
+#@Folker den Braber,Mass Soldal Lund,Ketil Stølen,Fredrik Vraalsen
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index953
+#% 
+#!
+  
+#*Principles to Guide the Integration and Implementation of Educational Technology.
+#@Sara Dexter
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index954
+#% 
+#!
+  
+#*Strategic Vision for Information Technology.
+#@Mary Elizabeth Brabston
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index955
+#% 
+#!
+  
+#*The CRM-KDD Nexus.
+#@Nikhilesh Dholakia,Jounghae Bang,Lutz Hamel,Seung-Kyoon Shin
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index956
+#% 
+#!
+  
+#*Balancing Risks and Rewards of ERP.
+#@Joseph Bradley
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index957
+#% 
+#!
+  
+#*From Digital Divide to Digital Dividend.
+#@Nikhilesh Dholakia,Nir Kshetri
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index958
+#% 
+#!
+  
+#*Business Model Application of UML Stereotypes.
+#@Daniel Brandon
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index959
+#% 
+#!
+  
+#*Motivation for Using Microcomputers.
+#@Donaldo de Souza Dias
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index960
+#% 
+#!
+  
+#*Globalization of Consumer E-Commerce.
+#@Daniel Brandon
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index961
+#% 
+#!
+  
+#*Journalism Online in Peru.
+#@Antonio Díaz-Andrade
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index962
+#% 
+#!
+  
+#*Object-Oriented Software Reuse in Business Systems.
+#@Daniel Brandon
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index963
+#% 
+#!
+  
+#*Global Implications of E-Commerce Tool and Artifact Creation.
+#@Deborah Bunker
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index964
+#% 
+#!
+  
+#*Impediments for Knowledge Sharing in Professional Service Firms.
+#@Georg Disterer
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index965
+#% 
+#!
+  
+#*Issues and Challenges in IT in Small Business.
+#@Stephen Burgess
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index966
+#% 
+#!
+  
+#*Audio Analysis Applications for Music.
+#@Simon Dixon
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index967
+#% 
+#!
+  
+#*Web-Based Distance Learning and the Second Digital Divide.
+#@Sheryl Burgstahler
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index968
+#% 
+#!
+  
+#*Data Communications and E-Learning.
+#@Michael W. Dixon,Johan M. Karlsson,Tanya J. McGill
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index969
+#% 
+#!
+  
+#*Online Academic Libraries and Distance Learning.
+#@Merilyn Burke,Bruce Lubotsky Levin,Ardis Hanson
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index970
+#% 
+#!
+  
+#*Use Cases and the UML.
+#@Brian Dobing,Jeffrey Parsons
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index971
+#% 
+#!
+  
+#*U.S. Disabilities Legislation Affecting Information Technology.
+#@Deborah Bursa,Lorraine Justice,Mimi Kessler
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index972
+#% 
+#!
+  
+#*Critical Realism as an Underlying Philosophy for IS Research.
+#@Philip J. Dobson
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index973
+#% 
+#!
+  
+#*Engineering Emotionally Intelligent Agents.
+#@Penny Baillie de Byl,Mark A. Toleman
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index974
+#% 
+#!
+  
+#*Managing the Organisational Impacts of Information Systems.
+#@Neil F. Doherty,Malcolm King
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index975
+#% 
+#!
+  
+#*Learning Portals as New Academic Spaces.
+#@Katy Campbell
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index976
+#% 
+#!
+  
+#*Database Integrity.
+#@Jorge Horacio Doorn
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index977
+#% 
+#!
+  
+#*Critical Realism in IS Research.
+#@Sven A. Carlsson
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index978
+#% 
+#!
+  
+#*Informationbase - A New Information System Layer.
+#@Kovach Dragan
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index979
+#% 
+#!
+  
+#*Building Educational Technology Partnerships Through Participatory Design.
+#@John M. Carroll
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index980
+#% 
+#!
+  
+#*Self-Organizing Networked Learning Environments.
+#@Jon Dron
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index981
+#% 
+#!
+  
+#*Recursive Nature of the Market for Enterprise Applications.
+#@Fergal Carton,Frédéric Adam
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index982
+#% 
+#!
+  
+#*E-Commerce Training for SMEs.
+#@Yanqing Duan
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index983
+#% 
+#!
+  
+#*Decision Support Systems in Small Businesses.
+#@Yanqing Duan,Mark Xu
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index984
+#% 
+#!
+  
+#*Learnability.
+#@Philip C. Duchastel
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index985
+#% 
+#!
+  
+#*Contingency Theory, Agent-Based Systems and a Virtual Advisor.
+#@John R. Durrett,Lisa J. Burnell,John W. Priest
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index986
+#% 
+#!
+  
+#*Process-Aware Information Systems for Virtual Teamwork.
+#@Schahram Dustdar
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index987
+#% 
+#!
+  
+#*Assessing the Value of Information Systems Investments.
+#@Charlene A. Dykman
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index988
+#% 
+#!
+  
+#*Business Processes and Knowledge Management.
+#@John S. Edwards
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index989
+#% 
+#!
+  
+#*Moderator in Governmen t-Initiated Online Discussions.
+#@Arthur R. Edwards
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index990
+#% 
+#!
+  
+#*Wireless Ad Hoc Networking.
+#@Fazli Erbas
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index991
+#% 
+#!
+  
+#*Knowledge Management Systems Acceptance.
+#@Frederick Ericsson,Anders Avdic
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index992
+#% 
+#!
+  
+#*An ERP Life-Cycle Costs Model.
+#@José Esteves,Joan Antoni Pastor
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index993
+#% 
+#!
+  
+#*Socio-Cognitive Model of Trust.
+#@Rino Falcone,Cristiano Castelfranchi
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index994
+#% 
+#!
+  
+#*Video Content-Based Retrieval Techniques.
+#@Waleed E. Farag
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index995
+#% 
+#!
+  
+#*Forward Engineering of UML Static Models.
+#@Liliana Favre,Liliana Martinez,Claudia Pereira
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index996
+#% 
+#!
+  
+#*Reuse of Formal Specifications.
+#@Laura Felice,Daniel Riesco
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index997
+#% 
+#!
+  
+#*Trust Placement Process in Metateam Projects.
+#@Walter D. Fernández
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index998
+#% 
+#!
+  
+#*Issues of E-Learning in Third World Countries.
+#@Shantha Fernando
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index999
+#% 
+#!
+  
+#*Teams and Electronic Technologies.
+#@Sharmila Pixy Ferris,Maureen C. Minielli
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1000
+#% 
+#!
+  
+#*Unified Modeling Language.
+#@Peter Fettke
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1001
+#% 
+#!
+  
+#*Functional Integration of Decision Making Support.
+#@Guisseppi A. Forgionne
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1002
+#% 
+#!
+  
+#*Stickiness and Web-Based Customer Loyalty.
+#@Guisseppi A. Forgionne,Supawadee Ingsriswang
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1003
+#% 
+#!
+  
+#*Decision-Making Support Systems.
+#@Guisseppi A. Forgionne,Manuel Mora,Jatinder N. D. Gupta,Ovsei Gelman
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1004
+#% 
+#!
+  
+#*Collaborative Learning On-Demand.
+#@Giancarlo Fortino
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1005
+#% 
+#!
+  
+#*Enterprise Resource Planning for Intelligent Enterprises.
+#@Jose M. Framiñan
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1006
+#% 
+#!
+  
+#*E-Mail Usage in South Pacific Distance Education.
+#@Jonathan Frank,Janet Toland,Karen D. Schenk
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1007
+#% 
+#!
+  
+#*Privacy-Dangers and Protections.
+#@William H. Friedman
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1008
+#% 
+#!
+  
+#*Usability of Online Learning Systems and Course Materials.
+#@Elizabeth Furtado
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1009
+#% 
+#!
+  
+#*Software Contracts for Component-Based Web Engineering.
+#@Martin Gaedke,Martin Nussbaumer,Emma Tonkin
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1010
+#% 
+#!
+  
+#*Translation of Natural Language Patterns to Object and Process Modeling.
+#@Alexandra Galatescu
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1011
+#% 
+#!
+  
+#*Client/Server and the Knowledge Directory.
+#@Stuart D. Galup,Ronald Dattero,Richard C. Hicks
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1012
+#% 
+#!
+  
+#*Multilingual Electronic Commerce in a Global Economy.
+#@Aryya Gangopadhyay,Zhensen Huang
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1013
+#% 
+#!
+  
+#*Census Data for Health Preparedness and Response.
+#@Jane L. Garb,Richard B. Wait
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1014
+#% 
+#!
+  
+#*Using Geographic Information Systems to Solve Community Problems.
+#@Jane L. Garb,Richard B. Wait
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1015
+#% 
+#!
+  
+#*Agent- and Web-Based Employment Marketspaces in the U.S. Department of Defense.
+#@William R. Gates,Mark E. Nissen
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1016
+#% 
+#!
+  
+#*Parallel and Distributed Multimedia Databases.
+#@Stefan Geisler,Odej Kao
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1017
+#% 
+#!
+  
+#*Knowledge, IT, and the Firm.
+#@Petros Gelepithis
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1018
+#% 
+#!
+  
+#*Information Systems and Systems Theory.
+#@Ovsei Gelman,Manuel Mora T.,Guisseppi A. Forgionne,Francisco Cervantes-Pérez
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1019
+#% 
+#!
+  
+#*Heuristics in Medical Data Mining.
+#@Susan E. George
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1020
+#% 
+#!
+  
+#*Optical Music Recognition with Wavelets.
+#@Susan E. George
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1021
+#% 
+#!
+  
+#*Marketplace Architecture for Enterprise Integration.
+#@Hamada Ghenniwa,Michael N. Huhns
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1022
+#% 
+#!
+  
+#*Mobile Location Services.
+#@George M. Giaglis
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1023
+#% 
+#!
+  
+#*Software and Systems Engineering Integration.
+#@Rick Gibson
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1024
+#% 
+#!
+  
+#*Ethics of New Technologies.
+#@Joseph Gilbert
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1025
+#% 
+#!
+  
+#*Supporting Assurnace and Compliance Monitoring.
+#@Peter Goldschmidt
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1026
+#% 
+#!
+  
+#*Infocratic Perspective on the Delivery of Personal Financial Services.
+#@Steven Gordon,Paul Mulligan
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1027
+#% 
+#!
+  
+#*Benefits and Challenges of Blended Learning Environments.
+#@Charles R. Graham,Stephanie Allen,Donna Ure
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1028
+#% 
+#!
+  
+#*Computer-Mediated Learning Groups.
+#@Charles R. Graham,Melanie Misanchuk
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1029
+#% 
+#!
+  
+#*Quality Assurance Issues for Online Universities.
+#@Floriana Grasso,Paul H. Leng
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1030
+#% 
+#!
+  
+#*Consistent Queries Over Databases with Integrity Constraints.
+#@Sergio Greco,Ester Zumpano
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1031
+#% 
+#!
+  
+#*User Perceptions and Groupware Use.
+#@Gina Green,John Day,Hao Lou,Craig Van Slyke
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1032
+#% 
+#!
+  
+#*The Changing Library Education Curriculum.
+#@Vicki L. Gregory
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1033
+#% 
+#!
+  
+#*Diffusion Patterns of the Internet Technology Cluster in Irish SMEs.
+#@James Griffin
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1034
+#% 
+#!
+  
+#*Internet Abuse and Addiction in the Workplace.
+#@Mark Griffiths
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1035
+#% 
+#!
+  
+#*Application Service Provision for Intelligent Enterprises.
+#@Matthew W. Guah,Wendy L. Currie
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1036
+#% 
+#!
+  
+#*Agents and Payment Systems in E-Commerce.
+#@Sheng Uei Guan
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1037
+#% 
+#!
+  
+#*Mobile Agent Authentication and Authorization in E-Commerce.
+#@Sheng Uei Guan
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1038
+#% 
+#!
+  
+#*Ontology-Based Query Formation and Information Retrieval.
+#@Sheng Uei Guan
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1039
+#% 
+#!
+  
+#*Theoretical Framework for CRM Outsourcing.
+#@Babita Gupta,Lakshmi S. Iyer
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1040
+#% 
+#!
+  
+#*Packet Inter-Arrival Distributions in Computer Network Workloads.
+#@Dennis Guster,David Robinson,Paul Safonov
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1041
+#% 
+#!
+  
+#*Information Modeling in UML and ORM.
+#@Terry A. Halpin
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1042
+#% 
+#!
+  
+#*Web-Based Supply Chain Strategy.
+#@Hanns-Christian L. Hanebeck
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1043
+#% 
+#!
+  
+#*Metadata for Electronic Documents Using the Dublin Core.
+#@Till Hänisch
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1044
+#% 
+#!
+  
+#*Overcoming Barriers in the Planning of a Virtual Library.
+#@Ardis Hanson
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1045
+#% 
+#!
+  
+#*Library Management and Organizational Change.
+#@Ardis Hanson,Phyllis Ruscella,Kathy Arsenault,Joan Pelland,Derrie Perez,Beverly Shattuck
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1046
+#% 
+#!
+  
+#*Technology of Formal Education.
+#@Donald A. Hantula,Darleen M. DeRosa
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1047
+#% 
+#!
+  
+#*Security Issues in Distributed Transaction Processing Systems.
+#@Ramzi A. Haraty
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1048
+#% 
+#!
+  
+#*Offshore Software Development Outsourcing.
+#@Stephen Hawk,Kate M. Kaiser
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1049
+#% 
+#!
+  
+#*Successful Health Information System Implementation.
+#@Kristiina Häyrinen,Kaija Saranto
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1050
+#% 
+#!
+  
+#*Space Opera- GIS Basics.
+#@Paul N. J. Hendricks
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1051
+#% 
+#!
+  
+#*Chief Knowledge Officers.
+#@Richard T. Herschel
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1052
+#% 
+#!
+  
+#*Intelligent Software Agents.
+#@Alexa Heucke,Georg Peters,Roger Tagg
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1053
+#% 
+#!
+  
+#*VRML-Based System for a 3D Virtual Museum.
+#@José Fernando Díez Higuera,Francisco Javier Díaz Pernas
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1054
+#% 
+#!
+  
+#*Dot-Comming SMEs in Singapore for a New Economy.
+#@Leo Tan Wee Hin,R. Subramaniam
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1055
+#% 
+#!
+  
+#*Electronic Government Strategies and Research in the U.S..
+#@Charles C. Hinnant,Steven Burton Sawyer
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1056
+#% 
+#!
+  
+#*Process-Based Data Mining.
+#@Karim K. Hirji
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1057
+#% 
+#!
+  
+#*Automation of American Criminal Justice.
+#@J. William Holland
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1058
+#% 
+#!
+  
+#*Measurement Issues in Decision Support Systems.
+#@William K. Holstein,Jakov Crnkovic
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1059
+#% 
+#!
+  
+#*ICTs as Participatory Vehicles.
+#@Marc Holzer,Richard Schwester
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1060
+#% 
+#!
+  
+#*Content Management in Organizations.
+#@Anne Honkaranta,Pasi Tyrväinen
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1061
+#% 
+#!
+  
+#*Current Multicast Technology.
+#@Gábor Hosszú
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1062
+#% 
+#!
+  
+#*Technology's Role in Distance Education.
+#@Caroline Howard,Murray Turoff,Richard Discenza
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1063
+#% 
+#!
+  
+#*Dimensions of Database Quality.
+#@John A. Hoxmeier
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1064
+#% 
+#!
+  
+#*World Wide Web Search Technologies.
+#@Wen-Chen Hu,Hung-Jen Yang,Jyh-haw Yeh,Chung-wei Lee
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1065
+#% 
+#!
+  
+#*Information Systems and Small Business.
+#@M. Gordon Hunter
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1066
+#% 
+#!
+  
+#*Trust in Knowledge-Based Organizations.
+#@Maija-Leena Huotari,Mirja Iivonen
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1067
+#% 
+#!
+  
+#*Enterprise Resource Planning and Systems Integration.
+#@Mark I. Hwang
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1068
+#% 
+#!
+  
+#*Instant Messaging Moves From the Home to the Office.
+#@Ha Sung Hwang,Concetta M. Stewart
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1069
+#% 
+#!
+  
+#*Electronic Commerce Policies for Dutch SMEs.
+#@Maria-Eugenia Iacob,Piet Boekhoudt,Freek Ebeling
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1070
+#% 
+#!
+  
+#*Measuring Collaboration in Online Communications.
+#@Albert L. Ingram
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1071
+#% 
+#!
+  
+#*Electronic/Digital Government Innovation, and Publishing Trends with IT.
+#@Yukiko Inoue,Suzanne T. Bell
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1072
+#% 
+#!
+  
+#*E-Government, E-Democracy and the Politicians.
+#@Birgit Jaeger
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1073
+#% 
+#!
+  
+#*Simulation for Business Engineering of Electronic Markets.
+#@Marijn Janssen
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1074
+#% 
+#!
+  
+#*The Past, Present, and Future of End-User Performance.
+#@I. M. Jawahar
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1075
+#% 
+#!
+  
+#*Adoption of E-Commerce in the Value Chain by SMEs.
+#@Judith Jeffcoate
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1076
+#% 
+#!
+  
+#*Internet Support for Knowledge Management Systems.
+#@Murray E. Jennex
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1077
+#% 
+#!
+  
+#*Case-Based Learning in Computer Information Systems.
+#@Morgan Jennings,Charles H. Mawhinney,Janos Fustos
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1078
+#% 
+#!
+  
+#*A Language/Action Based Approach to Information Modeling.
+#@Paul Johannesson
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1079
+#% 
+#!
+  
+#*Harmonizing IT and Business Strategies.
+#@Kevin Johnston
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1080
+#% 
+#!
+  
+#*Intelligent Metabusiness.
+#@Luiz Antonio Joia
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1081
+#% 
+#!
+  
+#*Small Busines Transformation Through Knowledge Management.
+#@Nory B. Jones,Jatinder N. D. Gupta
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1082
+#% 
+#!
+  
+#*Fundamentals of Multirate Systems.
+#@Gordana Jovanovic-Dolecek
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1083
+#% 
+#!
+  
+#*Simple Methods for Design of Narrowband Highpass FIR Filters.
+#@Gordana Jovanovic-Dolecek
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1084
+#% 
+#!
+  
+#*One Method for Design of Narrowband Lowpass Filters.
+#@Gordana Jovanovic-Dolecek,Javier Díaz-Carmona
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1085
+#% 
+#!
+  
+#*Flexible Job-Shop Scheduling Problems.
+#@Imed Kacem
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1086
+#% 
+#!
+  
+#*The Software Industry in Egypt.
+#@Sherif Kamel
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1087
+#% 
+#!
+  
+#*On the Relativity of Ontological Domains and Their Specifications.
+#@Epaminondas Kapetanios
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1088
+#% 
+#!
+  
+#*E-Collaboration Support Systems Issues to be Addressed.
+#@Nikos I. Karacapilidis
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1089
+#% 
+#!
+  
+#*Cross-Cultural Research in MIS.
+#@Elena Karahanna,J. Roberto Evaristo,Mark Srite
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1090
+#% 
+#!
+  
+#*Standards for Web-Based Integration Adapters.
+#@Bill Karakostas
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1091
+#% 
+#!
+  
+#*Interoperability in Geospatial Information Systems.
+#@Hassan A. Karimi,Ratchata Peachavanish
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1092
+#% 
+#!
+  
+#*Usability and Learnability Evaluation of Web-Based ODL Programs.
+#@Athanasis Karoulis,Andreas S. Pombortsis
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1093
+#% 
+#!
+  
+#*Facial and Body Feature Extraction for Emotionally-Rich HCI.
+#@Kostas Karpouzis,Athanasios I. Drosopoulos,Spiros Ioannou,Amaryllis Raouzaiou,Nicolas Tsapatsoulis,Stefanos D. Kollias
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1094
+#% 
+#!
+  
+#*Gender and Computer Anxiety.
+#@Sue E. Kase,Frank E. Ritter
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1095
+#% 
+#!
+  
+#*Cache Management for Web-Powered Databases.
+#@Dimitrios Katsaros,Yannis Manolopoulos
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1096
+#% 
+#!
+  
+#*E-Learning Environment.
+#@Mizue Kayama,Toshio Okamoto
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1097
+#% 
+#!
+  
+#*Formal Development of Reactive Agent-Based Systems.
+#@Petros Kefalas,Mike Holcombe,George Eleftherakis,Marian Gheorghe
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1098
+#% 
+#!
+  
+#*Contracting Mechanisms in IS/IT Outsourcing Phenomenon.
+#@Abdulwahed Mohammed Khalfan,Majed Z. Al-Hajery,Khamis Al-Gharbi
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1099
+#% 
+#!
+  
+#*Archival Issues Related to Digital Creations.
+#@Mark Kieler,Michael J. West
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1100
+#% 
+#!
+  
+#*Curriculum Development in Web-Based Education.
+#@Johanna Lammintakanen,Sari Rissanen
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1101
+#% 
+#!
+  
+#*Online Communities and Community Building.
+#@Martin Christof Kindsmüller,Sandro Leuchter,Leon Urbas
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1102
+#% 
+#!
+  
+#*Information Resources Development Challenges in a Cross-Cultural Environment.
+#@Wai Law
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1103
+#% 
+#!
+  
+#*Real Options Analysis in Strategic Information Technology Adoption.
+#@Xiaotong Li
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1104
+#% 
+#!
+  
+#*Virtualization and Its Role in Business.
+#@Jerzy Kisielnicki
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1105
+#% 
+#!
+  
+#*Information Technology Strategic Alignment.
+#@Fernando José Barbin Laurindo,Marly Monteiro de Carvalho,Tamio Shimizu
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1106
+#% 
+#!
+  
+#*Promotion of e-Government in Japan and Its Operation.
+#@Ikuo Kitagaki
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1107
+#% 
+#!
+  
+#*Knowledge Discovery Using Heuristics.
+#@Alina Lazar
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1108
+#% 
+#!
+  
+#*Artificial Neural Networks Used in Automobile Insurance Underwriting.
+#@Fred L. Kitchens
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1109
+#% 
+#!
+  
+#*Modeling ERP Acedemic Deployment via AST.
+#@Cynthia LeRouge,Harold W. Webb
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1110
+#% 
+#!
+  
+#*Scenarios for Web-Enhanced Learning.
+#@Jane E. Klobas,Stefano Renzi
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1111
+#% 
+#!
+  
+#*Business Model Innovation in the Digital Economy.
+#@Chung-Shing Lee
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1112
+#% 
+#!
+  
+#*Enterprise Resource Planning Maintenance Concepts.
+#@Celeste See Pui Ng
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1113
+#% 
+#!
+  
+#*Multimedia Content Adaption.
+#@David Knight,Marios C. Angelides
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1114
+#% 
+#!
+  
+#*Triangular Strategic Analysis for Hybrid E-Retailers.
+#@In Lee
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1115
+#% 
+#!
+  
+#*E-Commerce Curriculum.
+#@Linda V. Knight,Susy S. Chan
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1116
+#% 
+#!
+  
+#*Virtual Organization in the Human Mind.
+#@Jinyoul Lee
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1117
+#% 
+#!
+  
+#*Experiential Perspective on Knowledge Management.
+#@Vivekanand P. Kochikar,J. K. Suresh
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1118
+#% 
+#!
+  
+#*Mobile Commerce Technology.
+#@Chung-wei Lee,Wen-Chen Hu,Jyh-haw Yeh
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1119
+#% 
+#!
+  
+#*Bridging the Industry-University Gap through Action Research.
+#@Ned Kock
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1120
+#% 
+#!
+  
+#*Challenges in M-Commerce.
+#@Pouwan Lei,Chris R. Chatwin,Rupert C. D. Young
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1121
+#% 
+#!
+  
+#*Contemporary IT-Assisted Retail Management.
+#@Herbert Kotzab
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1122
+#% 
+#!
+  
+#*Security and Trust of Online Auction Systems.
+#@Pouwan Lei,Chris R. Chatwin,Rupert C. D. Young
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1123
+#% 
+#!
+  
+#*Quality of UML.
+#@John Krogstie
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1124
+#% 
+#!
+  
+#*MESH Object-Oriented Hypermedia Framework.
+#@Wilfried Lemahieu
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1125
+#% 
+#!
+  
+#*Usable M-Commerce Systems.
+#@John Krogstie
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1126
+#% 
+#!
+  
+#*Application of Fuzzy Logic Fraud Detection.
+#@Mary Jane Lenard,Pervaiz Alam
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1127
+#% 
+#!
+  
+#*Structural Text Mining.
+#@Vladimir A. Kulyukin,John Nicholson
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1128
+#% 
+#!
+  
+#*The Impact of Sound Relationships on Achieving Alignment.
+#@Awie Leonard
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1129
+#% 
+#!
+  
+#*Internet Data Mining Using Statistical Techniques.
+#@Kuldeep Kumar
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1130
+#% 
+#!
+  
+#*Business Modelling with Client-Oriented Requirements Strategy.
+#@Maria Carmen Leonardi
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1131
+#% 
+#!
+  
+#*Adaptive Mobile Applications.
+#@Thomas Kunz,Abdulbaset Gaddah
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1132
+#% 
+#!
+  
+#*Technology and Work in the Virtual Organization.
+#@Paul M. Leonardi
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1133
+#% 
+#!
+  
+#*Enterprise Resource Planning and Integration.
+#@Karl Kurbel
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1134
+#% 
+#!
+  
+#*Database Support for M-Commerce.
+#@Hong Va Leong
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1135
+#% 
+#!
+  
+#*Minorities and the Digital Divide.
+#@Lynette Kvasny,Fay Cobb Payton
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1136
+#% 
+#!
+  
+#*Eight Key Elements of Successful Self-Funding E-Learning Programs.
+#@Yair Levy,Michelle M. Ramim
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1137
+#% 
+#!
+  
+#*DRM Technology for Mobile Multimedia.
+#@Sai Ho Kwok
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1138
+#% 
+#!
+  
+#*Empirical Study of E-Commerce Adoption SMEs in Thailand.
+#@Chalermsak Lertwongsatien,Nitaya Wongpinunwatana
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1139
+#% 
+#!
+  
+#*Information Resources Development in China.
+#@Maosheng Lai,Xin Fu,Liyang Zhang
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1140
+#% 
+#!
+  
+#*Certifying Software Product and Processes.
+#@Hareton Leung
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1141
+#% 
+#!
+  
+#*Comparing Conventional and Non-Parametric Option Pricing.
+#@Paul Lajbcygier
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1142
+#% 
+#!
+  
+#*Contextual Metadata for Document Databases.
+#@Virpi Lyytikäinen,Pasi Tiitinen,Airi Salminen
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1143
+#% 
+#!
+  
+#*Bayesian Machine Learning.
+#@Eitel J. M. Lauría
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1144
+#% 
+#!
+  
+#*Intelligent Business Portals.
+#@Xue Li
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1145
+#% 
+#!
+  
+#*Implementation Management of an E-Commerce-Enabled Enterprise Information System.
+#@William S. Lightfoot
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1146
+#% 
+#!
+  
+#*Culture and Anonymity in GSS Meetings.
+#@Moez Limayem
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1147
+#% 
+#!
+  
+#*Public Sector Case Study on the Benefits of IS/IT.
+#@Chad Lin,Graham Pervan
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1148
+#% 
+#!
+  
+#*Faculty Perceptions and Participation in Distance Education.
+#@James R. Lindner,Kim E. Dooley,Chanda Elbert,Timothy H. Murphy,Theresa P. Murghrey
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1149
+#% 
+#!
+  
+#*Spatial Analysis in a Public Health Setting.
+#@Robert Lipton,D. M. Gorman,William F. Wieczorek,Paul Gruenewald
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1150
+#% 
+#!
+  
+#*User Experiences of the E-commerce Site with the Standard User Interface.
+#@Shin-Ping Liu,Dennis Tucker
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1151
+#% 
+#!
+  
+#*Newcomer Assimilation in Virtual Team Socialization.
+#@Shawn D. Long,Gary F. Kohut,Gaelle Picherit-Duthler
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1152
+#% 
+#!
+  
+#*Softening the MIS Curriculum for a Technology-Based Profession.
+#@Glenn Lowry,Rodney Turner
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1153
+#% 
+#!
+  
+#*Strategic Alignment of Organizational Strategies.
+#@Sam Lubbe
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1154
+#% 
+#!
+  
+#*Introducing Java to the IT Master's Curriculum.
+#@Wendy T. Lucas
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1155
+#% 
+#!
+  
+#*Inexperienced and Global Software Teams.
+#@Kim Man Lui,Keith C. C. Chan
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1156
+#% 
+#!
+  
+#*Simulation and Gaming in IT Education.
+#@Norman Pendegraft
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1157
+#% 
+#!
+  
+#*Systems Thinking and the Internet.
+#@Kambiz Maani
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1158
+#% 
+#!
+  
+#*Speech and Audio Signal Applications.
+#@Héctor M. Pérez Meana,Mariko Nakano-Miyatake
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1159
+#% 
+#!
+  
+#*Wireless Middleware.
+#@Kenneth J. MacGregor
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1160
+#% 
+#!
+  
+#*Trust in B2C E-Commerce for the New Zealand Maori.
+#@Konrad J. Peszynski
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1161
+#% 
+#!
+  
+#*Technology Planning in Schools.
+#@Julie Mackey
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1162
+#% 
+#!
+  
+#*Multimedia Information Filtering.
+#@Minaz J. Parmar,Marios C. Angelides
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1163
+#% 
+#!
+  
+#*Designing OMIS-Based Collaboration for Learning Organizations.
+#@Kan Hou Vat
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1164
+#% 
+#!
+  
+#*Personal Internet Usage and Quality of Work Life.
+#@Pruthikrai Mahatanankoon
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1165
+#% 
+#!
+  
+#*Trends in Information Technology Governance.
+#@Ryan Peterson
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1166
+#% 
+#!
+  
+#*Bridging the Digital Divide in Scotland.
+#@Anna Malina
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1167
+#% 
+#!
+  
+#*Critical Strategies for IS Projects.
+#@Dane Peterson,Chung S. Kim
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1168
+#% 
+#!
+  
+#*Behavioral Factors in Strategic Alliances.
+#@Purnendu Mandal,Dale H. Shao,Chong W. Kim
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1169
+#% 
+#!
+  
+#*Multiple Internet Technologies in In-Class Education.
+#@Mihir A. Parikh,Neeraj Parolia
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1170
+#% 
+#!
+  
+#*Business Process and Workflow Modeling in Web Services.
+#@Vincent Yen
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1171
+#% 
+#!
+  
+#*Signature-Based Indexing Techniques for Web Access Logs.
+#@Yannis Manolopoulos,Alexandros Nanopoulos,Mikolaj Morzy,Tadeusz Morzy,Marek Wojciechowski,Maciej Zakrzewicz
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1172
+#% 
+#!
+  
+#*Transfering Technology to the Developing World.
+#@Stacie C. Petter,Galen Sevcik,Detmar W. Straub
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1173
+#% 
+#!
+  
+#*Qos-Oriented MAC Protocols for Future Mobile Applications.
+#@Alexander Markhasin,Stephan Olariu,Petia Todorova
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1174
+#% 
+#!
+  
+#*Learning Systems Engineering.
+#@Valentina Plekhanova
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1175
+#% 
+#!
+  
+#*Delivering Web-Based Education.
+#@Kathryn A. Marold
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1176
+#% 
+#!
+  
+#*Object-Oriented Software Metrics.
+#@Jana Polgar
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1177
+#% 
+#!
+  
+#*Critical Success Factors for Distance Education Programs.
+#@Ben Martz,Venkat Reddy
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1178
+#% 
+#!
+  
+#*Designing Agents with Negotiation Capabilities.
+#@Jana Polgar,Tony Polgar
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1179
+#% 
+#!
+  
+#*INFOSEC Policy - The Foundation for an Effective Security Program.
+#@Herbert J. Mattord,Michael E. Whitman
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1180
+#% 
+#!
+  
+#*Decision-Making Support Systems and Representation Levels.
+#@Jean-Charles Pomerol,Frédéric Adam
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1181
+#% 
+#!
+  
+#*Integrating Requirements Engineering Techniques and Formal Methods.
+#@María Virginia Mauco,Daniel Riesco
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1182
+#% 
+#!
+  
+#*Future of Small Business E-Commerce.
+#@Simpson Poon
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1183
+#% 
+#!
+  
+#*Staying Up-to-Date with Changes in IT.
+#@Tanya J. McGill,Michael W. Dixon
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1184
+#% 
+#!
+  
+#*Complex Adaptive Enterprises.
+#@Anet Potgieter,Kurt April,Judith Bishop
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1185
+#% 
+#!
+  
+#*Success Surrogates in Representational Decision Support Systems.
+#@Roger McHaney
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1186
+#% 
+#!
+  
+#*Cooperation of Geographic and Multidimensional Databases.
+#@Elaheh Pourabbas
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1187
+#% 
+#!
+  
+#*Managing Value-Creation In The Digital Economy.
+#@John C. McIntosh,Keng L. Siau
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1188
+#% 
+#!
+  
+#*Hierarchies in Multidimensional Databases.
+#@Elaheh Pourabbas
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1189
+#% 
+#!
+  
+#*E-Mail as a Strategic Tool in Organizations.
+#@Denise McManus,Houston Hume Carr
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1190
+#% 
+#!
+  
+#*Decision Support Systems Concept.
+#@Daniel J. Power
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1191
+#% 
+#!
+  
+#*IS Project Management Contemporary Research Challenges.
+#@Maggie McPherson
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1192
+#% 
+#!
+  
+#*Classification-Rule Discovery with an Ant Colony Algorithm.
+#@Rafael S. Parpinelli,Heitor Silvério Lopes,Alex Alves Freitas
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1193
+#% 
+#!
+  
+#*Internet Diffusion in the Hospitality Industry.
+#@Luiz Augusto Machado Mendes-Filho,Anatália Saraiva Martins Ramos
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1194
+#% 
+#!
+  
+#*A Web-Geographical Information System to Support Territorial Data Integration.
+#@Giuseppe Pozzi,Fabio A. Schreiber,Letizia Tanca,Luca Tosi
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1195
+#% 
+#!
+  
+#*Educating the Business Information Technologist.
+#@John Mendonca
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1196
+#% 
+#!
+  
+#*Text Mining in the Context of Business Intelligence.
+#@Hércules Antonio do Prado,José Palazzo Moreira de Oliveira,Edilson Ferneda,Leandro Krug Wives,Edilberto Magalhães Silva,Stanley Loh
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1197
+#% 
+#!
+  
+#*Web Search via Learning from Relevance Feedback.
+#@Xiannong Meng,Zhixiang Chen
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1198
+#% 
+#!
+  
+#*Animated Characters within the MPEG-4 Standard.
+#@Françoise J. Prêteux,Marius Preda
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1199
+#% 
+#!
+  
+#*Bayesian Modelling for Machine Learning.
+#@Kerrie L. Mengersen,Paul Rippon
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1200
+#% 
+#!
+  
+#*Current Network Security Software.
+#@Göran Pulkkis,Kaj Grahn,Peik Åström
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1201
+#% 
+#!
+  
+#*Building and Management of Trust in Information Systems.
+#@István Mezgár
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1202
+#% 
+#!
+  
+#*Sharing Organizational Knowledge through Knowledge Repositories.
+#@Muhammad Asim Qayyum
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1203
+#% 
+#!
+  
+#*Efficient Multirate Filtering.
+#@Ljiljana D. Milic
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1204
+#% 
+#!
+  
+#*Basic Notions on Multidimensional Aggregate Data.
+#@Maurizio Rafanelli
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1205
+#% 
+#!
+  
+#*Managing Hierarchies and Taxonomies in Relational Databases.
+#@Ido Millet
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1206
+#% 
+#!
+  
+#*Intelligent Software Agents in E-Commerce.
+#@Mahesh S. Raisinghani,Christopher Klassen,Lawrence L. Schkade
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1207
+#% 
+#!
+  
+#*Innovation Link Between Organization Knowledge and Customer Knowledge.
+#@Helen J. Mitchell
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1208
+#% 
+#!
+  
+#*Intelligent Agents For Competitive Advantage.
+#@Mahesh S. Raisinghani,John H. Nugent
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1209
+#% 
+#!
+  
+#*Technology and Knowledge Management.
+#@Helen J. Mitchell
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1210
+#% 
+#!
+  
+#*E-Commerce Taxation Issues.
+#@Mahesh S. Raisinghani,Dan S. Petty
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1211
+#% 
+#!
+  
+#*Policy Frameworks for Secure Electronic Business.
+#@Andreas Mitrakas
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1212
+#% 
+#!
+  
+#*A Socio-Technical Case Study of Bangladesh.
+#@Mahesh S. Raisinghani,Mahboobur Rahman
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1213
+#% 
+#!
+  
+#*Strategically-Focused Enterprise Knowledge Management.
+#@Robert J. Mockler,Dorothy G. Dologite
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1214
+#% 
+#!
+  
+#*Data Mining for Supply Chain Management Complex Networks.
+#@Mahesh S. Raisinghani,Manoj K. Singh
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1215
+#% 
+#!
+  
+#*Functionalities and Position of Manufacturing Execution Systems.
+#@Vladimír Modrák
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1216
+#% 
+#!
+  
+#*Constructionist Perspective of Organizational Data Mining.
+#@Isabel Ramos,João Alvaro Carvalho
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1217
+#% 
+#!
+  
+#*Next-Generation ERP.
+#@Charles Møller
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1218
+#% 
+#!
+  
+#*Evolution of ERP Systems.
+#@Mohammad A. Rashid
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1219
+#% 
+#!
+  
+#*Database Technologies on the Web.
+#@José Francisco Aldana Montes,Antonio C. Gomez Lora,Nathalie Moreno Vergara,Ismael Navas Delgado,María del Mar Roldán García
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1220
+#% 
+#!
+  
+#*Modeling for E-Learning Systems.
+#@Maria Alexandra Rentroia-Bonito,Joaquim Armando Pires Jorge
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1221
+#% 
+#!
+  
+#*Limited-Perspective Bias in Technology Projects.
+#@Jo Ellen Moore,Lisa A. Burke
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1222
+#% 
+#!
+  
+#*XML Schema Integration and E-Commerce.
+#@Kalpdrum Passi,Louise Lane,Sanjay Kumar Madria,Mukesh K. Mohania
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1223
+#% 
+#!
+  
+#*Web Accessibility and the Law.
+#@Holly Yu
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1224
+#% 
+#!
+  
+#*Geospatial Information Systems and Enterprise Collaboration.
+#@Donald R. Morris-Jones,Dedric A. Carter
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1225
+#% 
+#!
+  
+#*Discovery of Classification Rules from Databases.
+#@Graeme Richards,Beatriz de la Iglesia
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1226
+#% 
+#!
+  
+#*Technological Collaboration and Trust in Virtual Teams.
+#@Steven A. Morris,Thomas E. Marshall,R. Kelly Rainer Jr.
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1227
+#% 
+#!
+  
+#*Change Process Drivers for E-Business.
+#@Howard D. Richards,Harris Charalampos Makatsorsis,Yoon S. Chang
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1228
+#% 
+#!
+  
+#*Relating Cognitive Problem-Solving Style to User Resistance.
+#@Michael J. Mullany
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1229
+#% 
+#!
+  
+#*Antecedents of Trust in Online Communities.
+#@Catherine M. Ridings,David Gefen
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1230
+#% 
+#!
+  
+#*Digital Government and Individual Privacy.
+#@Patrick R. Mullen
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1231
+#% 
+#!
+  
+#*Dynamic Multidimensional Data Cubes for Interactive Analysis of Massive Datasets.
+#@Mirek Riedewald,Divyakant Agrawal,Amr El Abbadi
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1232
+#% 
+#!
+  
+#*Virtual Work, Trust and Rationality.
+#@Peter Murphy
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1233
+#% 
+#!
+  
+#*Extensions to UML Using Stereotypes.
+#@Daniel Riesco,Marcela Daniele,Daniel Romero,German Montejano
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1234
+#% 
+#!
+  
+#*Agent-Based Negotiation in E-Marketing.
+#@Venu K. Murthy,E. V. Krishnamurthy
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1235
+#% 
+#!
+  
+#*Risk Management in the Digital Economy.
+#@Bob Ritchie,Clare Brindley
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1236
+#% 
+#!
+  
+#*Contract-Based Workflow Design Patterns in M-Commerce.
+#@Venu K. Murthy,E. V. Krishnamurthy
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1237
+#% 
+#!
+  
+#*Modeling Information Systems in UML.
+#@Peter Rittgen
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1238
+#% 
+#!
+  
+#*E-Business Transaction in Web Integrated Network Environment.
+#@Venu K. Murthy,Edayathu V. Krishnamurthy
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1239
+#% 
+#!
+  
+#*Inclusion Dependencies.
+#@Laura C. Rivero
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1240
+#% 
+#!
+  
+#*Multimedia Computing Environment for Telemedical Applications.
+#@Venu K. Murthy,Edayathu V. Krishnamurthy
+#t2005
+#cEncyclopedia of Information Science and Technology (IV)
+#index1241
+#% 
+#!
+  
+#*Conducting Ethical Research in Virtual Environments.
+#@Lynne D. Roberts,Leigh M. Smith,Clare M. Pollock
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1242
+#% 
+#!
+  
+#*Technology-Mediated Progressive Inquiry in Higher Education.
+#@Hanni Muukkonen,Minna Lakkala,Kai Hakkarainen
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1243
+#% 
+#!
+  
+#*Adaptive Playout Control Schemes for Speech over the Internet.
+#@Marco Roccetti,Stefano Ferretti
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1244
+#% 
+#!
+  
+#*Issues in Delivering Course Material via the Web.
+#@Karen S. Nantz
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1245
+#% 
+#!
+  
+#*How Teachers Use Instructional Design in Real Classrooms.
+#@Patricia Rogers
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1246
+#% 
+#!
+  
+#*Strategic Experimentation and Knowledge Management.
+#@Vadake K. Narayanan
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1247
+#% 
+#!
+  
+#*Trends and Perspectives in Online Education.
+#@Bruce Rollier,Fred Niederman
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1248
+#% 
+#!
+  
+#*Evaluating Computer-Supported Learning Initiatives.
+#@John B. Nash,Christoph Richter,Heidrun Allert
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1249
+#% 
+#!
+  
+#*Designing Web Applications.
+#@Gustavo Rossi,Daniel Schwabe
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1250
+#% 
+#!
+  
+#*Innovations for Online Collaborative Learning in Mathematics.
+#@Rodney Nason,Earl Woodruff
+#t2005
+#cEncyclopedia of Information Science and Technology (III)
+#index1251
+#% 
+#!
+  
+#*Shaping the Evolution of Mobile Commerce.
+#@Andreas Rülke,Anand Iyer,Greg Chiasson
+#t2005
+#cEncyclopedia of Information Science and Technology (V)
+#index1252
+#% 
+#!
+  
+#*Basics of the Triune Continuum Paradigm.
+#@Andrey Naumenko
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1253
+#% 
+#!
+  
+#*A University/Community Partnership to Bridge the Digital Divide.
+#@David Ruppel,Cynthia P. Ruppel
+#t2005
+#cEncyclopedia of Information Science and Technology (I)
+#index1254
+#% 
+#!
+  
+#*Data Mining and Mobile Business Data.
+#@Richi Nayak
+#t2005
+#cEncyclopedia of Information Science and Technology (II)
+#index1255
+#% 
+#!
+  

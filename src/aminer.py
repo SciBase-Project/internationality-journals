@@ -1,20 +1,15 @@
-'''
-Please put 'aminer_publications.txt' in 'data' folder
-'''
+import pymongo
 
-print "[INFO] Processing journals to be considered"
+client = pymongo.MongoClient("localhost", 27017)
 
-journals_to_consider = []
-file = open("../data/journal_snip.txt")
-for line in file.readlines() :
-    line = line.strip()
-    journal = line.split(" : ")[0]
-    journals_to_consider.append(journal)
-file.close()
+# db name - aminer
+db = client.aminer
 
-print "[DEBUG] Journals : ", journals_to_consider
-print "[INFO] Done processing journals to be considered"
+# collection
+db.publications
 
+print "DB name: ", db.name
+print "DB collection: ", db.publications
 
 
 print "[INFO] Processing papers"
@@ -25,6 +20,7 @@ papers = {}
 i = 0
 while i < len(lines) :
     paper = {}
+    paper['references'] = []
     while lines[i] !=  '  \r\n' :
         line = lines[i].strip()
 
@@ -46,94 +42,15 @@ while i < len(lines) :
         if line.startswith('#t') :     paper['year']         = line[len('#t'):]
         if line.startswith('#c') :     paper['publication']  = line[len('#c'):]
         if line.startswith('#!') :     paper['abstract']     = line[len('#!'):]
-        if line.startswith('#%') :
-            if 'references' not in paper : paper['references'] = []
-            paper['references'].append( line[len('#%'):] )
-
+        if line.startswith('#%') :     paper['references'].append( line[len('#%'):] )
+        print "journal",i+1,"done"
         i += 1
 
-    if paper['publication'] in journals_to_consider :
-        index = paper['index']
 
-        # store papers by index
-        papers[index] = paper
+    db.publications.insert_one(paper)
+
+    print "[INFO] inserted into db paper", paper['index']
 
     i += 1
 
 file.close()
-
-print "[DEBUG] Number of papers ", len(papers)
-print "[INFO] Done processing papers"
-
-
-
-print "[INFO] Finding self citations"
-edge_list = []
-cites = {}
-for ind in papers :
-    paper = papers[ind]
-    publication = paper['publication']
-    authors = paper['authors']
-    for ref in paper['references'] :
-        if ref not in papers :
-            continue
-
-        # get cited paper and authors
-        cited_paper = papers[ref]
-        cited_authors = cited_paper['authors']
-        cited_publication = cited_paper['publication']
-
-        # check if common author exists
-        if set(authors) & set(cited_authors) :
-            if publication not in cites : cites[publication] = {}
-            if ind not in cites[publication] : cites[publication][ind] = []
-            cites[publication][ind].append({"index" : ref, "publication" : cited_publication, "self" : True})
-
-            # adding to edge list
-            # type 1 - common authors / 0 - no common authors
-            src = ind
-            dest = ref
-            type = 1
-            edge_list.append( [src, dest, type] )
-
-        else:
-            if publication not in cites : cites[publication] = {}
-            if ind not in cites[publication] : cites[publication][ind] = []
-            cites[publication][ind].append({"index" : ref, "publication" : cited_publication, "self" : False})
-
-            # adding to edge list
-            # type 1 - common authors / 0 - no common authors
-            src = ind
-            dest = ref
-            type = 0
-            edge_list.append( [src, dest, type] )
-
-
-print "[DEBUG] Number of self cited papers ", len(cites)
-print "[INFO] Done finding self citations"
-
-
-
-print "[INFO] Writing self cites to file"
-
-import json
-file = open("../output/aminer_cites.json", "w")
-file.write(json.dumps(cites, indent=4))
-file.close()
-
-print "[INFO] Done writing self cites to file"
-
-
-
-print "[INFO] Writing edge list to file"
-
-import csv
-with open('../output/aminer_edge_list.csv', 'w') as csvfile:
-    fields = ['src', 'dest', 'type']
-    writer = csv.DictWriter(csvfile, fieldnames=fields)
-    writer.writeheader()
-
-    for entry in edge_list :
-        writer.writerow(dict(zip(fields, entry)))
-
-print "[INFO] Done writing edge list to file"
