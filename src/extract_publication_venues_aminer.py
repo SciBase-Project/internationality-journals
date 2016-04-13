@@ -6,7 +6,6 @@ Please put 'aminer_publications.txt' in 'data' folder
 import collections
 
 
-
 '''
 
 print "[INFO] Processing journals to be considered"
