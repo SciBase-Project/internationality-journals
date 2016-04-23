@@ -25,7 +25,7 @@ print "[INFO] Done processing journals to be considered"
 
 print "\n\n[INFO] Processing articles for publication venues.\n"
 print "------------------------------------------------------------------------------------------------\n\n"
-file = open("../data/aminer_publications.txt")
+file = open("../../data/aminer_publications.txt")
 lines = file.readlines()
 papers = {}
 i = 0
@@ -96,7 +96,7 @@ for key, value in publication_article_count_sorted.iteritems() :
 
 
 # DOES NOT WORK YET :/
-with open("../output/both_journal_list.txt") as file :
+with open("../../output/both_journal_list.txt") as file :
     lines = file.readlines()
     for line in lines :
         if line.strip() in publication_venue :

@@ -29,9 +29,9 @@ def text_to_id(text):
     return text
 
 
-print "\n\n[INFO] Processing articles for author names.\n"
+print "\n\n[INFO] Processing articles for publication venues.\n"
 print "------------------------------------------------------------------------------------------------\n\n"
-file = open("../data/ACM_Aminer.txt")
+file = open("../../data/aminer_publications.txt")
 lines = file.readlines()
 papers = {}
 i = 0
@@ -57,7 +57,7 @@ while i < len(lines) :
     #! ---- abstract
 
     #print line[len('#c'):]
-    if lines[i].startswith('#@') :
+    if lines[i].startswith('#o') :
 
         print len(lines[i])
 
@@ -71,16 +71,16 @@ while i < len(lines) :
 
 
         #if author not already present
-        if lines[i][len('#@'):] not in author_set :
-            author_set.add(lines[i][len('#@'):])
+        if lines[i][len('#o'):] not in author_set :
+            author_set.add(lines[i][len('#o'):])
             pub_count += 1
-            print("[INFO] Author Set %d : %s" %(pub_count, lines[i][len('#@'):]))
+            print("[INFO] Author Set %d : %s" %(pub_count, lines[i][len('#o'):]))
 
-            author_article_count[lines[i][len('#@'):]] = 1
+            author_article_count[lines[i][len('#o'):]] = 1
 
         else :
 
-            author_article_count[lines[i][len('#@'):]] += 1
+            author_article_count[lines[i][len('#o'):]] += 1
 
     i += 1
 
@@ -90,7 +90,7 @@ file.close()
 # getting individual authors from author value in #@
 for auth in author_set :
     author_set_count += 1
-    author_temp = auth.strip("\n").split(",")
+    author_temp = auth.strip("\n").split(";")
     for author in author_temp :
         if author not in author_individual :
             author_individual.add(text_to_id(author))
@@ -110,7 +110,7 @@ print "[DEBUG] Saving author names to file.\n"
 print "\n------------------------------------------------------------------------------------------------"
 
 
-with open("../data/ACM_author_list_Aminer.txt",'w') as file :
+with open("../../data/affiliation_list_Aminer.txt",'w') as file :
     for author in author_individual :
         file.write(author)
         file.write("\n")
