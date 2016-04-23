@@ -1,3 +1,6 @@
+# Removes all possible journal-name subset.s
+# eg. Age is a subset of Agent, etc.
+
 
 import re
 import unicodedata

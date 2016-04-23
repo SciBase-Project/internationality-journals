@@ -94,8 +94,9 @@ for key, value in publication_article_count_sorted.iteritems() :
     if (count > len(publication_article_count)) or count > 10 :
         break
 
-
+'''
+# DOES NOT WORK YET :/
 with open("../../output/ACM_Aminer_journal_list.txt",'w') as file :
     for venue in publication_venue :
         file.write(venue)
-
+'''

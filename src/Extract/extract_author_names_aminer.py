@@ -32,6 +32,8 @@ def text_to_id(text):
 print "\n\n[INFO] Processing articles for author names.\n"
 print "------------------------------------------------------------------------------------------------\n\n"
 file = open("../../data/ACM_Aminer.txt")
+journals = open("../../output/ACM_Elsevier_journal_list_curated_v2")
+
 lines = file.readlines()
 papers = {}
 i = 0
@@ -57,11 +59,11 @@ while i < len(lines) :
     #! ---- abstract
 
     #print line[len('#c'):]
-    if lines[i].startswith('#@') :
+    if lines[i].startswith('#c') :
 
         print len(lines[i])
 
-        if len(lines[i]) <= 3 : #no author exists
+        if len(lines[i]) <= 3 : #no publication venue exists
             i += 1
             continue
 
@@ -69,18 +71,18 @@ while i < len(lines) :
         article_count +=1
         #print lines[i]
 
-
-        #if author not already present
-        if lines[i][len('#@'):] not in author_set :
-            author_set.add(lines[i][len('#@'):])
+        if lines.find(journal)
+        #if apublication venue not already present
+        if lines[i][len('#c'):] not in author_set :
+            author_set.add(lines[i][len('#c'):])
             pub_count += 1
-            print("[INFO] Author Set %d : %s" %(pub_count, lines[i][len('#@'):]))
+            print("[INFO] Publication set %d : %s" %(pub_count, lines[i][len('#c'):]))
 
-            author_article_count[lines[i][len('#@'):]] = 1
+            author_article_count[lines[i][len('#c'):]] = 1
 
         else :
 
-            author_article_count[lines[i][len('#@'):]] += 1
+            author_article_count[lines[i][len('#c'):]] += 1
 
     i += 1
 
@@ -109,9 +111,9 @@ print "[DEBUG] Saving author names to file.\n"
 
 print "\n------------------------------------------------------------------------------------------------"
 
-
+'''
 with open("../../data/ACM_author_list_Aminer.txt",'w') as file :
     for author in author_individual :
         file.write(author)
         file.write("\n")
-
+'''

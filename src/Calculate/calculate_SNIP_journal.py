@@ -1,6 +1,6 @@
 
 def calc_RIP_DCP(P, Y) :
-
+    import re
     import pymongo
     client = pymongo.MongoClient("localhost", 27017)
     # db name - aminer
@@ -9,9 +9,9 @@ def calc_RIP_DCP(P, Y) :
     db.publications
 
     last_years = [str(Y - 1), str(Y - 2), str(Y - 3)]
-
+    reg = re.compile('.*%s.*'%P)
     # all papers in last 3 years
-    citable_items = list(db.publications.find({"publication" : P, "$or" : [{"year" : last_years[0]}, {"year" : last_years[1]}, {"year" : last_years[2]}] }))
+    citable_items = list(db.publications.find({"publication" : {'$regex':reg}, "$or" : [{"year" : last_years[0]}, {"year" : last_years[1]}, {"year" : last_years[2]}] }))
     citable_items_ids = []
     for cite in citable_items : citable_items_ids.append(cite['index'])
 
@@ -56,12 +56,23 @@ def calc_RIP_DCP(P, Y) :
 print "[INFO] Processing journals to be considered"
 
 journals_to_consider = []
+
+file = open("../../output/ACM_Elsevier_journal_list_curated_v2")
+for line in file.readlines() :
+    line = line.strip()
+    journal = line
+    journals_to_consider.append(journal)
+file.close()
+
+'''
 file = open("../../data/journal_list_IEEE.txt")
 for line in file.readlines() :
     line = line.strip()
     journal = line.split(" : ")[0]
     journals_to_consider.append(journal)
 file.close()
+'''
+
 
 print "[DEBUG] Journals : ", journals_to_consider
 print "[INFO] Done processing journals to be considered"
@@ -99,7 +110,7 @@ for i in range(0, len(journals_to_consider)) :
 
 import csv
 keys = sorted(SNIP_values.keys())
-with open("../../output/SNIP_IEEE.csv", "wb") as outfile:
+with open("../../output/SNIP_ACM_Aminer.csv", "wb") as outfile:
     writer = csv.writer(outfile, delimiter = ",")
     writer.writerow(keys)
     writer.writerows(zip(*[SNIP_values[key] for key in keys]))
