@@ -31,7 +31,7 @@ for journal in journal_list :
     journal_list2.add(journal.strip("\n"))
 journal_list = journal_list2
 
-author_list = set(open("../data/author_list_aminer.txt").readlines())
+author_list = set(open("../../data/author_list_aminer.txt").readlines())
 
 author_list2 = set()
 for author in author_list :
@@ -39,7 +39,7 @@ for author in author_list :
 author_list = author_list2
 
 
-file = open("../data/aminer_tiny.txt")
+file = open("../../data/aminer_tiny.txt")
 lines = file.readlines()
 papers = {}
 i = 0
@@ -117,6 +117,4 @@ while i < len(lines) :
 file.close()
 
 
-
-for index in citations :
 

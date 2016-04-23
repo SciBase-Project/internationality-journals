@@ -32,7 +32,7 @@ for element in data:
 		total_cites[jname] += 1
 		if jname == data[element]['publication']:
 			self_cites[jname] += 1
-			
+
 for name in journal_names:
 	self = self_cites[name.strip('\n')]
 	total = total_cites[name.strip('\n')]
