@@ -64,3 +64,5 @@ target/
 
 # add aminer_publications.txt because of its size
 data/aminer_publications.txt
+data/ACM_Aminer.txt
+
