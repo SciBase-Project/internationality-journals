@@ -49,3 +49,4 @@ with open("../../../output/ACM_Elsevier_both_journal_list.txt",'w') as file :
     for journal in found_journals :
         file.write(journal)
         file.write("\n")
+
