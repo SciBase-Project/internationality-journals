@@ -56,7 +56,7 @@ def calc_RIP_DCP(P, Y) :
 print "[INFO] Processing journals to be considered"
 
 journals_to_consider = []
-
+'''
 file = open("../../output/ACM_Elsevier_journal_list_curated_v2")
 for line in file.readlines() :
     line = line.strip()
@@ -71,7 +71,7 @@ for line in file.readlines() :
     journal = line.split(" : ")[0]
     journals_to_consider.append(journal)
 file.close()
-'''
+
 
 
 print "[DEBUG] Journals : ", journals_to_consider
@@ -110,7 +110,7 @@ for i in range(0, len(journals_to_consider)) :
 
 import csv
 keys = sorted(SNIP_values.keys())
-with open("../../output/SNIP_ACM_Aminer.csv", "wb") as outfile:
+with open("../../output/SNIP_IEEE.csv", "wb") as outfile:
     writer = csv.writer(outfile, delimiter = ",")
     writer.writerow(keys)
     writer.writerows(zip(*[SNIP_values[key] for key in keys]))
