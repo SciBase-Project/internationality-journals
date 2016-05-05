@@ -1,10 +1,878 @@
 DCP,Jname,RIP,SNIP
-0,IEEE ICCI,0,nan
-0,IEEE Workshop on Multimedia Signal Processing,0,nan
-0,IEEE PACT,0,nan
-0,IEEE SCC,0,nan
-0,IEEE Transactions on Communications,0,nan
-0,IEEE Trans. Dependable Sec. Comput.,0,nan
-0,Theor. Comput. Sci.,0,nan
-0,IEEE Trans. Circuits Syst. Video Techn.,0,nan
-0,IEEE T. Fuzzy Systems,0,nan
+0,Agenda,0,nan
+0,Ager,0,nan
+0,Modern Age,0,nan
+0,Aging Health,0,nan
+0,Aging Health,0,nan
+0,Alcoholism,0,nan
+0,Numerical Algorithms,0,nan
+0,Alternatives,0,nan
+0,American History,0,nan
+0,Analysis and Applications,0,nan
+0,Asymptotic Analysis,0,nan
+0,Bayesian Analysis,0,nan
+0,Decision Analysis,0,nan
+0,Engineering Analysis,0,nan
+0,Functional Analysis and its Applications,0,nan
+0,Geographical Analysis,0,nan
+0,Group Analysis,0,nan
+0,Intelligent Data Analysis,0,nan
+0,Linguistic Analysis,0,nan
+0,Medical Image Analysis,0,nan
+0,Music Analysis,0,nan
+0,Organizational Analysis,0,nan
+0,Pattern Recognition and Image Analysis,0,nan
+0,Risk Analysis,0,nan
+0,Sequential Analysis,0,nan
+0,Animal Behaviour,0,nan
+0,Animal Cognition,0,nan
+0,Animal Research,0,nan
+0,Animals,0,nan
+0,Computational and Applied Mathematics,0,nan
+0,Discrete Applied Mathematics,0,nan
+0,Aquaculture,0,nan
+0,Architectural Design,0,nan
+0,Architectural History,0,nan
+0,IT Architect,0,nan
+0,Coronary Artery Disease,0,nan
+0,Applied Artificial Intelligence,0,nan
+0,Artificial Intelligence and Law,0,nan
+0,Artificial Intelligence in Engineering,0,nan
+0,Computers and Artificial Intelligence,0,nan
+0,Engineering Applications of Artificial Intelligence,0,nan
+0,Foundations of Artificial Intelligence,0,nan
+0,Assembly Automation,0,nan
+0,Educational Assessment,0,nan
+0,Health Technology Assessment,0,nan
+0,Psychological Assessment,0,nan
+0,Animal Behaviour,0,nan
+0,Biochemistry,0,nan
+0,Developmental Biology,0,nan
+0,Evolutionary Biology,0,nan
+0,Experimental Biology,0,nan
+0,Genome Biology,0,nan
+0,Integrative Biology,0,nan
+0,Molecular Biology,0,nan
+0,Systems Biology,0,nan
+0,Cancer Biomarkers,0,nan
+0,Blood Pressure,0,nan
+0,Blood Vessels,0,nan
+0,Brain Connectivity,0,nan
+0,Brain Injury,0,nan
+0,Brain Stimulation,0,nan
+0,Human Brain Mapping,0,nan
+0,Metabolic Brain Disease,0,nan
+0,Breast Cancer,0,nan
+0,Breast Cancer Research,0,nan
+0,Breast Cancer Research,0,nan
+0,Structural Design of Tall Buildings,0,nan
+0,Breast Cancer,0,nan
+0,Breast Cancer Research,0,nan
+0,Cancer Biomarkers,0,nan
+0,Cancer Cell,0,nan
+0,Cancer Clinical Trials,0,nan
+0,Cancer Imaging,0,nan
+0,Cancer Research,0,nan
+0,Lung Cancer,0,nan
+0,Skin Cancer,0,nan
+0,Breast Cancer Research,0,nan
+0,Cancer Cell,0,nan
+0,Cell Differentiation,0,nan
+0,Cell Division,0,nan
+0,Cell Motility,0,nan
+0,Fuel Cell,0,nan
+0,Molecular Cell,0,nan
+0,Plant Cell,0,nan
+0,Solar Cells,0,nan
+0,Chemical Engineering,0,nan
+0,Analytical Chemistry,0,nan
+0,Chemistry,0,nan
+0,Transition Metal Chemistry,0,nan
+0,Analytical Chemistry,0,nan
+0,Transition Metal Chemistry,0,nan
+0,Exceptional Children,0,nan
+0,Young Children,0,nan
+0,Civil Engineering Systems,0,nan
+0,Cancer Clinical Trials,0,nan
+0,Animal Cognition,0,nan
+0,Social Cognition,0,nan
+0,Visual Cognition,0,nan
+0,Communication Research,0,nan
+0,Communication Theory,0,nan
+0,Communications,0,nan
+0,Computer Communications,0,nan
+0,Data Communications,0,nan
+0,Electrical Communication,0,nan
+0,Health Communication,0,nan
+0,Political Communication,0,nan
+0,Satellite Communications,0,nan
+0,Science Communication,0,nan
+0,Space Communications,0,nan
+0,Speech Communication,0,nan
+0,Technical Communication,0,nan
+0,Vehicular Communications,0,nan
+0,Visual Communication,0,nan
+0,Written Communication,0,nan
+0,Computer Communications,0,nan
+0,Data Communications,0,nan
+0,Satellite Communications,0,nan
+0,Space Communications,0,nan
+0,Vehicular Communications,0,nan
+0,Computational Complexity,0,nan
+0,Computer Aided Geometric Design,0,nan
+0,Computer Assisted Language Learning,0,nan
+0,Computer Communications,0,nan
+0,Computer Integrated Manufacturing Systems,0,nan
+0,Computer Languages,0,nan
+0,Computer Networks,0,nan
+0,Computer Science Education,0,nan
+0,Computer Software,0,nan
+0,Computer Supported Cooperative Work,0,nan
+0,Computer Vision and Image Understanding,0,nan
+0,Computer-Aided Engineering,0,nan
+0,Computerized Tomography,0,nan
+0,Computers and Artificial Intelligence,0,nan
+0,Computers and Composition,0,nan
+0,Computers and Industrial Engineering,0,nan
+0,Computers in Industry,0,nan
+0,Computers in Libraries,0,nan
+0,Computers in the Schools,0,nan
+0,Human-Computer Interaction,0,nan
+0,Interacting with Computers,0,nan
+0,Theoretical Computer Science,0,nan
+0,Visual Computer,0,nan
+0,Corporate Governance,0,nan
+0,Corporate Governance,0,nan
+0,Cerebral Cortex,0,nan
+0,Art Criticism,0,nan
+0,Liquid Crystals,0,nan
+0,Distributed and Parallel Databases,0,nan
+0,Child Development,0,nan
+0,Cognitive Development,0,nan
+0,Developmental Biology,0,nan
+0,Evolution and Development,0,nan
+0,Human Development,0,nan
+0,Professional Development in Education,0,nan
+0,Sustainable Development,0,nan
+0,Teacher Development,0,nan
+0,World Development,0,nan
+0,Child Development,0,nan
+0,Cognitive Development,0,nan
+0,Developmental Biology,0,nan
+0,Evolution and Development,0,nan
+0,Human Development,0,nan
+0,Professional Development in Education,0,nan
+0,Sustainable Development,0,nan
+0,Teacher Development,0,nan
+0,World Development,0,nan
+0,Diabetes Educator,0,nan
+0,Dialogue,0,nan
+0,Dialogue,0,nan
+0,Differential Equations and Dynamical Systems,0,nan
+0,Numerical Methods for Partial Differential Equations,0,nan
+0,Data Mining and Knowledge Discovery,0,nan
+0,Discrete Mathematics and Applications,0,nan
+0,Mitochondrial DNA,0,nan
+0,Drug Delivery System,0,nan
+0,Differential Equations and Dynamical Systems,0,nan
+0,Earthquake,0,nan
+0,Landscape Ecology,0,nan
+0,Microbial Ecology,0,nan
+0,Agricultural Economics,0,nan
+0,Agricultural Economics,0,nan
+0,Business Economics,0,nan
+0,Computational Economics,0,nan
+0,Ecological Economics,0,nan
+0,Experimental Economics,0,nan
+0,Quantum Electronics,0,nan
+0,Quantum Electronics,0,nan
+0,Quantum Electronics,0,nan
+0,Empirical Software Engineering,0,nan
+0,Energy and Environment,0,nan
+0,Energy Efficiency,0,nan
+0,Energy Policy,0,nan
+0,Energy Sources,0,nan
+0,Energy Systems,0,nan
+0,Independent Energy,0,nan
+0,Renewable Energy,0,nan
+0,Wind Energy,0,nan
+0,Advanced Engineering Materials,0,nan
+0,Aerospace Engineering,0,nan
+0,Aerospace Engineering,0,nan
+0,Artificial Intelligence in Engineering,0,nan
+0,Chemical Engineer,0,nan
+0,Chemical Engineering,0,nan
+0,Civil Engineering,0,nan
+0,Civil Engineering Systems,0,nan
+0,Computational Engineering,0,nan
+0,Computer-Aided Engineering,0,nan
+0,Computers and Industrial Engineering,0,nan
+0,Control Engineering,0,nan
+0,Design Engineering,0,nan
+0,Ecological Engineering,0,nan
+0,Electrical Engineering,0,nan
+0,Empirical Software Engineering,0,nan
+0,Engineered Systems,0,nan
+0,Engineering,0,nan
+0,Engineering Analysis,0,nan
+0,Engineering and Technology,0,nan
+0,Engineering Applications of Artificial Intelligence,0,nan
+0,Engineering education,0,nan
+0,Engineering Education,0,nan
+0,Engineering Geology,0,nan
+0,Engineering Optimization,0,nan
+0,Engineering Simulation,0,nan
+0,Engineering Structures,0,nan
+0,Engineering Technology,0,nan
+0,Environmental Engineering,0,nan
+0,Geotechnical Engineering,0,nan
+0,Industrial Engineer,0,nan
+0,Industrial Engineering,0,nan
+0,Manufacturing Engineer,0,nan
+0,Manufacturing Engineering,0,nan
+0,Mechanical Engineering,0,nan
+0,Mining Engineer,0,nan
+0,Mining Engineering,0,nan
+0,National Engineer,0,nan
+0,Nuclear Engineer,0,nan
+0,Process Engineering,0,nan
+0,Quality Engineering,0,nan
+0,Reliability Engineering,0,nan
+0,Requirements Engineering,0,nan
+0,Structural Engineer,0,nan
+0,Structural Engineer,0,nan
+0,Systems Engineering,0,nan
+0,Tissue Engineering,0,nan
+0,Wind Engineering,0,nan
+0,Advanced Engineering Materials,0,nan
+0,Aerospace Engineering,0,nan
+0,Aerospace Engineering,0,nan
+0,Artificial Intelligence in Engineering,0,nan
+0,Chemical Engineering,0,nan
+0,Civil Engineering,0,nan
+0,Civil Engineering Systems,0,nan
+0,Computational Engineering,0,nan
+0,Computer-Aided Engineering,0,nan
+0,Computers and Industrial Engineering,0,nan
+0,Control Engineering,0,nan
+0,Design Engineering,0,nan
+0,Ecological Engineering,0,nan
+0,Electrical Engineering,0,nan
+0,Empirical Software Engineering,0,nan
+0,Engineering Analysis,0,nan
+0,Engineering and Technology,0,nan
+0,Engineering Applications of Artificial Intelligence,0,nan
+0,Engineering education,0,nan
+0,Engineering Education,0,nan
+0,Engineering Geology,0,nan
+0,Engineering Optimization,0,nan
+0,Engineering Simulation,0,nan
+0,Engineering Structures,0,nan
+0,Engineering Technology,0,nan
+0,Environmental Engineering,0,nan
+0,Geotechnical Engineering,0,nan
+0,Industrial Engineering,0,nan
+0,Manufacturing Engineering,0,nan
+0,Mechanical Engineering,0,nan
+0,Mining Engineering,0,nan
+0,Process Engineering,0,nan
+0,Quality Engineering,0,nan
+0,Reliability Engineering,0,nan
+0,Requirements Engineering,0,nan
+0,Systems Engineering,0,nan
+0,Tissue Engineering,0,nan
+0,Wind Engineering,0,nan
+0,College English,0,nan
+0,English for Specific Purposes,0,nan
+0,English Language Teaching,0,nan
+0,English Studies,0,nan
+0,English Teaching,0,nan
+0,Energy and Environment,0,nan
+0,Environmental Engineering,0,nan
+0,Environmental Geology,0,nan
+0,Environmental Management,0,nan
+0,Environmental Research,0,nan
+0,Environmental Software,0,nan
+0,Environmentalist,0,nan
+0,Environments,0,nan
+0,Interactive Learning Environments,0,nan
+0,Interactive Learning Environments,0,nan
+0,Enzymes,0,nan
+0,Genetic Epidemiology,0,nan
+0,Occupational Ergonomics,0,nan
+0,Evaluation Review,0,nan
+0,Materials Evaluation,0,nan
+0,Performance Evaluation,0,nan
+0,Expert Systems with Applications,0,nan
+0,Foot and Ankle,0,nan
+0,Footprint,0,nan
+0,Fuel Cell,0,nan
+0,Gene Expression,0,nan
+0,Gene Expression Patterns,0,nan
+0,Generations,0,nan
+0,Genes,0,nan
+0,Genesis,0,nan
+0,Genetic engineering,0,nan
+0,Genetic Epidemiology,0,nan
+0,Genetica,0,nan
+0,Genetics,0,nan
+0,Human Genetics,0,nan
+0,Gene Expression Patterns,0,nan
+0,Genesis,0,nan
+0,Human Genetics,0,nan
+0,Genomics Data,0,nan
+0,Engineering Geology,0,nan
+0,Environmental Geology,0,nan
+0,Petroleum Geology,0,nan
+0,Corporate Governance,0,nan
+0,Corporate Governance,0,nan
+0,Group Analysis,0,nan
+0,Group Dynamics,0,nan
+0,Transformation Groups,0,nan
+0,Growth and Change,0,nan
+0,The Hand,0,nan
+0,Aging Health,0,nan
+0,Community Health,0,nan
+0,Education and Health,0,nan
+0,Health care,0,nan
+0,Health Communication,0,nan
+0,Health Education,0,nan
+0,Health Education,0,nan
+0,Health Technology Assessment,0,nan
+0,Healthcare,0,nan
+0,Healthcare Policy,0,nan
+0,Home Healthcare Nurse,0,nan
+0,International Health,0,nan
+0,Modern Healthcare,0,nan
+0,Nutrition and Health,0,nan
+0,Public Health,0,nan
+0,Stress and Health,0,nan
+0,Structural Health Monitoring,0,nan
+0,Healthcare Policy,0,nan
+0,Home Healthcare Nurse,0,nan
+0,Modern Healthcare,0,nan
+0,Congestive Heart Failure,0,nan
+0,Heart Disease,0,nan
+0,American History,0,nan
+0,Architectural History,0,nan
+0,Construction History,0,nan
+0,History of Religions,0,nan
+0,Natural History,0,nan
+0,Urban History,0,nan
+0,Computer Vision and Image Understanding,0,nan
+0,Images,0,nan
+0,Medical Image Analysis,0,nan
+0,NeuroImage,0,nan
+0,Pattern Recognition and Image Analysis,0,nan
+0,Cancer Imaging,0,nan
+0,Imaging in Medicine,0,nan
+0,Magnetic Resonance Imaging,0,nan
+0,Molecular Imaging,0,nan
+0,Real-Time Imaging,0,nan
+0,Ultrasonic Imaging,0,nan
+0,Microbiology and Immunology,0,nan
+0,Computers and Industrial Engineering,0,nan
+0,Industrial Engineering,0,nan
+0,Computers and Industrial Engineering,0,nan
+0,Infection,0,nan
+0,Inform,0,nan
+0,Informatica,0,nan
+0,Information,0,nan
+0,Information and Computation,0,nan
+0,Information and Management,0,nan
+0,Information Display,0,nan
+0,Information Fusion,0,nan
+0,Information Management,0,nan
+0,Information Professional,0,nan
+0,Information Retrieval,0,nan
+0,Information Sciences,0,nan
+0,Information Society,0,nan
+0,Information Storage and Retrieval,0,nan
+0,Information Systems,0,nan
+0,Information Systems Management,0,nan
+0,Information Systems Research,0,nan
+0,Information Visualization,0,nan
+0,Laboratory Information Management,0,nan
+0,Library and Information Science,0,nan
+0,Management Information Systems,0,nan
+0,Medical Informatics,0,nan
+0,Quantum Information Processing,0,nan
+0,Informatica,0,nan
+0,Information,0,nan
+0,Information and Computation,0,nan
+0,Information and Management,0,nan
+0,Information Display,0,nan
+0,Information Fusion,0,nan
+0,Information Management,0,nan
+0,Information Professional,0,nan
+0,Information Retrieval,0,nan
+0,Information Sciences,0,nan
+0,Information Society,0,nan
+0,Information Storage and Retrieval,0,nan
+0,Information Systems,0,nan
+0,Information Systems Management,0,nan
+0,Information Systems Research,0,nan
+0,Information Visualization,0,nan
+0,Laboratory Information Management,0,nan
+0,Library and Information Science,0,nan
+0,Management Information Systems,0,nan
+0,Medical Informatics,0,nan
+0,Quantum Information Processing,0,nan
+0,Information and Computation,0,nan
+0,Information and Management,0,nan
+0,Information Display,0,nan
+0,Information Fusion,0,nan
+0,Information Management,0,nan
+0,Information Professional,0,nan
+0,Information Retrieval,0,nan
+0,Information Sciences,0,nan
+0,Information Society,0,nan
+0,Information Storage and Retrieval,0,nan
+0,Information Systems,0,nan
+0,Information Systems Management,0,nan
+0,Information Systems Research,0,nan
+0,Information Visualization,0,nan
+0,Laboratory Information Management,0,nan
+0,Library and Information Science,0,nan
+0,Management Information Systems,0,nan
+0,Quantum Information Processing,0,nan
+0,Laboratory Information Management,0,nan
+0,Information Systems Management,0,nan
+0,Information Systems Research,0,nan
+0,Management Information Systems,0,nan
+0,Brain Injury,0,nan
+0,Innovations,0,nan
+0,Learning Inquiry,0,nan
+0,Qualitative Inquiry,0,nan
+0,Learning Inquiry,0,nan
+0,Qualitative Inquiry,0,nan
+0,Computer Integrated Manufacturing Systems,0,nan
+0,Applied Artificial Intelligence,0,nan
+0,Applied Intelligence,0,nan
+0,Artificial Intelligence,0,nan
+0,Artificial Intelligence and Law,0,nan
+0,Artificial Intelligence in Engineering,0,nan
+0,Computational Intelligence,0,nan
+0,Computers and Artificial Intelligence,0,nan
+0,Engineering Applications of Artificial Intelligence,0,nan
+0,Foundations of Artificial Intelligence,0,nan
+0,Swarm Intelligence,0,nan
+0,Composite Interfaces,0,nan
+0,Junctures,0,nan
+0,Across Languages and Cultures,0,nan
+0,Computer Assisted Language Learning,0,nan
+0,Computer Languages,0,nan
+0,English Language Teaching,0,nan
+0,First Language,0,nan
+0,Language Acquisition,0,nan
+0,Language and Speech,0,nan
+0,Language Learning,0,nan
+0,Language Policy,0,nan
+0,Language Teaching,0,nan
+0,Language Testing,0,nan
+0,Natural Language Semantics,0,nan
+0,Studies in Language,0,nan
+0,Computer Assisted Language Learning,0,nan
+0,English Language Teaching,0,nan
+0,Strategy and Leadership,0,nan
+0,Electronic Library,0,nan
+0,Library and Information Science,0,nan
+0,Artificial Life,0,nan
+0,Life Sciences,0,nan
+0,Cognitive Linguistics,0,nan
+0,Computational Linguistics,0,nan
+0,Lung Cancer,0,nan
+0,Change Management,0,nan
+0,Computer Integrated Manufacturing Systems,0,nan
+0,Disease Management,0,nan
+0,Environmental Management,0,nan
+0,Event Management,0,nan
+0,Financial Management,0,nan
+0,Human Resource Management,0,nan
+0,Information and Management,0,nan
+0,Information Management,0,nan
+0,Information Systems Management,0,nan
+0,Integrated Manufacturing Systems,0,nan
+0,Knowledge Management,0,nan
+0,Laboratory Information Management,0,nan
+0,Management,0,nan
+0,Management Decision,0,nan
+0,Management Education,0,nan
+0,Management Information Systems,0,nan
+0,Management Learning,0,nan
+0,Management Science,0,nan
+0,Manager,0,nan
+0,Mankind,0,nan
+0,Manufacturing Engineer,0,nan
+0,Manufacturing Engineering,0,nan
+0,Manufacturing Systems,0,nan
+0,Manufacturing Technology,0,nan
+0,Materials and Manufacturing Processes,0,nan
+0,Obesity Management,0,nan
+0,Risk Management,0,nan
+0,Supply Chain Management,0,nan
+0,Total Quality Management,0,nan
+0,Waste Management,0,nan
+0,Water Management,0,nan
+0,Water Resources Management,0,nan
+0,Change Management,0,nan
+0,Disease Management,0,nan
+0,Environmental Management,0,nan
+0,Event Management,0,nan
+0,Financial Management,0,nan
+0,Human Resource Management,0,nan
+0,Information and Management,0,nan
+0,Information Management,0,nan
+0,Information Systems Management,0,nan
+0,Knowledge Management,0,nan
+0,Laboratory Information Management,0,nan
+0,Management Decision,0,nan
+0,Management Education,0,nan
+0,Management Information Systems,0,nan
+0,Management Learning,0,nan
+0,Management Science,0,nan
+0,Obesity Management,0,nan
+0,Risk Management,0,nan
+0,Supply Chain Management,0,nan
+0,Total Quality Management,0,nan
+0,Waste Management,0,nan
+0,Water Management,0,nan
+0,Water Resources Management,0,nan
+0,Manufacturing Engineering,0,nan
+0,Computer Integrated Manufacturing Systems,0,nan
+0,Integrated Manufacturing Systems,0,nan
+0,Advanced Engineering Materials,0,nan
+0,Materials and Manufacturing Processes,0,nan
+0,Materials Evaluation,0,nan
+0,Materials Science,0,nan
+0,Materials Science,0,nan
+0,Optical Materials,0,nan
+0,Mathematical Finance,0,nan
+0,Mathematical modelling,0,nan
+0,Mathematical Systems Theory,0,nan
+0,Chinese Medicine,0,nan
+0,Clinical Medicine,0,nan
+0,Emergency Medicine,0,nan
+0,Emergency Medicine,0,nan
+0,Evidence-Based Medicine,0,nan
+0,Family Medicine,0,nan
+0,Genomic Medicine,0,nan
+0,Imaging in Medicine,0,nan
+0,Personalized Medicine,0,nan
+0,Preventive Medicine,0,nan
+0,Regenerative Medicine,0,nan
+0,Chinese Medicine,0,nan
+0,Clinical Medicine,0,nan
+0,Emergency Medicine,0,nan
+0,Emergency Medicine,0,nan
+0,Evidence-Based Medicine,0,nan
+0,Family Medicine,0,nan
+0,Genomic Medicine,0,nan
+0,Imaging in Medicine,0,nan
+0,Personalized Medicine,0,nan
+0,Preventive Medicine,0,nan
+0,Regenerative Medicine,0,nan
+0,Chinese Medicine,0,nan
+0,Clinical Medicine,0,nan
+0,Emergency Medicine,0,nan
+0,Emergency Medicine,0,nan
+0,Evidence-Based Medicine,0,nan
+0,Family Medicine,0,nan
+0,Genomic Medicine,0,nan
+0,Imaging in Medicine,0,nan
+0,Personalized Medicine,0,nan
+0,Preventive Medicine,0,nan
+0,Regenerative Medicine,0,nan
+0,Learning and Memory,0,nan
+0,Metabolic Brain Disease,0,nan
+0,Metall,0,nan
+0,Metamaterials,0,nan
+0,Transition Metal Chemistry,0,nan
+0,Statistical Methodology,0,nan
+0,Numerical Methods for Partial Differential Equations,0,nan
+0,Survey Research Methods,0,nan
+0,Microbial Ecology,0,nan
+0,Microbiology and Immunology,0,nan
+0,Progress in Industrial Microbiology,0,nan
+0,Microbiology and Immunology,0,nan
+0,Progress in Industrial Microbiology,0,nan
+0,Mind and Matter,0,nan
+0,Mindfulness,0,nan
+0,Mining Engineering,0,nan
+0,Nanoscale,0,nan
+0,Nanotechnology,0,nan
+0,National Engineer,0,nan
+0,National forum,0,nan
+0,National Journal,0,nan
+0,Ad Hoc Networks,0,nan
+0,Computer Networks,0,nan
+0,Global Networks,0,nan
+0,Network Security,0,nan
+0,Networks,0,nan
+0,Neural Networks,0,nan
+0,Social Networks,0,nan
+0,Wireless Networks,0,nan
+0,Ad Hoc Networks,0,nan
+0,Computer Networks,0,nan
+0,Global Networks,0,nan
+0,Neural Networks,0,nan
+0,Social Networks,0,nan
+0,Wireless Networks,0,nan
+0,Cognitive Neuroscience,0,nan
+0,Neuroscience Research,0,nan
+0,Neurosciences,0,nan
+0,Solid State Nuclear Magnetic Resonance,0,nan
+0,ED Nursing,0,nan
+0,Nursing care,0,nan
+0,Nutrition and Dietetics,0,nan
+0,Nutrition and Health,0,nan
+0,Obesity Management,0,nan
+0,Physical Oceanography,0,nan
+0,Operations Research,0,nan
+0,Discrete Optimization,0,nan
+0,Engineering Optimization,0,nan
+0,Structural Optimization,0,nan
+0,International Organization,0,nan
+0,Knowledge Organization,0,nan
+0,Learning Organization,0,nan
+0,Organizational Analysis,0,nan
+0,Strategic Organization,0,nan
+0,Patient Care,0,nan
+0,Pattern Recognition and Image Analysis,0,nan
+0,Learning and Perception,0,nan
+0,Asian Perspective,0,nan
+0,Perspectives,0,nan
+0,Perspectives,0,nan
+0,Philosophical Explorations,0,nan
+0,Philosophy of Science,0,nan
+0,Teaching Philosophy,0,nan
+0,Physical Oceanography,0,nan
+0,Physical Therapy,0,nan
+0,Human Physiology,0,nan
+0,Physiology and Behavior,0,nan
+0,Production Planning and Control,0,nan
+0,International Politics,0,nan
+0,Polymers,0,nan
+0,Power Systems,0,nan
+0,Space Power,0,nan
+0,Scientific Programming,0,nan
+0,Psychiatry Research,0,nan
+0,Psychiatry Research,0,nan
+0,Psychiatry Research,0,nan
+0,Clinical Psychology,0,nan
+0,Cognitive Psychology,0,nan
+0,Experimental Psychology,0,nan
+0,Psychological Assessment,0,nan
+0,Psychological Research,0,nan
+0,Psychologist,0,nan
+0,Psychology and Education,0,nan
+0,Psychopathology,0,nan
+0,Psychophysiology,0,nan
+0,Psychotherapy,0,nan
+0,Psychotherapy Research,0,nan
+0,Social Psychology,0,nan
+0,Psychotherapy Research,0,nan
+0,Quality and Quantity,0,nan
+0,Quality Engineering,0,nan
+0,Total Quality Management,0,nan
+0,Queueing Systems,0,nan
+0,Human Relations,0,nan
+0,Industrial Relations,0,nan
+0,International Relations,0,nan
+0,Personal Relationships,0,nan
+0,History of Religions,0,nan
+0,Religion,0,nan
+0,Religions,0,nan
+0,History of Religions,0,nan
+0,Religions,0,nan
+0,History of Religions,0,nan
+0,Representation Theory,0,nan
+0,Representations,0,nan
+0,Magnetic Resonance Imaging,0,nan
+0,Nuclear Magnetic Resonance,0,nan
+0,Solid State Nuclear Magnetic Resonance,0,nan
+0,Evaluation Review,0,nan
+0,Online Review,0,nan
+0,Software Review,0,nan
+0,RNA,0,nan
+0,Scanning Microscopy,0,nan
+0,Applied Sciences,0,nan
+0,Behavioral Science,0,nan
+0,BioScience,0,nan
+0,Clinical Science,0,nan
+0,Clinical Science,0,nan
+0,Cognitive Science,0,nan
+0,Computer Science Education,0,nan
+0,Decision Sciences,0,nan
+0,Forensic Science,0,nan
+0,Information Sciences,0,nan
+0,Library and Information Science,0,nan
+0,Life Sciences,0,nan
+0,Location Science,0,nan
+0,Management Science,0,nan
+0,Materials Science,0,nan
+0,Materials Science,0,nan
+0,Philosophy of Science,0,nan
+0,Political Science,0,nan
+0,Research in Science Education,0,nan
+0,Science and Education,0,nan
+0,Science Communication,0,nan
+0,Science Education,0,nan
+0,Social Science Research,0,nan
+0,Social Sciences,0,nan
+0,Social Sciences,0,nan
+0,Statistical Science,0,nan
+0,Systems Science,0,nan
+0,The Sciences,0,nan
+0,Theoretical Computer Science,0,nan
+0,Computer Science Education,0,nan
+0,Research in Science Education,0,nan
+0,Remote Sensing,0,nan
+0,Sensors,0,nan
+0,Sensors and Actuators,0,nan
+0,Sensors and Actuators,0,nan
+0,Shock Waves,0,nan
+0,Multidimensional Systems and Signal Processing,0,nan
+0,Signal,0,nan
+0,Signal Processing,0,nan
+0,Multidimensional Systems and Signal Processing,0,nan
+0,Signal Processing,0,nan
+0,Multidimensional Systems and Signal Processing,0,nan
+0,Engineering Simulation,0,nan
+0,Molecular Simulation,0,nan
+0,Simulation and Gaming,0,nan
+0,Skull Base Surgery,0,nan
+0,Social Work Education,0,nan
+0,Business and Society,0,nan
+0,Global Society,0,nan
+0,Information Society,0,nan
+0,Space Communications,0,nan
+0,Space Power,0,nan
+0,Spaceflight,0,nan
+0,Business Standards,0,nan
+0,Computational Statistics,0,nan
+0,Solid State Nuclear Magnetic Resonance,0,nan
+0,Spatial Statistics,0,nan
+0,Statistica,0,nan
+0,Statistical Methodology,0,nan
+0,Statistical Modelling,0,nan
+0,Statistical Science,0,nan
+0,Statistics,0,nan
+0,Teaching Statistics,0,nan
+0,Statistical Methodology,0,nan
+0,Statistical Modelling,0,nan
+0,Statistical Science,0,nan
+0,Computational Statistics,0,nan
+0,Spatial Statistics,0,nan
+0,Teaching Statistics,0,nan
+0,Bridge Structures,0,nan
+0,Composite Structures,0,nan
+0,Engineering Structures,0,nan
+0,Minimally Invasive Surgery,0,nan
+0,Ophthalmic Surgery,0,nan
+0,Skull Base Surgery,0,nan
+0,Minimally Invasive Surgery,0,nan
+0,Ophthalmic Surgery,0,nan
+0,Skull Base Surgery,0,nan
+0,Organic Syntheses,0,nan
+0,Agricultural Systems,0,nan
+0,BioSystems,0,nan
+0,Civil Engineering Systems,0,nan
+0,Complex Systems,0,nan
+0,Computer Integrated Manufacturing Systems,0,nan
+0,Decision Support Systems,0,nan
+0,Differential Equations and Dynamical Systems,0,nan
+0,Drug Delivery System,0,nan
+0,Dynamical Systems,0,nan
+0,Economic Systems,0,nan
+0,Energy Systems,0,nan
+0,Engineered Systems,0,nan
+0,Evolving Systems,0,nan
+0,Expert Systems,0,nan
+0,Expert Systems with Applications,0,nan
+0,ID Systems,0,nan
+0,Information Systems,0,nan
+0,Information Systems Management,0,nan
+0,Information Systems Research,0,nan
+0,Integrated Manufacturing Systems,0,nan
+0,Knowledge-Based Systems,0,nan
+0,Large Scale Systems,0,nan
+0,Management Information Systems,0,nan
+0,Manufacturing Systems,0,nan
+0,Mathematical Systems Theory,0,nan
+0,Multibody System Dynamics,0,nan
+0,Multidimensional Systems and Signal Processing,0,nan
+0,Multimedia Systems,0,nan
+0,Power Systems,0,nan
+0,Queueing Systems,0,nan
+0,Real-Time Systems,0,nan
+0,Systems Biology,0,nan
+0,Systems Engineering,0,nan
+0,Systems Practice,0,nan
+0,Systems Science,0,nan
+0,Telecommunication Systems,0,nan
+0,Assistive Technology,0,nan
+0,Engineering and Technology,0,nan
+0,Engineering Technology,0,nan
+0,Health Technology Assessment,0,nan
+0,Manufacturing Technology,0,nan
+0,Marine Technology,0,nan
+0,Mining Technology,0,nan
+0,Pharmaceutical Technology,0,nan
+0,Surface Mount Technology,0,nan
+0,Technology and Culture,0,nan
+0,Telecommunications Policy,0,nan
+0,Terrain,0,nan
+0,Language Testing,0,nan
+0,Texte,0,nan
+0,Family Therapy,0,nan
+0,Physical Therapy,0,nan
+0,Real-Time Imaging,0,nan
+0,Real-Time Systems,0,nan
+0,Geometry and Topology,0,nan
+0,Machine Translation,0,nan
+0,Phase Transitions,0,nan
+0,Public Transport,0,nan
+0,Transcription,0,nan
+0,Transfer,0,nan
+0,Transform,0,nan
+0,Transformation,0,nan
+0,Transformation Groups,0,nan
+0,Transition Metal Chemistry,0,nan
+0,Translation Studies,0,nan
+0,Translational Research,0,nan
+0,Translator,0,nan
+0,Transport,0,nan
+0,Transport in Porous Media,0,nan
+0,Transport Problems,0,nan
+0,Transportation,0,nan
+0,Transformation,0,nan
+0,Transformation Groups,0,nan
+0,Transformation Groups,0,nan
+0,Public Transport,0,nan
+0,Transport in Porous Media,0,nan
+0,Transport Problems,0,nan
+0,Transportation,0,nan
+0,Cancer Clinical Trials,0,nan
+0,Clinical Trials,0,nan
+0,Vascular diseases,0,nan
+0,Ground Water,0,nan
+0,Urban Water,0,nan
+0,Water Management,0,nan
+0,Water Pollution Control,0,nan
+0,Water Resources,0,nan
+0,Water Resources Management,0,nan
+0,Water S.A.,0,nan
+0,Water Supply,0,nan
+0,Water Resources Management,0,nan
+0,Wireless Networks,0,nan
+0,Word of Mouth,0,nan
+0,Computer Supported Cooperative Work,0,nan
+0,Public Works,0,nan
+0,Social Work,0,nan
+0,Social Work Education,0,nan
+0,Sustainable World,0,nan
+0,World Development,0,nan
+0,World Economy,0,nan
+0,World Wide Web,0,nan
+0,Young Children,0,nan

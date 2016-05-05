@@ -1,6 +1,6 @@
 import pymongo
 import ast
-
+from subprocess import call
 import re
 import unicodedata
 
@@ -21,28 +21,40 @@ def text_to_id(text):
     text = re.sub('_',' ',text)
     return text
 
+call(["brew","services","start","mongodb"])
 
 # connecting to the database
 client = pymongo.MongoClient("localhost", 27017)
 # getting the table of the  
-db = client.aminer
+db = client.acm_aminer
 
 data = {}
 
 self_cites = {}
 total_cites = {}
 author_list = []
+paper_count = {}
 
 #indexing based on the index of an article
 article_list = list(db['publications'].find())
+
+call(["brew","services","stop","mongodb"])
+
 for article in article_list:
-	data[article['index']] = dict(article)
-	for author  in article['authors']:
-		if author not in total_cites:
-			total_cites[author] = 0
-			self_cites[author] = 0
-			author_list.append(author)
- 
+    data[article['index']] = dict(article)
+    try:
+        for author  in article['authors']:
+    		if author not in total_cites:
+                total_cites[author] = 0
+                self_cites[author] = 0
+                paper_count[author] = 1
+                author_list.append(author)
+            else:
+                paper_count[author] += 1
+    except KeyError:
+        pass
+
+article_list = {}
 for element in data:
  	for reference in list(data[element]['references']):
  		if reference == '':
@@ -53,14 +65,17 @@ for element in data:
  			cited = data[reference]
  		except KeyError:
  			continue
- 		for author in data[element]['authors']:
- 			if author in cited['authors']:
- 				self_cites[author] += 1
+        try:
+     		for author in data[element]['authors']:
+     			if author in cited['authors']:
+     				self_cites[author] += 1
+        except KeyError:
+            pass
 with open('../../output/calc_ocq.csv','w') as outfile:
 	for author in author_list:
 		outfile.write(text_to_id(author) + ',' + str(total_cites[author]) + ',' + str(self_cites[author]) + '\n')
 		if self_cites[author]!=0:
-	 		print(text_to_id(author) + ' ' + str(total_cites[author]) + ' ' + str(self_cites[author]))
+	 		print(text_to_id(author) + ' ' + str(total_cites[author]) + ' ' + str(self_cites[author]) +' '+ str(paper_count[authorau]))
 # for element in data:
 # 	for reference in list(data[element]['references']):
 # 		if reference =='':

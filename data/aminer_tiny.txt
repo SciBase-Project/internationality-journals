@@ -1,0 +1,55 @@
+#*Tableau-based procedure for deciding satisfiability in the full coalitional multiagent epistemic logic
+#@Valentin Goranko,Dmitry Shkatov,Frank K. H. A. Dehne
+#t2009
+#cCoRR
+#index1
+#%7
+#%3
+#!
+  
+#*A formally verified compiler back-end
+#@Xavier Leroy,Lawrence Snyder
+#t2009
+#cCoRR
+#index2
+#%4
+#%67
+#%5
+#!
+  
+#*Distribution Sweeping on Clustered Machines with Hierarchical Memories.
+#@Frank K. H. A. Dehne,Stefano Mardegan,Andrea Pietracaprina,Giuseppe Prencipe
+#t2002
+#cIPDPS
+#index3
+#%5
+#%12
+#%35
+#!
+  
+#*Abstractions for Dynamic Data Distribution.
+#@Steven J. Deitz,Bradford L. Chamberlain,Lawrence Snyder
+#t2004
+#cIPDPS
+#index4
+#%34
+#!
+  
+#*Parallel Dynamic st-numbering and Applications.
+#@Eliezer Dekel,Jie Hu,Lawrence Snyder
+#t1993
+#cIPPS
+#index5
+#!
+  
+#*Protocols for Non-Deterministic Communication over Synchronous Channels.
+#@Erik D. Demaine
+#t1998
+#cIPPS/SPDP
+#index6
+#%89
+#%5
+#!
+  
+
+  

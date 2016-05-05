@@ -4,7 +4,7 @@ def calc_RIP_DCP(P, Y) :
     import pymongo
     client = pymongo.MongoClient("localhost", 27017)
     # db name - aminer
-    db = client.aminer
+    db = client.acm_aminer
     # collection
     db.publications
 
@@ -51,6 +51,8 @@ def calc_RIP_DCP(P, Y) :
     return RIP, DCP
 
 
+from subprocess import call
+call(["brew","services","start","mongodb"])
 
 
 print "[INFO] Processing journals to be considered"
@@ -65,13 +67,19 @@ for line in file.readlines() :
 file.close()
 
 '''
-file = open("../../data/journal_list_IEEE.txt")
+# file = open("../../data/journal_list_IEEE.txt")
+# for line in file.readlines() :
+#     line = line.strip()
+#     journal = line.split(" : ")[0]
+#     journals_to_consider.append(journal)
+# file.close()
+
+file = open("../../output/ACM_Elsevier_journal_list.txt")
 for line in file.readlines() :
     line = line.strip()
     journal = line.split(" : ")[0]
     journals_to_consider.append(journal)
 file.close()
-
 
 
 print "[DEBUG] Journals : ", journals_to_consider
@@ -115,5 +123,5 @@ with open("../../output/SNIP_IEEE.csv", "wb") as outfile:
     writer.writerow(keys)
     writer.writerows(zip(*[SNIP_values[key] for key in keys]))
 
-
+call(["brew","services","stop","mongodb"])
 

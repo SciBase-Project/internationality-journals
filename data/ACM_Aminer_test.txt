@@ -1,0 +1,214 @@
+#*A static estimation technique of power sensitivity in logic circuits
+#@Taewhan Kim, Ki-Seok Chung, C. L. Liu
+#t2001
+#cProceedings of the 38th annual Design Automation Conference
+#index5390881220f70186a0d7ec8b
+#%539087e720f70186a0d699ac
+#%5390882720f70186a0d8a0a0
+#%539087d420f70186a0d5e3be
+#%539087e120f70186a0d6726f
+#%539087c720f70186a0d56c67
+#%5390b00c20f70186a0ed4f65
+#%558ac6e0612c41e6b9d39eed
+#%539087e120f70186a0d672f0
+#%53908bde20f70186a0dc70e7
+#!In this paper, we study a new problem of statically estimating the power sensitivity of a given logic circuit with respect to the primary inputs. The power sensitivity defines the characteristics of power dissipation due to changes in state of primary inputs. Consequently, estimating the power sensitivity among the inputs is essential not only to measure the power consumption of the circuit efficiently but also to provide potential opportunities of redesigning the circuit for low power. In this context, we propose a fast and reliable static estimation technique for power sensitivity based on a new concept calledpower equations, which are then collectively transformed into a table calledpower table. Experimental data on MCNC benchmark examples show that the proposed technique is useful and effective in estimating power consumption. In summary, the relative error for the estimation of maximum power consumption is 9.4\% with a huge speed-up in simulation.
+
+#*JouleTrack: a web based tool for software energy profiling
+#@Amit Sinha, Anantha P. Chandrakasan
+#t2001
+#cProceedings of the 38th annual Design Automation Conference
+#index5390881220f70186a0d7ec8c
+#%539087d420f70186a0d5eb74
+#%53909ee020f70186a0e3415f
+#%558ac6e0612c41e6b9d39eed
+#%53908bfb20f70186a0dc9bad
+#%539087c720f70186a0d578bc
+#%5390882d20f70186a0d8dfc8
+#%539087c720f70186a0d56c91
+#!A software energy estimation methodology is presented that avoids explicit characterization of instruction energy consumption and pre-dicts energy consumption to within 3% accuracy for a set of bench-mark programs evaluated on the StrongARM SA-1100 and Hitachi SH-4 microprocessors. The tool, JouleTrack, is available as an online resource and has various estimation levels. It also isolates the switch-ing and leakage components of the energy consumption.
+
+#*On optimum switch box designs for 2-D FPGAs
+#@Hongbing Fan, Jiping Liu, Yu-Liang Wu, Chak-Chung Cheung
+#t2001
+#cProceedings of the 38th annual Design Automation Conference
+#index5390881220f70186a0d7ec89
+#%539087c720f70186a0d56c89
+#%53908f5c20f70186a0ddaf80
+#%539087f320f70186a0d701cb
+#%539098dc20f70186a0e0dc3d
+#%5390b61e20f70186a0f1537d
+#%539090c420f70186a0ddd9f8
+#%539087cf20f70186a0d5c8ef
+#%53908b1820f70186a0db4acf
+#%558ac6e0612c41e6b9d39eed
+#%539087d420f70186a0d5e67b
+#%539089ab20f70186a0d96cbe
+#%5390b61e20f70186a0f1546d
+#%539087cf20f70186a0d5c8f0
+#%539087a620f70186a0d496f5
+#!An FPGA switch box is said to be universal (hyper-universal) if it can detailed route all possible surrounding 2-pin (multi-pin) net topologies satisfying the global routing density constraints. A switch box is optimum if it is hyper-universal and the switches inside is minimum. It has been shown that if the net topology is restricted to 2-pin nets, then a 2-D (4-way) switch box can be built to be universal with only 6Wswitches, whereWis the global routing channel density. As the routing resource is relatively expensive in FPGA chips, study of the optimum switch box designs is clearly a topic with theoretical and commercial value of reducing silicon cost. A previous work has constructed a formal mathematical model of this optimum design problem for switch boxes with arbitrary dimensions, and gave a scheme to produce hyper-universal designs with less than 6.7W switches for 4-way FPGA switch boxes. In this paper, we will further investigate this most common 4-way switch box case, and will give new theoretical results followed by extensive experimental justification. The results seem to be quite attractive. We show that such an optimum switch box can be built with a very low number of additional switches beyond 6W for today's practical range of lowW's (e.g. just 6Wplus 1 or 2 additional switches forW's up to 7). Even for arbitrary largeW's, the bound can be shown to be under 6.34W. To make experimental comparison, we run today's published best FPGA router VPR on large benchmarks for the popular Disjoint structure and our proposed designs. The results are quite encouraging.
+
+#*Dependency preserving probabilistic modeling of switching activity using bayesian networks
+#@Sanjukta Bhanja, N. Ranganathan
+#t2001
+#cProceedings of the 38th annual Design Automation Conference
+#index5390881220f70186a0d7ec8a
+#%5390b61e20f70186a0f154d9
+#%5390878a20f70186a0d379c9
+#%539089bb20f70186a0d999ef
+#%5390882420f70186a0d87018
+#%5390882820f70186a0d8b635
+#%539087c720f70186a0d56c67
+#%5390b61e20f70186a0f1553f
+#%558ac6e0612c41e6b9d39eed
+#%539087aa20f70186a0d4a4b2
+#%539087e120f70186a0d65bfd
+#%539087c720f70186a0d57f57
+#%539087ae20f70186a0d4d534
+#%53908cde20f70186a0dcf059
+#!We propose a new switching probability model for combinational circuits using aLogic-Induced-Directed-Acyclic-Graph(LIDAG) and prove that such a graph corresponds to aBayesian Networkguaranteed to map all the dependencies inherent in the circuit. This switching activity can be estimated by capturing complex dependencies (spatio-temporal and conditional) among signals efficiently by local message-passing based on the Bayesian networks. Switching activity estimation of ISCAS and MCNC circuits with random input streams yield high accuracy (average mean error=0.002) and low computational time (average time=3.93 seconds).
+
+#*Creating and exploiting flexibility in steiner trees
+#@Elaheh Bozorgzadeh, Ryan Kastner, Majid Sarrafzadeh
+#t2001
+#cProceedings of the 38th annual Design Automation Conference
+#index5390881220f70186a0d7ec87
+#%539087a520f70186a0d4860f
+#%539089ab20f70186a0d96cc1
+#%539087fe20f70186a0d75498
+#%558ac6e0612c41e6b9d39eed
+#%5390882720f70186a0d89aa2
+#%5390880d20f70186a0d7d2e7
+#%539089ab20f70186a0d96cbf
+#%5390879220f70186a0d3c8a5
+#%539087e720f70186a0d68ffe
+#!This paper presents the concept of flexibility -- a geometric property associated with Steiner trees. Flexibility is related to the routability of the Steiner tree. We present an optimal algorithm which takes a Steiner tree and outputs a more flexible Steiner tree. Our experiments show that a net with a flexible Steiner tree increases its routability. Experiments with a global router show that congestion is improved by approximately 20\%.
+
+#*Simultaneous shield insertion and net ordering under explicit RLC noise constraint
+#@Kevin M. Lepak, Irwan Luwandi, Lei He
+#t2001
+#cProceedings of the 38th annual Design Automation Conference
+#index5390881220f70186a0d7ec88
+#%539089ab20f70186a0d96cf0
+#%539087fe20f70186a0d759cc
+#%539087fe20f70186a0d754a2
+#%539087f320f70186a0d70ab7
+#%558ac6e0612c41e6b9d39eed
+#%53908bfb20f70186a0dcbbe7
+#%5390880d20f70186a0d7d347
+#%53908e0020f70186a0dd4b2a
+#%539087e120f70186a0d673b3
+#%539087e120f70186a0d6727f
+#!For multiple coupled RLC nets, we formulate the min-area simultaneous shield insertion and net ordering SINO/NB-&ngr; problem to satisfy the given noise bound. We develop an efficient and conservative model to compute the peak noise, and apply the noise model to a simulated-annealing (SA) based algorithm for the SINO/NB-&ngr; problem. Extensive and accurate experiments show that the SA-based algorithm is efficient, and always achieves solutions satisfying the given noise bound. It uses up to 71\% and 30\% fewer shields when compared to a greedy based shield insertion algorithm and a separated shield insertion and net ordering algorithm, respectively. To the best of our knowledge, it is the first work that presents an in-depth study on the min-area SINO problem under an explicit noise constraint.
+
+#*Hardware/software instruction set configurability for system-on-chip processors
+#@Albert Wang, Earl Killian, Dror Maydan, Chris Rowen
+#t2001
+#cProceedings of the 38th annual Design Automation Conference
+#index5390881220f70186a0d7ec85
+#%558ac6e0612c41e6b9d39eed
+#%539087e720f70186a0d677ee
+#%539087e120f70186a0d671be
+#%53908b6c20f70186a0dbe813
+#!New application-focused system-on-chip platforms motivate new application-specific processors. Configurable and extensible processor architectures offer the efficiency of tuned logic solutions with the flexibility of standard high-level programming methodology. Automated extension of processor function units and the associated software environment - compilers, debuggers, simulators and real-time operating systems - satisfies these needs. At the same time, designing at the level of software and instruction set architecture significantly shortens the design cycle and reduces verification effort and risk. This paper describes the key dimensions of extensibility within the processor architecture, the instruction set extension description language and the means of automatically extending the software environment from that description. It also describes two groups of benchmarks, EEMBC's Consumer and Telecommunications suites, that show 20 to 40 times acceleration of a broad set of algorithms through application-specific instruction set extension, relative to high performance RISC processors.
+
+#*A practical methodology for early buffer and wire resource allocation
+#@Charles J. Alpert, Jiang Hu, Sachin S. Sapatnekar, Paul Villarrubia
+#t2001
+#cProceedings of the 38th annual Design Automation Conference
+#index5390881220f70186a0d7ec86
+#%539087fe20f70186a0d754b6
+#%539087fe20f70186a0d754b7
+#%558ac6e0612c41e6b9d39eed
+#%539089ab20f70186a0d96cc0
+#%5390880220f70186a0d76f54
+#%5390880d20f70186a0d7d07a
+#%5390b63320f70186a0f161a7
+#!The dominating contribution of interconnect to system per-formance has made it critical to plan for buffer and wiring resources in the layout. Both buffers and wires must be con-sidered, since wire routes determine buffer requirements and buffer locations constrain wire routes. In contrast to recent buffer block planning approaches, our design methodology distributes buffer sites throughout the layout. A tile graph is used to abstract the buffer planning problem while also addressing wire planning. We present a four-stage heuristic called RABID for resource allocation and experimentally verify its effectiveness.
+
+#*Convergence of the delayed normalized LMS algorithm with decreasingstep size
+#@Sang-Sik Ahn, P.J. Voltz
+#t1996
+#cIEEE Transactions on Signal Processing
+#index5390b52620f70186a0f027a9
+#!In several practical applications of the LMS algorithm, including certain VLSI implementations, the coefficient adaptation can be performed only after some fixed delay. The resulting algorithm is known as the delayed LMS (DLMS) algorithm in the literature. Previous published analyses of this algorithm are based on mean and moment convergence under the independence assumption between successive input vectors. These analyses are interesting and give valuable insights into the convergence properties but, from a practical viewpoint, they do not guarantee the correct performance of the particular realization with which the user must live. We consider a normalized version of this algorithm with a decreasing step size μ(n) and prove the almost sure convergence of the nonhomogeneous algorithm, assuming a mixing input condition and the satisfaction of a certain law of large numbers
+
+#*Automatic generation of code generators.
+#@Christopher Warwick Fraser
+#t1977
+#cAutomatic generation of code generators.
+#index539090c420f70186a0ddf76c
+
+#*Ion confinement in a toroidal heliac
+#@J. L. V. Lewandowski
+#t1998
+#cAustralian Journal of Physics
+#index539087eb20f70186a0d6bcc5
+
+#*A nonlocal potential form for s-wave &agr;-&agr; scattering
+#@K. Amos, M. T. Bennett
+#t1998
+#cAustralian Journal of Physics
+#index539087eb20f70186a0d6bcc3
+
+#*The triangle processor and normal vector shader: a VLSI system for high performance graphics
+#@Michael Deering, Stephanie Winner, Bic Schediwy, Chris Duffy, Neil Hunt
+#t1988
+#cSIGGRAPH '88 Proceedings of the 15th annual conference on Computer graphics and interactive techniques
+#index5390881220f70186a0d7ec8d
+#%53908b9320f70186a0dc1550
+#%5390878720f70186a0d34660
+#%5390877f20f70186a0d2fa06
+#%5390877f20f70186a0d2fa07
+#%5390878720f70186a0d34657
+#%5390877920f70186a0d2e230
+#%558ac6e0612c41e6b9d39eed
+#%53908bad20f70186a0dc3143
+#%5390877920f70186a0d2f03d
+#!Current affordable architectures for high-speed display of shaded 3D objects operate orders of magnitude too slowly. Recent advances in floating point chip technology have outpaced polygon fill time, making the memory access bottleneck between the drawing processor and the frame buffer the most significant factor to be accelerated. Massively parallel VLSI system have the potential to bypass this bottleneck, but to date only at very high cost. We describe a new more affordable VLSI solution. A pipeline of triangle processors rasterizes the geometry, then a further pipeline of shading processors applies Phong shading with multiple light sources. The triangle processor pipeline performs 100 billion additions per second, and the shading pipeline performs two billion multiplies per second. This allows 3D graphics systems to be built capable of displaying more than one million triangles per second. We show the results of an anti-aliasing technique, and discuss extensions to texture mapping, shadows, and environment maps.
+
+#*Effective use of boolean satisfiability procedures in the formal verification of superscalar and VLIW
+#@Miroslav N. Velev, Randal E. Bryant
+#t2001
+#cProceedings of the 38th annual Design Automation Conference
+#index5390881220f70186a0d7ec8e
+#%539087cf20f70186a0d5d362
+#%539087eb20f70186a0d6a4a7
+#%53908a5820f70186a0da191d
+#%5390a6b120f70186a0e84a42
+#%539087aa20f70186a0d4a4b2
+#%53908bfb20f70186a0dcb406
+#%5390880220f70186a0d77c13
+#%5390aca920f70186a0eb986c
+#%5390881220f70186a0d7d3ef
+#%5390b61e20f70186a0f156d6
+#%53908b1820f70186a0db3810
+#%5390881220f70186a0d7ee67
+#%558ac6e0612c41e6b9d39eed
+#%539087d920f70186a0d5ff90
+#%539089ab20f70186a0d957d6
+#%539089bb20f70186a0d97d27
+#%53908aac20f70186a0da84de
+#%53908e0020f70186a0dd43e7
+#%539089ab20f70186a0d9524e
+#%539089ab20f70186a0d9524f
+#%5390aca920f70186a0eb9a6e
+#%5390958a20f70186a0def257
+#%539087fe20f70186a0d75637
+#%539087e120f70186a0d65bde
+#%53908b1820f70186a0db38a9
+#%53908b1820f70186a0db3817
+#%5390880220f70186a0d765ad
+#%539087f320f70186a0d6f950
+#%53908b1820f70186a0db3ebe
+#%53908aac20f70186a0da733a
+#%53908ac620f70186a0da9548
+#%539087c720f70186a0d57eaf
+#%53908b2a20f70186a0db9e66
+#%53908b2a20f70186a0db8392
+#%53908b1820f70186a0db3757
+#%539089bb20f70186a0d99b09
+#%53908aac20f70186a0da8621
+#!We compare SAT-checkers and decision diagrams on the evalua-tion of Boolean formulas produced in the formal verification of both correct and buggy versions of superscalar and VLIW micro-processors. We identify one SAT-checker that significantly out-performs the rest. We evaluate ways to enhance its performance by variations in the generation of the Boolean correctness formu-las. We reassess optimizations previously used to speed up the formal verification and probe future challenges.
+

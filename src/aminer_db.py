@@ -4,10 +4,10 @@ import pymongo
 client = pymongo.MongoClient("localhost", 27017)
 
 # db name - aminer
-db = client.aminer
+db = client.acm_aminer
 
 # collection
-db.publications
+db.shortened   
 
 print "DB name: ", db.name
 print "DB collection: ", db.publications
@@ -15,14 +15,15 @@ print "DB collection: ", db.publications
 
 print "[INFO] Processing papers"
 
-file = open("../data/aminer_publications.txt")
+file = open("../data/ACM_Aminer.txt")
 lines = file.readlines()
+file.close()
 papers = {}
 i = 0
 while i < len(lines) :
     paper = {}
     paper['references'] = []
-    while lines[i] !=  '  \r\n' :
+    while lines[i] !=  '\n' :
         line = lines[i].strip()
 
         '''
@@ -37,14 +38,22 @@ while i < len(lines) :
         '''
 
         if line.startswith('#index') : paper['index']        = line[len('#index'):]
-        if line.startswith('#*') :     paper['title']        = line[len('#*'):]
+        if line.startswith('#*') :
+            i += 1
+            continue #paper['title']        = line[len('#*'):]
         if line.startswith('#@') :     paper['authors']      = line[len('#@'):].split(',')
-        if line.startswith('#o') :     paper['affiliations'] = line[len('#o'):]
-        if line.startswith('#t') :     paper['year']         = line[len('#t'):]
+        if line.startswith('#o') :
+            i += 1
+            continue #paper['affiliations'] = line[len('#o'):]
+        if line.startswith('#t') :
+            i += 1
+            continue #paper['year']         = line[len('#t'):]
         if line.startswith('#c') :     paper['publication']  = line[len('#c'):]
-        if line.startswith('#!') :     paper['abstract']     = line[len('#!'):]
+        if line.startswith('#!') :
+            i += 1
+            continue#paper['abstract']     = line[len('#!'):]
         if line.startswith('#%') :     paper['references'].append( line[len('#%'):] )
-        print "paper",i+1,"done"
+        print "line",i+1,"done"
         i += 1
 
 
@@ -54,5 +63,5 @@ while i < len(lines) :
 
     i += 1
 
-file.close()
+#file.close()
 
