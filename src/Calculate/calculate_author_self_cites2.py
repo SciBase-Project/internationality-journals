@@ -30,10 +30,10 @@ db = client.acm_aminer
 
 data = {}
 
-self_cites = {}
-total_cites = {}
+author_self_cites = {}
+author_total_cites = {}
 author_list = []
-paper_count = {}
+author_paper_count = {}
 
 #indexing based on the index of an article
 article_list = list(db['publications'].find())
@@ -44,13 +44,13 @@ for article in article_list:
     data[article['index']] = dict(article)
     try:
         for author  in article['authors']:
-    		if author not in total_cites:
-                total_cites[author] = 0
-                self_cites[author] = 0
-                paper_count[author] = 1
+    		if author not in author_total_cites:
+                author_total_cites[author] = 0
+                author_self_cites[author] = 0
+                author_paper_count[author] = 1
                 author_list.append(author)
             else:
-                paper_count[author] += 1
+                author_paper_count[author] += 1
     except KeyError:
         pass
 
@@ -61,21 +61,21 @@ for element in data:
  			continue
  		try:
  			for author in data[element]['authors']:
- 				total_cites[author] += 1
+ 				author_total_cites[author] += 1
  			cited = data[reference]
  		except KeyError:
  			continue
         try:
      		for author in data[element]['authors']:
      			if author in cited['authors']:
-     				self_cites[author] += 1
+     				author_self_cites[author] += 1
         except KeyError:
             pass
 with open('../../output/calc_ocq.csv','w') as outfile:
 	for author in author_list:
-		outfile.write(text_to_id(author) + ',' + str(total_cites[author]) + ',' + str(self_cites[author]) + '\n')
-		if self_cites[author]!=0:
-	 		print(text_to_id(author) + ' ' + str(total_cites[author]) + ' ' + str(self_cites[author]) +' '+ str(paper_count[authorau]))
+		outfile.write(text_to_id(author) + ',' + str(author_total_cites[author]) + ',' + str(author_self_cites[author]) + '\n')
+		if author_self_cites[author]!=0:
+	 		print(text_to_id(author) + ' ' + str(author_total_cites[author]) + ' ' + str(author_self_cites[author]) +' '+ str(author_paper_count[authorau]))
 # for element in data:
 # 	for reference in list(data[element]['references']):
 # 		if reference =='':
@@ -84,12 +84,12 @@ with open('../../output/calc_ocq.csv','w') as outfile:
 # 			jname = data[reference]['publication']
 # 		except KeyError:
 # 			continue
-# 		total_cites[jname] += 1
+# 		author_total_cites[jname] += 1
 # 		if jname == data[element]['publication']:
-# 			self_cites[jname] += 1
+# 			author_self_cites[jname] += 1
 			
 # for name in journal_names:
-# 	self = self_cites[name.strip('\n')]
-# 	total = total_cites[name.strip('\n')]
+# 	self = author_self_cites[name.strip('\n')]
+# 	total = author_total_cites[name.strip('\n')]
 # 	quotient = (total - self)/(total*1.0)
 # 	print(name.strip('\n')+' '+str(total)+' '+str(self)+' '+str(quotient))
