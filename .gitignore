@@ -65,4 +65,5 @@ target/
 # add aminer_publications.txt because of its size
 data/aminer_publications.txt
 data/ACM_Aminer.txt
-
+*/.DS_Store
+.DS_Store
