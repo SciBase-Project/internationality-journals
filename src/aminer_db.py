@@ -45,9 +45,7 @@ while i < len(lines) :
         if line.startswith('#o') :
             i += 1
             continue #paper['affiliations'] = line[len('#o'):]
-        if line.startswith('#t') :
-            i += 1
-            continue #paper['year']         = line[len('#t'):]
+        if line.startswith('#t') :     paper['year']         = line[len('#t'):]
         if line.startswith('#c') :     paper['publication']  = line[len('#c'):]
         if line.startswith('#!') :
             i += 1
