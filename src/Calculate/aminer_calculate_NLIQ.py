@@ -23,6 +23,7 @@ for article in article_list:
 	data[article['index']] = dict(article)
 	try:
 		if article['publication'] not in total_cites:
+			print(article['publication'])
 			total_cites[article['publication']] = 0
 			self_cites[article['publication']] = 0
 			paper_count[article['publication']] = 1
@@ -48,13 +49,13 @@ for element in data:
 with open('../../output/NLIQ.txt','w') as outfile:
 	for name in journal_names:
 		try:
-			self = self_cites[name.strip('\n')]
+			selfc = self_cites[name.strip('\n')]
 			total = total_cites[name.strip('\n')]
 			if total!=0:
-				quotient = (total - self)/(total*1.0)
+				quotient = (total - selfc)/(total*1.0)
 			else:
 				quotient = 0
-			print(name.strip('\n')+' '+str(total)+' '+str(self)+' '+str(quotient) +' '+str(paper_count[name.strip('\n')]) )
+			print(name.strip('\n')+' '+str(total)+' '+str(selfc)+' '+str(quotient) +' '+str(paper_count[name.strip('\n')]) )
 			outfile.write(str(quotient) + '\t' + str(paper_count[name.strip('\n')])+'\n')
 		except KeyError:
 			pass
